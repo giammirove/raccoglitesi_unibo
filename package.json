@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node": "^18.5.0",
+    "node-fetch": "^2.6.6",
+    "readline-sync": "^1.4.10"
+  }
+}
