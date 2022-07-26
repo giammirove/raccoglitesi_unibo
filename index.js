@@ -65,8 +65,17 @@ async function getTesi(docente_url) {
     let res = await fetch(url);
     let source = await res.text();
     const dom = new JSDOM(source).window.document;
+    let tesi = [
+      { nome: "Tesi proposte", tesi: [] },
+      { nome: "Tesi assegnate", tesi: [] },
+    ];
+    let proposte = dom.querySelector(".inner-text");
+    if (proposte) {
+      let text = proposte.innerHTML.trim();
+      tesi[0].tesi.push({ titolo: "Tutte", tesi: [text] });
+    }
+
     let liste = dom.querySelectorAll(".report-list");
-    let tesi = [];
     for (let i = 0; i < liste.length; i++) {
       let titolo = liste[i].querySelector("h4").textContent;
       let tipo = { titolo, tesi: [] };
@@ -75,7 +84,7 @@ async function getTesi(docente_url) {
         let _t = lista_tesi[j].textContent.trim();
         tipo.tesi.push(_t);
       }
-      tesi.push(tipo);
+      tesi[1].tesi.push(tipo);
     }
     return tesi;
   } catch (e) {
@@ -110,10 +119,14 @@ async function generateMarkDown(docenti) {
   for (let i = 0; i < docenti.length; i++) {
     s += `#### ${docenti[i].nome}\n###### ${docenti[i].ruolo}\n[Sito Web](${docenti[i].url})\n`;
     for (let j = 0; j < docenti[i].tesi.length; j++) {
-      let tesi = docenti[i].tesi[j];
-      s += ` - ${tesi.titolo}\n`;
-      for (let k = 0; k < tesi.tesi.length; k++) {
-        s += `   + ${tesi.tesi[k]}\n`;
+      s += ` * ${docenti[i].tesi[j].nome}\n`;
+      let tesi = docenti[i].tesi[j].tesi;
+      for (let k = 0; k < tesi.length; k++) {
+        s += `   - ${tesi[k].titolo}\n`;
+        for (let l = 0; l < tesi[k].tesi.length; l++) {
+          tesi[k].tesi[l] = tesi[k].tesi[l].replace(/\n/gm, "");
+          s += `     + ${tesi[k].tesi[l]}\n`;
+        }
       }
     }
     s += "\n";
@@ -125,6 +138,18 @@ async function saveMarkDown(dip, md) {
   let p = path.join(__dirname, path.join(DIR_NAME, `${dip}_${FILE_NAME}`));
   fs.writeFileSync(p, md);
   return p;
+}
+
+async function test() {
+  for (let i = 0; i < DIPARTIMENTI.length; i++) {
+    let dip = DIPARTIMENTI[i];
+    printLog("Raccolgo docenti e tesi");
+    let docenti = await getDocenti(dip);
+    printLog("Genero il file markdown");
+    let md = await generateMarkDown(docenti);
+    let p = await saveMarkDown(dip, md);
+    printLog(`File generato in \n\t${p}`);
+  }
 }
 
 async function main() {
@@ -148,4 +173,5 @@ async function main() {
   }
 }
 
-main();
+// main();
+test();
