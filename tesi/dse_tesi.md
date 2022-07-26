@@ -3,8 +3,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elettra.agliardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + preparedness for hospitality industry flows,   financial effects and changes in customer’s behavior due to covid-19 impact in Vietnam
@@ -18,8 +16,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/rainer.andergassen)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abuso di posizione dominante: il caso studio di Amazon
@@ -39,8 +35,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/g.angelini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del fenomeno asimmetrico in Italia tra le quotazioni del petrolio e i prezzi di benzina e gasolio
@@ -54,8 +48,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/piergiorgio.ardeni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Casi di sviluppo sostenibile in Asia
@@ -80,8 +72,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.argentesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La collusione tra le imprese e la tutela risarcitoria
@@ -109,8 +99,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/e.bacchiocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Government Debt Sustainability in the Eurozone. Historical evolution, current situation and future perspectives
@@ -120,8 +108,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.bajo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Shortcut to Public Markets: An Analysis of the Motives and the Leaders behind the Resurgent SPAC Trend
@@ -130,8 +116,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/francesca.barigozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Covid-19 and the labor market:women’s unemployment
@@ -143,8 +127,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/matteo.barigozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Measuring the Euro Area Output Gap(s): a Large-Dimensional Dynamic Factor Model approach
@@ -159,8 +141,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.battilani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il modello dell’Albergo Diffuso per un turismo più sostenibile. Il caso del Borgo di Sempronio
@@ -179,8 +159,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.bellettini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Populism and pocketbook voting: evidencefrom Italian municipalities
@@ -189,8 +167,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/corrado.benassi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Does virtual tourism have a future or not?
@@ -202,8 +178,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/carlotta.berticeroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Production Networks and the Macroeconomy
@@ -212,8 +186,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/maria.bigoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The psychology of incentive theory
@@ -233,8 +205,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/stefano.bolatto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis of the Impact of Economic Sanctions: the Crimean Crisis Case
@@ -255,8 +225,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariaelena.bontempi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La politica monetaria e il ruolo della banca centrale durante il COVID
@@ -283,8 +251,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/stefania.bortolotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Disuguaglianze, mobilità sociale e l'importanza dei primi anni di vita: analisi della presenza degli asili nido nel comune di Bologna
@@ -297,8 +263,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/l.bottazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Climate Change and The Economy:\\ from Physical to Transition Risk through a Structural VAR Analysis
@@ -312,8 +276,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/nadia.burani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi microeconomica delle misure in sostegno ai prezzi: il caso della filiera lattiero-casearia sarda
@@ -335,8 +297,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/mauro.carboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dalla ricostruzione al miracolo economico. La trasformazione dell'economia italiana secondo le Relazioni della Banca d'Italia.
@@ -355,8 +315,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/elias.carroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Food and Wine Tourism Post Covid-19: new Trends in Digital Communication
@@ -368,8 +326,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.casari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Climate Analysis of CETA Tariff Reductions
@@ -380,8 +336,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.cavaliere)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Calcolo del Value At Risk con simulazione Montecarlo per un portafoglio finanziario.
@@ -399,8 +353,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/m.cervellati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The Long-Run Effects of Weather and Land Suitability on Growth: An Empirical Investigation for Urban Europe, 1500 - 1900
@@ -484,8 +436,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.denicolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Algorithmic Collusion with Coarse Memory
@@ -501,8 +451,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.dragone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + An Opioid Endemic? Using Pseudo Panel Methods to Examine Trends in Opioid Misuse
@@ -516,8 +464,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.ecchia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + il modello del “for benefit” e l’impatto sulle risorse umane: tre casi studio.
@@ -527,8 +473,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/d.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Does the organizational form of emergency and rescue services influence performances? A Swiss case-study
@@ -547,8 +491,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.fanelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Drivers of inequality: a structural macroeconomic analysis on the role of technological progress
@@ -596,8 +538,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.fiorentini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Artificial Intelligence application to support clinical choices: an economic profile.
@@ -612,8 +552,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/massimo.fornasari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "The Market of the markets". Il Nasdaq e la bolla delle dot-com
@@ -628,8 +566,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/margherita.fort)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Finanza comportamentale, scelta degli investitori e pandemia Covid-19: una revisione della letteratura.
@@ -639,8 +575,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.franzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La resilienza delle startup innovative italiane:il caso Labsitters
@@ -675,8 +609,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/martin.gonzalezeiras)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Inside the bank lending channel in Argentina: a study by loan type
@@ -685,8 +617,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/alice.guerra3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Accommodation taxes: Italy versus other European Countries
@@ -716,8 +646,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/stephanie.heger)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The decision-maker puzzle: Does the framework matter? Risky and ambiguous decisions in a social setting
@@ -732,8 +660,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/daniela.iorio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Breaking down intimate partner violence: a multinomial regression analysis of of risk factors and underlying mechanisms of main male-to-female intimate partner violence by subtypes in Colombia.
@@ -743,8 +669,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/niko.jaakkola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Are Chinese CO2 emissions and carbon plans coherent with the world’s efforts towards climate mitigation?
@@ -756,8 +680,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.lambertini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Responsabilità sociale d'impresa e consumatore verde: un'analisi dell'effetto congiunto in un contesto di oligopolio
@@ -775,8 +697,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.lippibruni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Comparative Analysis between the WHO Guidelines for Biosimilars and the EMA, FDA, ANVISA, and AGEMED Regulations
@@ -799,8 +719,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.manasse)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Fiscal Council" e disciplina di bilancio: un'applicazione del Synthetic Control Method al caso del Canada
@@ -825,8 +743,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/p.masella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + An Empirical Analysis on the Diffusion of Science Using Topic Modeling
@@ -838,8 +754,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.masiero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + What is the role of Brand Equity in luxury hotels of Azerbaijan?
@@ -848,8 +762,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/filippo.massari5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La presenza cinese in Africa: il caso dello Zambia e del Kenya.
@@ -878,8 +790,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.monfardini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Intergenerational transmission of leisure-time physical activity: the case of Italy and the United Kingdom
@@ -891,8 +801,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/natalia.montinari2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Il dilemma di Pareto": interazioni sociali ed ottimo paretiano
@@ -902,8 +810,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/anna.montini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + An inquiry into food waste: its implications and management options
@@ -956,8 +862,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alireza.naghavi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A competitive analysis of the craft brewing industry in Italy
@@ -968,8 +872,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.negroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Disuguaglianza nelle responsabilità delle emissioni e nella vulnerabilità agli effetti del cambiamento climatico alla luce della struttura produttiva dei paesi.
@@ -978,8 +880,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.onorato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Banche centrali e moneta elettronica
@@ -1006,8 +906,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/raimondello.orsini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + An African Growth Miracle?Luci, ombre e sviluppi economici del continente africano
@@ -1033,8 +931,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sergio.pastorello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Algorithmic collusion with imperfect monitoring
@@ -1080,8 +976,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lucio.picci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Stato, sorveglianza, e pratiche giornalistiche innovative. I casi di Stati Uniti d’America, Repubblica Popolare Cinese e Federazione Russa
@@ -1090,8 +984,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.pignataro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Corporate social responsibility il valore sociale dell'economia
@@ -1107,8 +999,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.prarolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Assortative Mating and Income Inequality: Evidence from the City of Bologna
@@ -1119,8 +1009,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/emanuela.randon)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gas Tax and the fuel crisis 2022
@@ -1138,8 +1026,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.rovelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Opportunities and challenges in coal phase-out policies: the European Union and the case of Poland
@@ -1154,8 +1040,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/enrico.santarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Blockchain e Smart Contract per lo sviluppo dell'e-Procurement e la riforma della PA
@@ -1170,8 +1054,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/antonello.scorcu)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli effetti dell'automazione nel mercato del lavoro
@@ -1184,8 +1066,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.tavoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + “The impat of Carbon Price volatility on Firms Profitability, Evidence from the European Carbon Market”
@@ -1200,8 +1080,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/denni.tommasi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Does financial literacy lead to more inclusion? Evidence from Ugandan refugee settings.
@@ -1210,8 +1088,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.toso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Assegno Unico Universale per i figli: verso una riforma delle politiche per la famiglia in Italia
@@ -1222,8 +1098,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.ugolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Asili Nido: un'occasione per la crescita economica e sociale.
@@ -1289,8 +1163,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/rossella.verzulli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Riciclaggio e Antiriciclaggio: un approccio economico allo studio del crimine
@@ -1299,8 +1171,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/matthew.wakefield)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The consumption behaviors analysis based on income shock and shifts in preferences under COVID-19 pandemic
@@ -1309,8 +1179,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/anastasio.xepapadeas)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Climate change and real estate: the implications of sea-level rise on coastal areas' housing market
@@ -1329,8 +1197,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.zanella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Brexit and the labor market outcomes of UK workers: a synthetic control approach

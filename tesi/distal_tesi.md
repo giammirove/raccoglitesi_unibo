@@ -27,8 +27,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/elena.babini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Proprietà, estrazione e applicazioni delle proteine presenti nei sottoprodotti del processo di produzione della birra
@@ -37,8 +35,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/loredana.baffoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Immuno-stimolazione dell'ape: analisi di espressione genica a seguito di somministrazione di batteri benefici
@@ -72,8 +68,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.baraldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + COMPOSTI TOSSICI NELLA DIFESA DELLE PIANTE: dalla strategia Farm to Fork all’RNA interference.
@@ -94,8 +88,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.barbanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alofite per l'agricoltura biosalina: il genere Atriplex
@@ -111,8 +103,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/alberto.barbaresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + utilizzo degli scarti agroalimentari nei materiali da costruzione sostenibili
@@ -160,8 +150,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.bendini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei composti volatili dello spazio di testa di oli vergini prodotti da olive attaccate dalla cimice asiatica
@@ -193,8 +181,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/assunta.bertaccini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Accartocciamento fogliare dell'albicocco: un caso studio in Romagna
@@ -212,8 +198,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/aldo.bertazzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La valorizzazione del territorio attraverso il recupero della castanicoltura nel Partenio
@@ -224,8 +208,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.bigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La razza bovina romagnola: origini, situazione attuale e prospettive
@@ -242,8 +224,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.bordoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio del profilo acilico di due specie ittiche allevate con diete innovative e sottoposte a trattamenti tecnologici non termici
@@ -254,8 +234,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.bosco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di microrganismi estremofili come probiotici per le piante
@@ -264,8 +242,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/sara.bosi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + la canapa: origine, utilizzi e impiego in prodotti alimentari
@@ -283,8 +259,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/samuele.bovo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + EnGNet 2.0: an improved gene co-expressionnetwork inference algorithm based on ensemblestrategies and topology optimization
@@ -327,8 +301,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/maria.caboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alternativa vegetale al burro
@@ -356,8 +328,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.camanzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Italian family wineries business models: how the opening of a proprietary e-commerce affects firm strategies and activities?Evidence from 5 case studies
@@ -443,8 +413,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/chiara.cevoli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione fisica di small cakes:proprietà termiche e diffusive
@@ -456,8 +424,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.chinnici)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adattamento del settore spumantistico alle modificate condizioni del contesto produttivo: il caso studio di un'azienda vitivinicola del territorio modenese
@@ -495,8 +461,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/marina.collina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Attività in ambiente controllato di mezzi tecnici per il contenimento della maculatura bruna del pero.
@@ -507,8 +471,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.contaldo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della variabilità genetica di ceppi di flavescenza dorata in Veneto
@@ -529,8 +491,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.corelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + applicazione di una rete neurale per la classificazione del grado di maturazione delle mele
@@ -548,8 +508,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.dallarosa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Campi elettrici a radio frequenze come trattamento non termico degli alimenti
@@ -569,8 +527,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/stefania.dallolio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fattori che influenzano lo sviluppo della ghiandola mammaria
@@ -604,8 +560,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/diana.digioia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Biogas recovery during co-digestion of sludges produced at food and textile industries
@@ -670,8 +624,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.dondini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione di geni candidati associati all'habitus spur nel melo
@@ -694,8 +646,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luca.falasconi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura sostenibile: il ruolo della Comunità Europea nel processo di sviluppo del settore agricolo italiano
@@ -721,8 +671,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.filippetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di correttivi a base di elementi minerali e lisato di lievito per migliorare la maturità fenolica di uve rosse, in vigneti sottoposti a stress estivi multipli.
@@ -741,8 +689,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.fontanesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A catalogue of commercially available SNPchips for breed origin and product authenticity in cattle
@@ -771,8 +717,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ornella.francioso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura biodinamica tra scienza e filosofia: critiche attuali
@@ -784,8 +728,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.frascaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi di germoplasma italiano di mais per caratteristiche radicali di adattamento ad ambienti limitanti
@@ -794,8 +736,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/tullia.gallinatoschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Determinazione degli steradieni in oli di semi di canapa
@@ -809,8 +749,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/fausto.gardini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Biodiversità di salami europei fermentati spontaneamente
@@ -822,8 +760,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/rino.ghelfi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi tecnico economica di una varietà di actinidia a polpa gialla
@@ -857,8 +793,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mariaeva.giorgioni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Lo sviluppo delle filiere corte nel settore floricolo in Italia:il movimento delle Slow Flower
@@ -894,8 +828,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/l.laghi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Utilizzo della tecnologia NMR per la caratterizzazione metabolomica del Mugil cephalus
@@ -904,8 +836,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rosalba.lanciotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Lieviti criotolleranti e loro ruolo nel settore enologico
@@ -946,8 +876,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.maccaferri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio del carattere della fertilità della spiga in una popolazione biparentale di frumento duro (Relief x Iride)
@@ -981,8 +909,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.malorgio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il mercato business to business nel settore vitivinicolo
@@ -996,8 +922,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gerardo.manfreda)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + gelato: fonte di batteri patogeni e veicolo di batteri probiotici
@@ -1012,8 +936,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/luigi.manfrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + “double guyot” training system on apple tree: crop load and its effect on vegetative and fruit quality parameters
@@ -1041,8 +963,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.marotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Estrazione ed analisi della bioattività di oli essenziali ed acque aromatiche da specie vegetali appartenenti alla famiglia Labiatae.
@@ -1059,8 +979,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.martini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti delle onde elettromagnetiche sugli insetti: aspetti ecologici e di difesa
@@ -1071,8 +989,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.marzadori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Destino del carbonio organico derivante da Miscanto a sei anni dal cambio di gestione agronomica e colturale
@@ -1084,8 +1000,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/antonio.masetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attività insetticida di sulfoxaflor e acetamiprid su Planococcus ficus (Signoret)
@@ -1102,8 +1016,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.mattarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Escherichia coli nei reflui suini: antibiotico resistenza e attività antibatterica di oli essenziali
@@ -1119,8 +1031,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.mattetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + stabilita' di canali di bonifica e progettazione del loro risezionamento.
@@ -1129,8 +1039,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/adele.meluzzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + allevamento della faraona da carne nel sistema antibiotic free
@@ -1152,8 +1060,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alberto.minelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dal paesaggio lombardo al giardino all’inglese Un nuovo volto per lo studio ‘Linea Giardino’
@@ -1176,8 +1082,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/a.monti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + biocarburanti avanzati a basso impatto iluc - indirect land use change
@@ -1200,8 +1104,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/brunella.morandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cambiamento climatico: gli effetti sulla fisiologia delle piante arboree e le possibili tecniche di coltivazione per l'adattamento
@@ -1220,8 +1122,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.mulazzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi e studio dei comportamenti dei consumatori durante l’acquisto di prodotti ortofrutticoli
@@ -1232,8 +1132,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.muzzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ANALISI DELLA DIFFUSIONE DI Clematis vitalba L. IN UN INTERVENTO DI RECUPERO AMBIENTALE IN UN’AREA ESTRATTIVA
@@ -1261,8 +1159,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/piero.nasuelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La strategia di vendita multicanale nella filiera della carne bovina
@@ -1278,8 +1174,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.noli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dagli OGM al Genome Editing: presente e futuro delle biotecnologie vegetali
@@ -1307,8 +1201,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.padalino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + approccio fisiologico ed etologico allo studio dell’adattamento di bovine di razza frisona dalla mungitura convenzionale a quella automatica
@@ -1326,8 +1218,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giusi.parpinello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "La gestione delle tecniche di vinificazione per la tutela degli aromi varietali"
@@ -1343,8 +1233,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/federica.pasini5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I sottoprodotti della birra
@@ -1361,8 +1249,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/frederique.pasquali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione genomica di isolati di Klebsiella spp. in formaggio artigianale fresco a pasta molle
@@ -1373,8 +1259,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.patrignani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Valutazione della qualità microbiologica di prodotti vegetali a base di Hummus"
@@ -1387,8 +1271,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/giuseppina.pennisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + EFFETTI DELL’INTEGRAZIONE DI FAR RED NELLA COLTIVAZIONE INDOOR DI BASILICO (Ocimum basilicum L.)
@@ -1398,8 +1280,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/m.petracci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetto visivo delle carni confezionate
@@ -1443,8 +1323,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.pezzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + irroratrici a tunnel: valutazione della qualità della distribuzione in un vigneto collinare
@@ -1455,8 +1333,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/carlo.poggipollini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studi epidemiologici su Phyllosticta ampelicida (Engelm.) in comprensori viticoli della provincia di Trento
@@ -1471,8 +1347,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.prodi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Armillaria mellea: malattia biotica comune nelle Drupacee
@@ -1487,8 +1361,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.gianquinto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura di precisione: hyperspectral imaging come tecnica di diagnosi di nutrizione azotata e stato fitosanitario della coltura.
@@ -1503,8 +1375,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.ragazzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della convenienza tecnico-economica della realizzazione di campi da calcio: confronto tra erba naturale e sintetica
@@ -1521,8 +1391,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luigi.ragni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Messa a punto di una tecnica riflettometrica di basso costo per la caratterizzazione di matrici agroalimentari
@@ -1531,8 +1399,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/claudio.ratti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agrocloni di sistemi virali per studi di genetica inversa in planta
@@ -1570,8 +1436,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/roberta.roberti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Biologia ed Epidemiologia di Plasmopara Viticola e Strategie di Difesa
@@ -1584,8 +1448,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pietro.rocculi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Applicazione dell'acqua attivata al plasma (PAW) ed implementazione di un sistema di visione computerizzata (CVS) per il controllo e la valutazione della melanosi nei crostacei
@@ -1602,8 +1464,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/maria.rodriguez)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Recupero e riutilizzo dei sottoprodotti della lavorazione del latte: il caso delle sieroproteine
@@ -1623,8 +1483,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/santina.romani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impiego della diffrazione laser per la standardizzazione della macinazione del caffè
@@ -1653,8 +1511,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valda.rondelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'automazione nell'allevamento dei bovini: un veicolo robotizzato per la pulizia della stalla
@@ -1669,8 +1525,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/silvio.salvi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + potenzialità delle tecniche di editing genomico per aumentare la tolleranza agli stress abiotici nelle piante coltivate
@@ -1707,8 +1561,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.segre)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cambiamento climatico e pattern di acquisto del consumatore nel settore agro-industriale
@@ -1723,8 +1575,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.setti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Le determinanti socio-economiche della propensione all’innovazione degli agricoltori dei Paesi in via di sviluppo: il caso studio del Marocco e della Tanzania
@@ -1734,8 +1584,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.sgolastra2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dose letale acuta di sulfoxaflor da solo ed in combinazione con un fungicida pirazolo-carbossiammide sull'apoideo solitario Osmia bicornis
@@ -1758,8 +1606,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/federico.sirri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il colore del tuorlo: importanza dei pigmenti dietetici
@@ -1771,8 +1617,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesca.soglia2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Confronto delle caratteristiche qualitative e delle proprietà tecnologiche delle carni di polli appartenenti a due genetiche differenti
@@ -1783,8 +1627,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/roberta.spadoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi degli standard volontari relativi alla tracciabilità e alla sicurezza del prodotto. Funzionalità e prospettive di una piattaforma collaborativa.
@@ -1819,8 +1661,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giulia.tabanelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Attività antimicrobica di oli essenziali estratti da macroalghe brune e piante della costa adriatica orientale
@@ -1832,8 +1672,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/silvia.tappi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetto di un trattamento innovativo di affumicatura a freddo sulle caratteristiche chimico-fisiche e sensoriali di filetti di salmone
@@ -1855,8 +1693,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.tartarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Annona muricata L. Composizione, Valore nutrizionale, Usi e Tossicologia
@@ -1875,8 +1711,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.tassinari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cambiamenti climatici nelle città: il verde urbano come strategia di mitigazione.
@@ -1886,8 +1720,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniele.torreggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Reti di mobilità dolce per la valorizzazione e la scoperta del paesaggio: definizione di un masterplan per il territorio rurale dell'Alto Ferrarese
@@ -1910,8 +1742,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/moreno.toselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetto del metodo di fertirrigazione sulle proprietà organolettiche delle albicocche
@@ -1931,8 +1761,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.trevisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comportamenti aggressivi nei suini in fase di svezzamento: morsicatura della coda e caudotomia
@@ -1951,8 +1779,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.tuberosa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio della resistenza al virus del mosaico dei cereali mediante osservazioni fenotipiche e qPCR
@@ -1963,8 +1789,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/urszula.tylewicz)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione dei Campi Elettrici Pulsati (PEF) per l'estrazione proteica da fonti vegetali e alternative
@@ -1980,8 +1804,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/enrico.valli4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Olive pomace valorisation: recovery of high added-value components and other technological strategies
@@ -1991,8 +1813,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lucia.vannini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Strategie biotecnologiche per la valorizzazione di sottoprodotti agro-alimentari
@@ -2001,8 +1821,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.varani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura 4.0: elementi per valutarne la convenienza economica
@@ -2029,8 +1847,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.versari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Frodi alimentari e controlli nel settore vitivinicolo
@@ -2042,8 +1858,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.viaggi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il ruolo della PAC per lo sviluppo sostenibile: l’importanza del sostegno pubblico in agricoltura attraverso l’analisi di un caso studio dell’Emilia-Romagna
@@ -2065,8 +1879,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.vicari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Confronto produttivo tra varietà commerciali ed accessioni locali dierba medica nella collina reggiana del comprensorio produttivo delformaggio Parmigiano Reggiano DOP
@@ -2082,8 +1894,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/livia.vittori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione pedologica dei suoli in località Capanno Tassoni (Alto Appennino Modenese)
@@ -2122,8 +1932,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandr.zambonelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi degradativa del polietilene a bassa densità (LD-PE) da parte di miceli fungini
@@ -2154,8 +1962,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cesare.zanasi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio sulle esportazioni cinesi di tè nell'UE

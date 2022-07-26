@@ -3,8 +3,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.agnoletto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + ALBARUS. Il recupero di un nucleo rurale abbandonato all'interno di un programma di riqualificazione e valorizzazione del Parco Storico di Monte Sole.
@@ -27,8 +25,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ernesto.antonini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Reduction of paradox in daylight analysis
@@ -43,8 +39,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/micaela.antonucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + “Volevo farmi una casa”. Leonardo Ricci e il villaggio di Monterinaldi: architettura, tecnica e concezione strutturale
@@ -76,8 +70,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.boeri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Quartiere residenziale INA-Casa "Le Vigne": un progetto di comunità urbana tra spazi pubblici e nuove forme dell'abitare
@@ -92,8 +84,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marcoalvise.bragadin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'ottimizzazione della progettazione tecnologica di un elemento di involucro edilizio con gli algoritmi genetici. Caso di studio.
@@ -120,8 +110,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/matteo.cassani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Conservazione è rivoluzione. Il Piano PEEP centro storico e le politiche culturali a Bologna (1960-1980)
@@ -136,8 +124,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/flaviano.celaschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi Dati per Nuovi Strumenti di Allenamento
@@ -169,8 +155,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luca.cipriani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La Torre di Maratona e lo stadio di Bologna. La modellazione BIM di un simbolo bolognese.
@@ -223,8 +207,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.esposito9)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "A vita nuova restituito": recupero dello stabilimento Campolmi a Firenze
@@ -244,8 +226,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.fallavollita)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il modello del Digital Twin per la Rigenerazione Urbana
@@ -255,8 +235,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/filippo.fantini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modelli digitali per l’interazione: una pipeline per ottimizzare i dati da sensori attivi e passivi
@@ -272,8 +250,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/saverio.fera)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Atene e la sua Acropoli. Identità e memoria nella riscrittura di antichi luoghi
@@ -282,8 +258,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/annarita.ferrante)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Express methodology for the assessment of the circularity level as an effective tool to support deep renovation interventions
@@ -296,8 +270,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.formia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bologna crocevia tra Lirica e Design: creazione di un sistema-prodotto per la valorizzazioni del progetto “Scatti d’Opera”
@@ -322,8 +294,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/simone.garagnani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il processo di gestione informativa BIM per il progetto di un ponte in c.a.p.: la modellazione digitale del ponte Remorino a Minusio (Svizzera)
@@ -336,8 +306,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/jacopo.gaspari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Com.presa Strategia di comunità per l'imprenditoria giovanile. Un'esperienza oltre le aree interne.
@@ -349,8 +317,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.gentilini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli ultrasuoni nel monitoraggio del calcestruzzo
@@ -363,8 +329,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valentina.gianfrate)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + nestchip - design per l'abilitazione del recupero del rifiuto speciale industriale
@@ -394,8 +358,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.guardigli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del processo progettuale di un edificio in legno: caso di studio di una abitazione a Lavezzola
@@ -426,8 +388,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.gulli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il Nuovo Municipio di Civitella del Tronto - Progetto di adeguamento funzionale e prestazionale
@@ -450,8 +410,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/danila.longo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Martket - creazione di valore economico e culturale per la città attraverso l'arte invisibile
@@ -462,8 +420,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gino.malacarne)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Foro e recinto: radici dell'abitare collettivo
@@ -484,8 +440,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.marata)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ANALISI, CONFRONTO E PROTOTIPAZIONE DI BORSA DA SERBATOIO PER MOTO HONDA VFR800X Crossrunner
@@ -517,8 +471,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/andreina.milan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Cuore verde a Mirandola"Una residenza privata unifamiliare priva di barriere                                                     architettoniche
@@ -533,8 +485,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valentina.orioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il Piano Urbanistico Generale di Mercato Saraceno, Bagno di Romagna e Verghereto dalla strategia ai progetti: un ecomuseo per l'Alta Valle del Savio
@@ -543,8 +493,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giorgia.predari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Evoluzione della normativa italiana sul calcestruzzo armato e verifica della rispondenza su alcuni casi di studio selezionati.
@@ -563,8 +511,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.pretelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il palazzo della provincia di Ravenna: alcune riflessioni sul rapporto tra conservazione e sicurezza
@@ -582,8 +528,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/angela.santangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Pre-disaster recovery roadmap. Guidelines to prepare governments for disasters and their application to the city of Ravenna
@@ -593,8 +537,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/maura.savini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Progetto per il riassetto dell'area Ex Caserma Mazzoni
@@ -604,8 +546,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andreas.sicklinger)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ARTIFEX: nuove prospettive digitali per la competitività dell'artigianato
@@ -644,8 +584,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/leila.signorelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + GUIDELINES AND MANAGEMENT MODELS FOR THE REUSE OF THE ECCLESIASTICAL HERITAGE - Critical analysis and application on case studies in the city of Milan
@@ -666,8 +604,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.trentin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Conversione e ri-funzionalizzazione del Mercato Coperto di Rimini
@@ -694,8 +630,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.turillazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + How Tools - Educare ai media, nei media
@@ -706,8 +640,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/a.ugolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Conservazione e valorizzazione dell'Anfiteatro Romano di Ancona
@@ -725,8 +657,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.zannoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + 3Dcase - Protezione e miglioramento della stampa 3D consumer

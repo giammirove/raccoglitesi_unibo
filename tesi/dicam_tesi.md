@@ -19,8 +19,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/renata.archetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis of floating photovoltaic systems and their future role in the green economy
@@ -67,8 +65,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.bertin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e prospettive per il settore dei biopolimeri
@@ -96,8 +92,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/elena.biagi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Variazioni nel microbiota dei compartimenti del corallo Balanophyllia europaea, in risposta ai cambiamenti  stagionali e all'acidificazione del mare
@@ -106,8 +100,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/maria.bignozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio della resistenza a corrosione in ambiente alcalino di leghe metalliche per l'industria meccanica.
@@ -163,8 +155,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.bondua)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Gold Mining remediation methods
@@ -246,8 +236,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/lisa.borgatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Indagini propedeutiche al consolidamento della parete rocciosa del Monte della Roccaccia sovrastante l'abitato di Santa Rita (RN)
@@ -259,8 +247,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/villiam.bortolotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Estrazione di Litio da Fluidi Geotermici
@@ -272,8 +258,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristiana.bragalli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi dell’impatto della rete di distribuzione idrica sulla qualità dell’acqua
@@ -291,8 +275,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.bruno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Determination of the cost function for tunnel blasting and analysis of automation feasibility and benefits
@@ -321,8 +303,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valeria.cassonmoreno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi comparativa di tecnnologie per l'elettrolisi dell’acqua
@@ -341,8 +321,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/attilio.castellarin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Presentazione del progetto Life+ Con.Flu.Po.: "Ripristino della connettività fluviale nel bacino del Fiume Po"
@@ -378,8 +356,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.celli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Preparazione e caratterizzazione di nuove formulazioni a base di Poli(idrossialcanoati) per lo sviluppo di materiali sostenibili
@@ -388,8 +364,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/serena.ceola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi delle interazioni tra dighe, densità di popolazione e caratteristiche climatiche a scala di bacino negli Stati Uniti d'America continentali
@@ -511,8 +485,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.demiranda)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sulle deformazioni indotte dalla cristallizzazione di sali in materiali porosi
@@ -537,8 +509,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.ditommaso3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Opportunity analysis of collective processes in public space as a sustainable way to improve living standards in South Korea
@@ -583,8 +553,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giulio.dondi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del progetto della variante alla strada statale Porrettana nei pressi del nodo di Casalecchio di Reno
@@ -603,8 +571,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/p.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Life Cycle Assessment (LCA) of methanol production via gasification of mixed plastic waste
@@ -618,8 +584,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/nicholas.fantuzzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis and Challenges in Bubble Curtain Technologies
@@ -640,8 +604,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabio.fava)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + produzione di biogas dagli scarti della lavorazione dell’alga ulva lactuca coltivata in mare aperto
@@ -650,8 +612,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.ferretti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sistemi di stampa 3D applicati alle costruzioni: evoluzione delle tecniche e studio sperimentale sulle proprietà meccaniche degli impasti terrosi
@@ -666,8 +626,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisa.franzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Dichiarazione Ambientale di Prodotto come strumento verso una         maggiore sostenibilità dei materiali da costruzione
@@ -707,8 +665,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/a.fregni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del degrado dei materiali da costruzione per un’ipotesi di recupero e riqualificazione: il caso del Borgo di Fiagnano
@@ -717,8 +673,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.gandolfi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'impiego di Sistemi Informativi Territoriali per l'analisi finalizzata al monitoraggio dei fenomeni franosi con tecnologia SAR
@@ -740,8 +694,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.giacinti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Prove sperimentali di assorbimento su Nanocellulosa e PLA per applicazioni nel packaging alimentare
@@ -764,8 +716,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/claudio.gioia2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La rivoluzione dei materiali biodegradabili: studio sulla fattibilità economico-sostenibile delle capsule di caffè.
@@ -787,8 +737,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/guido.gottardi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione della sabbia per prove su modello fisico in piccola scala del fenomeno di backward erosion piping
@@ -806,8 +754,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/l.govoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Interaction diagrams for circular foundations in soft clay using finite element limit analyses(FELA)
@@ -838,8 +784,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/l.landi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progetto di una struttura controventata in acciaio in zona sismica
@@ -868,8 +812,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/claudio.lantieri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del comportamento degli utenti sulla strada statale 744 Fogliense
@@ -894,8 +836,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/nadia.lotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli idrogeli polimerici per il trattamento delle patologie cardiache
@@ -905,8 +845,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/camilla.luni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazioni della paper microfluidics in applicazioni diagnostiche
@@ -923,8 +861,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.maglionico)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modellazione numerica del sistema fognario di parte della città di Ravenna
@@ -936,8 +872,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.mancini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei consumi energetici di impianti di trattamento acque urbane a fanghi attivi
@@ -960,8 +894,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.mantecchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Elettrificazione del trasporto pubblico urbano: analisi dell’esercizio di una linea e impatto delle strategie di ricarica
@@ -976,8 +908,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.manzi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Playo - Il piccolo paradiso sull'albero
@@ -988,8 +918,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/michela.marchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Indagini in sito per la caratterizzazione geotecnica dell’area di Santa Croce a Ravenna.
@@ -1012,8 +940,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.marzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis of Wind-resistant Cable Suspension Bridge Based on Finite Element Software
@@ -1035,8 +961,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.mazzotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi di fragilità di strutture ricettive della zona costiera dell'Emilia-Romagna
@@ -1073,8 +997,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ezio.mesini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi sul peso degli idrocarburi in un contesto mondiale
@@ -1090,8 +1012,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/alfonso.micucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Registratore di dati di evento (EDR). Regolamento europeo 2019/2144 e caso studio.
@@ -1101,8 +1021,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.minelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del meccanismo di formazione di bolle d’aria in circuiti idraulici frenanti
@@ -1149,8 +1067,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.montanari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Simulazione di un caso di rotta arginale in destra fluviale Reno e confronto dei risultati con il modello d’intervento del sistema di Protezione Civile Emilia Romagna
@@ -1166,8 +1082,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/antonio.palermo6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + An analytical model for seismic site-city interaction.
@@ -1176,8 +1090,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/michele.palermo7)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Computational design of wire-and-arc additively manufactured tree-like columns with sandwich cross-sections
@@ -1220,8 +1132,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marianadia.postorino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Nuovi scenari di trasporto: la sfida dell'Urban Air Mobility
@@ -1231,8 +1141,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luca.pozza2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi e studio del comportamento flessionale di pannelli sandwich in CLT con anima in schiuma poliuretanica a bassa e alta densità; Caratterizzazione e confronto.
@@ -1248,8 +1156,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/noura.raddadi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazioni dei microorganismi cheratinolitici e loro enzimi: stato dell'arte e prospettive future
@@ -1263,8 +1169,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/federico.rupi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei flussi su reti ciclabili: metodologie di rilevamento dei flussi. Applicazione delle metodologie alla rete ciclabile di Bologna. Ricostruzione del trend dal 2009 ad oggi.
@@ -1345,8 +1249,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cesare.sangiorgi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di conglomerati bituminosi superficiali prodotti in sito con fresa riciclatrice e additivi chimici funzionali
@@ -1381,8 +1283,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.savoia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modellazione e progettazione di un edificio simmetrico in calcestruzzo armato
@@ -1409,8 +1309,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/joerg.schweizer)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi basata sulla microsimulazione di una flotta ride-hailing costituita da Shared Autonomous Vehicles (SAV) in un contesto urbano.
@@ -1448,8 +1346,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.simone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi e studio di interventi di manutenzione straordinaria di Infrastrutture Viarie: il caso studio del cantiere Anas nella Galleria Valbiano
@@ -1467,8 +1363,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.sisti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adesivi da fonti rinnovabili: proprietà e applicazioni
@@ -1478,8 +1372,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/m.soccio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Miscele polimeriche di poliesteri a base di acido 2,5-furandicarbossilico per nuovi imballaggi sostenibili
@@ -1500,8 +1392,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.tonni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Strategie per la modellazione numerica dei fenomeni di filtrazione in argine mediante un codice di calcolo agli elementi finiti
@@ -1512,8 +1402,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/grazia.totaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fine vita dei biopolimeri
@@ -1523,8 +1411,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.toth)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi preliminari per la modellazione della stabilità di una sponda fluviale vegetata in seguito ad eventi di piena
@@ -1542,8 +1428,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/tomaso.trombetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A design approach for Wire-and-Arc Additively Manufactured stainless-steel elements
@@ -1589,8 +1473,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valeria.vignali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I sistemi di segnalamento ferroviari
@@ -1610,8 +1492,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.vittuari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sensori innovativi per il rilievo fotogrammetrico e LiDAR tramite SAPR
@@ -1621,8 +1501,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giulio.zanaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Elettrostimolazione della dealogenazione riduttiva dei PCB in un sedimento marino
@@ -1638,8 +1516,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.zanutta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il raddrizzamento semplice per la realizzazione di prospetti del patrimonio edilizio e analisi numeriche in ambiente GIS.
@@ -1651,8 +1527,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.zanuttigh)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Erosione costiera: modellazione numerica di Cesenatico ponente

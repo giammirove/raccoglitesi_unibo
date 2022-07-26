@@ -3,8 +3,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/michele.alacevich)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Fiscal contract and collective action:A comparative study on tax compliance in Italy and Sweden
@@ -24,8 +22,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.allodi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La cultura albanese nel suo sviluppo storico-sociologico
@@ -35,8 +31,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.alvisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La libertà di manifestazione del pensiero: tra lesione dei diritti inviolabili e censura
@@ -53,8 +47,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.bagni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + climate change and intergenerational responsibility: a duty to care for future generations
@@ -71,8 +63,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.balboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Come la distruzione del patrimonio culturale riduce la sicurezza internazionale: dalla questione di sicurezza al diritto internazionale
@@ -82,8 +72,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/brunetta.baldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La democrazia deliberativa: il caso studio della Provincia Autonoma di Bolzano.
@@ -96,8 +84,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/gianfranco.baldini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alternative für Deutschland: vera alternativa?
@@ -145,8 +131,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.baritono)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + AFFARE DI STATO COINTELPRO: l'operazione dell'FBI contro il nazionalismo nero statunitense
@@ -161,8 +145,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eugenia.baroncelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Exploring the Humanitarian-Development-Peace Nexus: Lessons from Colombia
@@ -172,8 +154,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.bassi7)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il dono organizzativo. Teoria e studio delle attività di Sostegno a Distanza di ActionAid Italia
@@ -183,8 +163,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/m.battistini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + gli stati uniti e l’esportazione della democrazia: modernizzazione e nation building
@@ -200,8 +178,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sergio.belardinelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dialogo interculturale e convivenza pluralistica. Analisi dei fenomeni identitari tra multiculturalismo e liberalismo.
@@ -212,8 +188,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.biancani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il Ruolo della Religione in Politica Estera: La Crisi degli Ostaggi del 1979 a Teheran
@@ -226,8 +200,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/stefano.bianchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Romanian interethnic dialogue with the Hungarian minority after 1989
@@ -246,8 +218,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.bordandini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I Partiti Digitali: Il MoVimento 5 Stelle e La République en Marche!
@@ -258,8 +228,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.borraccetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "I limiti degli strumenti dell'Unione a tutela dei valori fondamentali ex art. 2, TUE alla luce del caso polacco"
@@ -291,8 +259,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giliberto.capano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il policy design della gestione del primo anno di emergenza COVID-19 in Italia.
@@ -301,8 +267,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/saveria.capecchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alimentazione e norme confessionali: il caso McDonald's
@@ -350,8 +314,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/daniela.cavallini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I casi "Veleno" e "Angeli e Demoni": il riconoscimento dell'abuso sessuale e la tutela del minore
@@ -366,8 +328,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/michela.ceccorulli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "The Game" and the EU fortress
@@ -390,8 +350,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.cesa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + IR Theory and US-China Relations
@@ -412,8 +370,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/asherdaniel.colombo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le dimensioni umane delle Primavere arabe
@@ -425,8 +381,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.dallara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il mutamento organizzativo, a causa della malattia COVID-19, dell’Ospedale Sant’Orsola Malpighi"
@@ -450,8 +404,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/nicola.deluigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le disuguaglianze di genere nel mercato del lavoro italiano e il ruolo delle politiche di conciliazione
@@ -460,8 +412,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.dian2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Accession to the WTO in Central Asia: A Comparative Study of Kazakhstan and Kyrgyzstan
@@ -490,8 +440,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.fiori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + China’s Environmental Policy: Between Global Impacts and National Interests
@@ -516,8 +464,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.gargiulo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Loggia ricordata
@@ -538,8 +484,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lorenza.gattamorta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Distopie digitali: il caso Black Mirror
@@ -550,8 +494,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giampiero.giacomello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I dati personali e la loro influenza nelle elezioni: Il caso di Cambridge Analytica
@@ -597,8 +539,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/daniela.giannetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della corruzione e delle strategie di contrasto nella Repubblica di Moldavia
@@ -622,8 +562,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.giorgini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Essere Principe nell'emergenza: Lezioni di Crisis Management in Machiavelli"
@@ -658,8 +596,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/chiara.gius)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dal Celebrity Humanitarianism all'Influencer Marketing: nuove strategie di comunicazione umanitaria delle ONG in Italia
@@ -689,8 +625,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.irrera2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + la moderna teoria politica aristotelica
@@ -704,8 +638,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/pina.lalli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “L'ho uccisa perché mi ha attaccato il coronavirus”. Cornici di significato nella cronaca giornalistica del femminicidio durante l’anno della pandemia
@@ -796,8 +728,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marialaura.lanzillo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alexis de Tocqueville e i rischi della democrazia
@@ -822,8 +752,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/giuliana.laschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + «L’Europe c’est quoi?»: un progetto di Costituzione per l’Europa
@@ -837,8 +765,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/renata.lizzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Global Climate Change and EU Climate Diplomacy
@@ -870,8 +796,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paulmatthew.loveless)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Buy One, Get One Free: Political Consumerism as Political Participation
@@ -883,8 +807,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/sonia.lucarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Conosci te stesso: la cultura strategica italiana e le missioni militari all'estero
@@ -897,8 +819,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/elena.macchioni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + E' realistico o no pensare a una società sessualmente egualitaria? Disuguaglianze di genere nel mondo del lavoro
@@ -914,8 +834,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/d.mantovani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'autopsia sociologica nei casi di suicidio
@@ -932,8 +850,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.martignani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Eurasia: Ideologia Rossobruna e Propaganda nella filosofia sociale di Aleksandr Gel'evič Dugin.
@@ -963,8 +879,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/antonella.mascio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “IL FENOMENO DIANA”Lady Diana e l'importante ruolo svolto dai media nei giorni successivi alla sua morte
@@ -1055,8 +969,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.moro4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + (In)Action? The United Nations' Intervention in Conflict under the Responsibility to Protect
@@ -1080,8 +992,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/rosa.mule)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comparing capitalist political economies: income inequality in Ireland and Germany 2000-2018. The role of labour market reforms and adjustment to the crisis
@@ -1092,8 +1002,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/arrigo.pallotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Africa and climate change: vulnerabilities, policies and the cooperation with the EU
@@ -1118,8 +1026,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giorgia.pavani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Fake News in Sud America: sulla via della regolazione?
@@ -1129,8 +1035,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.pederzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Partido Socialista Obrero Español (PSOE) e il Labour Party: risultati elettorali e cambio di leadership dagli anni Novanta ad oggi
@@ -1142,8 +1046,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lucio.pegoraro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Come la pandemia (non) ha cambiato la dottrina pubblicistica
@@ -1156,8 +1058,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.pinto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La formazione dei governi: modelli teorici e applicazione al caso italiano
@@ -1180,8 +1080,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.prandini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Intimità nelle dating apps nella Cina contemporanea
@@ -1197,8 +1095,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesco.privitera)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Daugavpils nella storia della Lettonia, tra tempi e processi mancati
@@ -1217,8 +1113,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.profeti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi dei fattori che determinano l’avvio dei processi di fusione in Italia
@@ -1241,8 +1135,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/marco.puleri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Cultural relations between Azerbaijan and Russia: the role of cultural diplomacy in historical perspective
@@ -1255,8 +1147,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/lucia.quaglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The analysis of the European research policy and of its main instrument, the Framework Programme.
@@ -1266,8 +1156,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/francesco.ragno3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La violenza in Colombia : origine e sviluppo del conflitto armato
@@ -1276,8 +1164,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sabrina.ragone2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Externalization of the European migration policy through informal agreements. The case studies of Turkey and Afghanistan.
@@ -1287,8 +1173,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.raschi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Democrazia e liberalismo tra Carl Schmitt e Norberto Bobbio
@@ -1297,8 +1181,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.rescigno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi comparativa, diacronica e sincronica del concetto di Cittadinanza
@@ -1322,8 +1204,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.rizza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Conciliazione famiglia-lavoro. La complessa ricerca di un equilibrio
@@ -1349,8 +1229,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/federica.santangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il processo di Othering nel contesto europeo moderno: studio sulla percezione del migrante in Italia
@@ -1365,8 +1243,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/barbara.saracino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Etnografie multidimensionali. Una riflessione su quattro ricerche in quartieri popolari
@@ -1391,8 +1267,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.sciara3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Una teoria della giustizia" di John Rawls e i suoi critici
@@ -1421,8 +1295,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.terenzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Comunicazione politica: limiti ed opportunità dei social media. Il caso di Matteo Salvini”
@@ -1444,8 +1316,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/corrado.tornimbeni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Delta del Niger: impatto delle multinazionali petrolifere e movimenti di emancipazione. Dal pacifismo post-coloniale alla lotta armata
@@ -1469,8 +1339,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/federico.toth)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Comparative Analysis of the COVID-19 Vaccine Procurement and Prioritization Strategies and their Realized Implementations in Israel, Portugal, Hungary, and the United Kingdom
@@ -1480,8 +1348,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.trentin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + 1982: Guerra delle Falkland/MalvinasAnalisi di un conflitto, tra il fallimento della diplomazia e la ricerca del prestigio
@@ -1513,8 +1379,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/filippo.tronconi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dalla Casa del popolo all'aperitivo. L'evoluzione organizzativa ed identitaria delle organizzazioni giovanili di Sinistra in Emilia Romagna
@@ -1533,8 +1397,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/augusto.valeriani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Comunicazione e Innovazione nei Musei Pubblici: le Gallerie degli Uffizi su TikTok
@@ -1553,8 +1415,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/sofia.ventura)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Da Giuseppe Conte a Mario Draghi, il meaning making italiano nella gestione della crisi sanitaria da Sars-Cov-2
@@ -1579,8 +1439,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/susanna.vezzadini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “ la devianza giovanile: dall’origine delle baby gang alla paranza dei bambini “
@@ -1613,8 +1471,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.zambernardi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + COIN in Afghanistan: Western Achievements and Failures
@@ -1647,8 +1503,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mario.zamponi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Congo – tra colonialismo e crisi dell’indipendenza
@@ -1670,8 +1524,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/loris.zanatta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La comunidade nikkei - Un'analisi storico-sociale dalle esperienze di 145 nippo-brasiliani

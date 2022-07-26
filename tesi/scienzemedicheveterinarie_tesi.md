@@ -3,8 +3,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/pierattilio.accorsi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell'activity budget di Cervus elaphus e Dama dama in ambiente controllato
@@ -53,8 +51,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.bacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + ESPRESSIONE DELLE PROTEINE DEL CICLO CELLULARE p53, p16, pRB E CICLINA D1 NEI CARCINOMI SQUAMOCELLULARI DEL CAVALLO
@@ -73,8 +69,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/anna.badiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attività del Panel Residente in Analisi Sensoriale dei Prodotti Ittici (PRAS.pro.it)
@@ -86,8 +80,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/a.balboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Identificazione e caratterizzazione genetica di adenovirus canino in cani in Romania
@@ -97,8 +89,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/vito.baldassarro2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sistemi in vitro per lo screening degli effetti di inquinanti ambientali sullo sviluppo, come metodo alternativo alla sperimentazione animale.
@@ -113,8 +103,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mara.battilani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Applicazione di metodiche molecolari per l’identificazione e la caratterizzazione genetica del virus dell’immunodeficienza felina (FIV) in gatti sieropositivi
@@ -128,8 +116,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cinzia.benazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Valutazione delle Patologie gastriche indotte dall' infezione da Helicobacter spp. nel Cane
@@ -144,8 +130,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuliano.bettini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Alterazioni genetiche ed epigenetiche nel carcinoma squamocellulare orale felino
@@ -154,8 +138,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.biagi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Effetti di diverse strategie di alimentazione con petfood su peso specifico e pH urinario in cani e gatti sani
@@ -175,8 +157,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cristiano.bombardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + caratteristiche citoarchitettoniche della corteccia entorinale di tursiope
@@ -192,8 +172,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessio.bonaldo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Performance di crescita di Dicentrarchus labrax alimentati con mangimi a diverso tenore di farine di pesce addizionate con nucleotidi e acidi nucleici
@@ -208,8 +186,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/b.brunetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione immunoistochimica di tre osteosarcomi canini spontanei e di tre linee cellulari commerciali
@@ -227,8 +203,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.caffara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Contracaecum bancrofti: identificazione morfologica e molecolare
@@ -248,8 +222,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/carolina.castagnetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Determinazione del contenuto di cortisolo e deidroepiandrosterone solfato nella matrice tricologica della fattrice e del puledro nato da gravidanza fisiologica o a rischio
@@ -258,8 +230,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elena.catelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + gestione di due focolai di h5n1 lpai nel territorio dell’azienda ausl di ferrara
@@ -281,8 +251,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mario.cipone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La cardiologia interventistica negli animali da compagnia: principali attuali campi di applicazione e prospettive future
@@ -323,8 +291,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.decesare)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Influenza aviaria: tra rischio pandemico futuro e danno economico- sociale attuale.
@@ -340,8 +306,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/sara.delmagno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + iperaldosteronismo nel gatto: terapia chirurgica e contributo statistico
@@ -357,8 +321,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/alessia.diana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Impiego della Tomografia Computerizzata nelle neoplasie surrenaliche del cane: proposta di un sistema classificativo per predirne il carattere invasivo
@@ -385,8 +347,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marialeti.fioravanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Identificazione morfologica e molecolare di Contracaecum rudolphii
@@ -404,8 +364,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.formigoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + effetti dell’uso di lieviti vivi nella dieta di bovine da latte sul benessere ruminale e la digeribilità della fibra
@@ -439,8 +397,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.fracassi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + ACTH endogeno nel gatto: validazione della metodica di misurazione e concentrazione in gatti con sindrome di Cushing e morbo di Addison
@@ -453,8 +409,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesca.freccero2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Sviluppo ed applicazione di una Scala Composita del Dolore nel puledro: studio preliminare
@@ -464,8 +418,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/roberta.galuppi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Baylisascaris procyonis: un agente di zoonosi emergente?
@@ -481,8 +433,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gualtiero.gandini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Le discinesie parossistiche nel cane
@@ -492,8 +442,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pierpaolo.gatta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Effetti di diete a base di proteina batterica sulle performance di crescita del cefalo Mugil cephalus
@@ -502,8 +450,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/teresa.gazzotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Applicazione della tecnica Restriction Fragment Length Polymorphism (PCR- RFLP) a supporto della tracciabilità in prodotti a base di mitili (Mytilus spp.) commercializzati a livello nazionale.
@@ -515,8 +461,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/arcangelo.gentile)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il complesso della malattia respiratoria bovina (BRD) in un contesto di allevamento di vitelloni da ingrasso con ristallo dalla Francia
@@ -546,8 +490,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/luciana.giardino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Lesioni cerebrali da ipossia-ischemia nel ratto neonato: focus sulle cellule staminali neurali
@@ -577,8 +519,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.grandis)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Anatomia topografica delle ghiandole paratiroidee di cavallo
@@ -598,8 +538,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.guarniero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Artificial reproduction survey in male European eels Anguilla anguilla (Linnaeus 1758) by paternity assignment
@@ -608,8 +546,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.gustinelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Peste dei gamberi da Aphanomyces astaci (Oomycetes: Leptolegniaceae): monitoraggio preliminare in Emilia-Romagna
@@ -626,8 +562,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.iacono2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + applicazione dell’intravital 3d bioprinting per guidare la riconnessione di organoidi di cervello al tessuto cerebrale murino
@@ -651,8 +585,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/monika.joechler)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + glaucomatous syndrome in dogs - an unresolved problem
@@ -668,8 +600,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.lorenzini8)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Infiammazione cronica intestinale e malattia di Alzheimer: studio sperimentale in un modello animale di malattia
@@ -678,8 +608,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/caterina.lupini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione molecolare di ceppi del virus dell’enterite emorragica del tacchino identificati in diversi paesi europei
@@ -707,8 +635,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.marconato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Metastasi al Sistema Nervoso Centrale nel Cane: Stato dell'arte
@@ -718,8 +644,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gaetano.mari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + gestione riproduttiva dell’allevamento cunicolo:  vantaggi e prospettive dell’utilizzo dell’inseminazione artificiale
@@ -734,8 +658,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.martelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il benessere della gallina ovaiola nei vari sistemi di allevamento
@@ -780,8 +702,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/attilio.mordenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Validazione dell’impiego di un dispositivo elettronico per la rilevazione del parto della bovina e osservazioni del comportamento
@@ -790,8 +710,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/oliviero.mordenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di femmine adulte di Anguilla anguilla di cinque aree vallive del Delta del Po in relazione alla loro età
@@ -833,8 +751,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/fabio.ostanello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Correlazione tra biosicurezza e parametri aziendali nell'allevamento suino.
@@ -857,8 +773,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.palmonari2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione della qualità della carne di bovine di razza Pezzata Rossa Italiana a fine carriera
@@ -870,8 +784,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/luca.parma)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti di diete a differente inclusione di microalghe e sottoprodotti della pesca sulle performance del branzino (Dicentrarchus labrax)
@@ -882,8 +794,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/albamari.parmeggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti di nocicezione e fisiologia dello stress indotti dalla pratica del catch and release e della pesca sportiva in generale
@@ -898,8 +808,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.pietra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Ulcere duodenali nel cane: studio retrospettivo
@@ -908,8 +816,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.pinna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Monitoraggio e valutazione della fisioterapia riabilitativa per il trattamento della rottura del legamento crociato craniale nel cane
@@ -918,8 +824,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luciano.pisoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La sorveglianza sindromica come mezzo di monitoraggio delle infezioni nosocomiali nel paziente chirurgico: studio preliminare nella realtà dell'Ospedale Veterinario Universitario
@@ -935,8 +839,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.piva)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Paratubercolosi nei Cervidi: importanza della sorveglianza
@@ -946,8 +848,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.rinnovati2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Incidenza del neuroma dopo nevrectomia dei nervi digitali con "splash" di lidocaina intra operatoria.
@@ -969,8 +869,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/paola.roncada)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + il caso tossicologico acuto:approccio e importanza formativadel medico veterinario
@@ -987,8 +885,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.sardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + ecopork: analisi predittiva mediante grafici spc inallevamento suinicolo con presenza di tossiemia da e.coli
@@ -1033,8 +929,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.spinella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Approccio fisioterapico alle più comuni patologie neurologiche del cane
@@ -1054,8 +948,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.tassinari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Effetti dell'acqua alcalina elettrolizzata sulla carica batterica di  superfici a contatto con gli alimenti
@@ -1073,8 +965,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marcello.trevisani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Emergenza di nuove sierovarianti di Escherichia coli produttori di Shigatossine/verocitotossine ed il ruolo dei ruminanti nell'epidemiologia di tali infezioni
@@ -1095,8 +985,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/simona.valentini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Patologie chirurgiche dell'esofago nel cane e nel gatto: considerazioni tecniche per una consapevole scelta chirurgica
@@ -1111,8 +999,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giulio.visentin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attività di selezione della razza Pezzata Rossa Italiana nel contesto nazionale
@@ -1125,8 +1011,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.zaccaroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti e conseguenze sullo stato di salute dei coralli dovute all'antropizzazione e ai cambiamenti climatici
@@ -1141,8 +1025,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/anna.zaghini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di fitoterapici in lesioni dermatologiche del cane e del gatto
@@ -1156,8 +1038,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/daniele.zambelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Studio sulle concentrazioni del glucosio, lattato, cortisolo e alfa-fetoproteine nel liquido amniotico di cane per la ricerca di possibili marker prognostici neonatali

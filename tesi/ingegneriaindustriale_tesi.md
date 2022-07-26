@@ -25,8 +25,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/maria.ancona2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Produzione e utilizzo di idrogeno Green: stato dell'arte e impianti pilota nel panorama europeo.
@@ -52,8 +50,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.bagassi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Design bio-inspired e produzione additiva: ottimizzazione della struttura alare di un RPAS
@@ -69,8 +65,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.barbaresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del protocollo ARCA per la costruzione di edifici in legno
@@ -95,8 +89,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.bellani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi sperimentale di un getto piano
@@ -157,8 +149,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/augusto.bianchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi ambientale della supply chain di tessuti e pellami di un’azienda del settore calzaturiero
@@ -183,8 +173,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/cesare.biserni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Condensa interstiziale nelle murature di facciata: illustrazione di un caso studio con il metodo grafico di Glaser
@@ -304,8 +292,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/lisa.branchini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Metodi di valutazione dell’impatto ambientale globale e locale dei sistemi cogenerativi e loro applicazione
@@ -315,8 +301,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/tommasomaria.brugo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione meccanica laminati pre-preg per impiego in ambito ortopedico
@@ -338,8 +322,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giampaolo.campana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Blue Whale Chair: una seduta multifunzionale adattabile a diverse posizioni
@@ -356,8 +338,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.carricato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi cinetostatica di un sollevatore a tre punti per trattori agricoli
@@ -388,8 +368,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/angelo.casagrande)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Saldatura per diffusion-bonding di leghe metalliche dissimili
@@ -404,8 +382,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/nicolo.cavina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impostazione, esecuzione e coordinamento della progettazione di una moto a propulsione elettrica
@@ -433,8 +409,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giulio.cazzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione fluidodinamica per via numerica della testata di un motore a combustione interna
@@ -450,8 +424,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.celli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dello scambio termico di un fluido viscoso che scorre all'interno di un canale poroso a sezione circolare
@@ -502,8 +474,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.ceruti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di algoritmi di ottimizzazione al progetto concettuale dei velivoli dell'aviazione generale
@@ -535,8 +505,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/lorella.ceschini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Additive manufacturing di materiali metallici per il settore biomedicale
@@ -568,8 +536,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/michele.conconi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Definizione di una procedura automatica per la validazione di un software clinico di controllo di fissatori ossei a struttura esapodale
@@ -579,8 +545,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.corti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle Criticità Relative all'Uso delle Materie Prime in Ambito Automotive
@@ -611,8 +575,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.cristofolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione biomeccanica del disco intervertebrale
@@ -646,8 +608,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/m.deagostinis)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e monitoraggio di tecnologie industriali per progettazione di dispositivo laser di correzione peso lingotti.
@@ -672,8 +632,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/e.deangelis)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Assessment of the effect of a Heterogeneous forest on a Wind Farm using Large Eddy Simulation
@@ -682,8 +640,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.deangelis4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione aerodinamica di scia per un elica da multirotore: un approccio sperimentale
@@ -703,8 +659,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.depascale)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi sperimentale di un sistema micro-ORC con espansione umida
@@ -727,8 +681,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.disante)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + algoritmi per l'analisi modale in applicazione automotive
@@ -740,8 +692,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/l.donati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di materiali compositi tramite prove di compressione di lastre piane
@@ -781,8 +731,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giampietro.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ottimizzazione di un sistema di raffreddamento di pannelli solari con conversione termoelettrica di energia.
@@ -811,8 +759,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/emilio.ferrari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impianti watermist: Tecnologia e Progettazione
@@ -833,8 +779,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/stefano.fini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo di procedura e attrezzatura per prove di fatica oligociclica a bassa temperatura
@@ -845,8 +789,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.fortunato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell’influenza della rugosità superficiale in campioni di Al per Cold Pressure Welding in ambito condensatori elettrolitici
@@ -869,8 +811,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/d.francia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio e review dei sistemi di raccolta delle microplastiche in mare
@@ -883,8 +823,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.frizziero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Advanced Car Design for Vehicles of 2030
@@ -922,8 +860,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/mauro.gamberi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di fattibilità tecnico/economica di una linea di assemblaggio per la produzione di giradischi
@@ -981,8 +917,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/massimo.garai)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Acoustics in open space offices - Analysis of a recently built office
@@ -998,8 +932,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.ghedini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Aneurisma dell'aorta addominale: analisi quantitativa CFD per WSS e OSI.
@@ -1008,8 +940,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.gherardi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del processo di Atomic Layer Deposition per la produzione di celle solari ad alta efficienza
@@ -1042,8 +972,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/edoardo.ida2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del bilancio termico a vuoto di riduttori epicicloidali al variare del lubrificante
@@ -1052,8 +980,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/romolo.laurita)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei sistemi di misura di ozono indoor
@@ -1072,8 +998,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alfredo.liverani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio e modellazione 3D di un sistema portatile per l'illuminazione ambiente attraverso tecniche di QFD
@@ -1094,8 +1018,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.lorenzini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ottimizzazione delle prestazioni termo-idrauliche di microcanali a sezione rettangolare con spigoli smussati attraversati da un flusso gassoso.
@@ -1150,8 +1072,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/alberto.martini6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio del comportamento dinamico di un carrello elevatore mediante prove sperimentali e modellazione numerica multibody
@@ -1196,8 +1116,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giangiacomo.minak)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Controllo della produzione in fabbrica per la marcatura "CE" dei componenti strutturali in edilizia riferito alla norma EN 1090-1:2009+A1:2011
@@ -1224,8 +1142,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/dario.modenini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di metodi approssimati per il calcolo della probabilità di collisione tra satelliti
@@ -1311,8 +1227,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/piero.morelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi agli elementi finiti dell'effetto dell'intaglio in giunti saldati a incompleta penetrazione
@@ -1340,8 +1254,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.morini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi sperimentale del comportamento termico di materiali a cambiamento di fase accoppiati a schiume metalliche.
@@ -1368,8 +1280,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.moro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dossi stradali ad harvesting energetico e loro utilizzo per il recupero di energia dal traffico stradale
@@ -1405,8 +1315,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/domiziano.mostacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il rischio da radon indoor e metodi di misurazione
@@ -1423,8 +1331,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/claudia.naldi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi energetica del modello edificio-impianto di una casa di cura privata: valutazione di interventi di riqualificazione ed efficientamento energetico
@@ -1438,8 +1344,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.naldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La cogenerazione accompagna l’industria ceramica verso un processo produttivo più sostenibile
@@ -1494,8 +1398,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/antonio.peretto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del panorama energetico mondiale, europeo ed italiano.
@@ -1518,8 +1420,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.piancastelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e riprogettazione di impianto freno motociclistico anteriore
@@ -1593,8 +1493,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.pulvirenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi Numerica dello scambio termico in un forno domestico
@@ -1612,8 +1510,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.regattieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei costi della logistica outbound e proposte per il miglioramento - il caso Marchesini Group SPA
@@ -1715,8 +1611,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eugenia.rossidischio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei consumi e certificazione energetica di un edificio residenziale situato a Modena, valutazione tecnico-economica di possibili interventi migliorativi.
@@ -1742,8 +1636,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/cesare.saccani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impianti frigoriferi ad assorbimento ad ammoniaca: caratteristiche di funzionamento
@@ -1777,8 +1669,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/nicola.sancisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del giunto R-3-URU-R e sue possibili applicazioni
@@ -1797,8 +1687,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/gianmaria.santi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione della stampa 3D a densità differenziata in ambito biomedico
@@ -1837,8 +1725,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.talamelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + effetto dei parametri alari e del rilassamento della scia nel comportamento aerodinamico di un'ala di apertura finita
@@ -1856,8 +1742,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.tomesani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Studio e sviluppo di un modello di determinazione dei costi per il processo di laser cladding con polveri metalliche".
@@ -1893,8 +1777,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.tortora)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Deep-space radio tracking tramite antenne a basso e medio guadagno
@@ -1908,8 +1790,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.troiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi comparativa delle prestazioni per velivoli per Urban Air Mobility
@@ -1957,8 +1837,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.valdiserri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei sistemi HVAC alla luce della recente pandemia di COVID-19
@@ -1974,8 +1852,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/rocco.vertechy)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dimensionamento di un sistema di raffreddamento innovativo con tubi di Ranque-Hilsch e alimentato ad aria compressa, applicato ad una macchina per lo stampaggio di capsule in plastica
@@ -2023,8 +1899,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/m.zannoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A ray-tracing method for in-situ radio occultation experiments: analysis of MAVEN’s ROSE data

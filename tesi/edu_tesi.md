@@ -3,8 +3,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annarita.addessi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agire l'interculturalità in musica: un dialogo tra identità sonore
@@ -113,8 +111,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/r.biolcati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Borderline, fra teoria e trattamento.
@@ -150,8 +146,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ivana.bolognesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I minori stranieri non accompagnati: i percorsi di tutela e di accoglienza in Italia
@@ -222,8 +216,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/dorena.caroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modelli di esperienza da adottare in Albania: Il Cadiai di Bologna e i nidi montessoriani
@@ -283,8 +275,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/rita.casadei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abitare il proprio corpo: dal disagio alla cura.
@@ -316,8 +306,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/andrea.ciani5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Educare all'aperto per una rinascita educativa e sociale. Il Progetto di una Fattoria Urbana e la sua analisi.
@@ -328,8 +316,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pasquale.colloca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il ruolo dei social media nel suicidio giovanile"
@@ -354,8 +340,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/morena.cuconato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Capire l'islamofobia: un'introduzione pedagogica
@@ -370,8 +354,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.dainese)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Educare alla differenza" Risorsa da scoprire e potenziare nei territori
@@ -522,8 +504,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/m.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La galassia del Web, l’influenza dei social network, Instagram.
@@ -542,8 +522,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + AIUTARE A SCEGLIERSI Kierkegaard in prospettiva educativa
@@ -606,8 +584,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/guido.franchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Articolo 403: risorsa o danno al sistema di tutela minorile?
@@ -620,8 +596,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valeria.friso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dall’evoluzione del concetto di Disabilità in Italia alla nascita di una nuova figura professionale: l’Educatore professionale
@@ -670,8 +644,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rossella.ghigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adultizzazione dei bambini e infantilizzazione degli adulti: un'analisi delle pubblicità in due riviste periodiche
@@ -688,8 +660,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/manuela.ghizzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Immigrazione e cittadinanza. Corsi e ricorsi storici, analogie e differenze tra la tarda antichità e l'età contemporanea.
@@ -759,8 +729,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giorgia.grilli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Esplorazione dell'identità. Letteratura per l'infanzia e Queer studies
@@ -773,8 +741,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.guerzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dirsi addio. Riti e rappresentazioni del morire tra passato e presente
@@ -788,8 +754,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/dina.guglielmi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le carriere al tempo della pandemia: uno studio preliminare sui lavoratori
@@ -840,8 +804,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/s.leonelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A.A.A. Buone prassi cercansi. Percorsi di educazione al genere nella scuola secondaria di primo grado
@@ -868,8 +830,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.lorenzini4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L’ADOZIONE DI MAGGIORENNE STRANIERO          Storie di vita diverse si fondono e si trasformano                             in un’unica narrazione.
@@ -907,8 +867,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elena.luppi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ascolto ed empatia: elementi fondamentali per un approccio educativo alla terza età
@@ -940,8 +898,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.malaguti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Placcando le barriere”Il rugby come metodo propedeutico per bambini con disabilità
@@ -1002,8 +958,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.mancini7)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi storico-artistica della follia e dei suoi trattamenti dal tardo Medioevo ad oggi.
@@ -1042,8 +996,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimo.marcuccio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Educazione come sintesi tra fede, cultura e vita: il Sistema Preventivo Salesiano. Riflessioni sull'attualità del metodo di Don Bosco.
@@ -1059,8 +1011,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/licia.masoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + “Narrare per narrarsi. Storytelling nella scuola dell’infanzia”: Studio di due tecniche didattiche per un primo avvicinamento alla lingua inglese in una sezione di scuola dell’infanzia.
@@ -1097,8 +1047,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giannino.melotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "HIKIKOMORI: L'ISOLAMENTO SOCIALE E VOLONTARIO. Una nuova forma di disagio sociale degli adolescenti"
@@ -1127,8 +1075,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/r.nardone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il gioco da tavolo come strumento di mediazione didattica
@@ -1142,8 +1088,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.pacetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Didattica a Distanza al tempo del Covid-19
@@ -1188,8 +1132,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.palareti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Care Leavers e accompagnamento verso l'autonomia: uno studio di caso
@@ -1205,8 +1147,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.panciroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il museo come luogo di inclusione e innovazione
@@ -1258,8 +1198,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.piastra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura sociale e sostenibilità: una risposta trasversale
@@ -1281,8 +1219,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/tiziana.pironi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Noi adulti siamo figli del bambino che ci ha preceduti” “Aiutami a fare da solo”: L’educazione montessoriana al nido
@@ -1316,8 +1252,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rossella.raimondo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ‘I bambini stanno lavorando come se io non esistessi’: le caratteristiche dell’educatrice nel pensiero pedagogico montessoriano.
@@ -1333,8 +1267,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/aurora.ricci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La promozione della salute in contrasto all'abuso di alcol in adolescenza: una proposta di intervento in un istituto superiore ad indirizzo alberghiero.
@@ -1344,8 +1276,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/bruno.riccio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ayahuasca: dalla tradizione indigena ai risvolti applicativi nel mondo occidentale
@@ -1377,8 +1307,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.rosa3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + progettare nei contesti educativi:tra teorie ed esperienza all’interno di un centro socio-educativo
@@ -1411,8 +1339,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/rossella.sacchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Azioni e strategie per promuovere la salute nei primi 1000 giorni di vita
@@ -1443,8 +1369,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marta.salinaro2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Al di là del mare. Un progetto di vita umana
@@ -1457,8 +1381,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.sandri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "IL DEFICIT DI ATTENZIONE, IPERATTIVITÀ E IMPULSIVITÀ"Competenze e strategie di un educatore per l'educazione scolastica di bambini con ADHD
@@ -1487,8 +1409,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/ettore.scappini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli effetti di una pandemia mondiale sui bambini e sulle loro famiglie e la risposta dei servizi educativi per la prima infanzia
@@ -1498,8 +1418,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/michela.schenetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Educazione all'aperto tra ostacoli e benefici: uno sguardo al tema durante la condizione pandemica
@@ -1531,8 +1449,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rosa.smurra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Castello D'Argile (BO) nel tempo: la storia territoriale alla base di un percorso educativo consapevole
@@ -1544,8 +1460,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/m.tagliaventi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Adolescenti e centri d'aggregazione giovanile
@@ -1559,8 +1473,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/federica.tarabusi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'educatore sociale nei contesti di seconda accoglienza: riflessioni antropologiche
@@ -1574,8 +1486,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.tolomelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Siamo ciò che vediamo.Un'indagine quali-quantitativa sull'educazione al pensiero critico"
@@ -1594,8 +1504,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.trentini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abbandono e dispersione scolastica
@@ -1620,8 +1528,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/elisa.truffelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Anziani e Bambini : Il valore del rapporto intergenerazionale
@@ -1645,8 +1551,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/dario.tuorto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti della devianza giovanile, tra solitudini e vita nel branco.
@@ -1701,8 +1605,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.villano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comunicazione e mediazione nella gestione dei conflitti
@@ -1719,8 +1621,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/f.zanetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il metodo APAC. Un modello di giustizia riparativa in Brasile.
@@ -1764,8 +1664,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/federico.zannoni3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Amicizia, prima infanzia e cambiamento. Manifestazioni ed evoluzioni di un sentimento
@@ -1779,8 +1677,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/mariagrazia.zuccarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + l’impatto della pandemia sul benessere psico-emotivo degli adolescenti e possibili strategie di intervento educativo.

@@ -9,8 +9,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/iris.aloisi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione nutraceutica di 14 cultivar di riso pigmentato
@@ -24,8 +22,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.amorosi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Relazione Geologica dell’area tra Monte Strega, Rio nell’Elba e Villaggio Togliatti
@@ -61,8 +57,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.barbieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il caso studio della Sesta estinzione di massa: ipotesi o realtà?"
@@ -74,8 +68,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/mariagiovanna.belcastro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Capacità di autocontrollo e correlati emotivi: uno studio sperimentale nel cebo dai cornetti (Sapajus spp.)
@@ -87,8 +79,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/matteo.berti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Rilevamento geologico in località Ortano Isola d'Elba
@@ -117,8 +107,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessio.boattini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Transposable elements variability in ancient and modern human samples
@@ -127,8 +115,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.bonfitto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei tempi di avvistamento di un operatore certificato High Quality Whale-Watching nel Santuario Pelagos, Italia
@@ -142,8 +128,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/r.braga)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Relazione Geologica dell'Area di Monte Fico dell'Isola d'Elba Orientale
@@ -158,8 +142,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.brardinoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dinamica di deformazione e geometria di colate di terra in Argille a Palombini e Argille Varicolori, Appennino Bolognese
@@ -168,8 +150,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.buscaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bilancio di massa geodetico 2020-2021 dei ghiacciai nell'area sciistica dello Stelvio.
@@ -181,8 +161,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/bruno.campo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Acquiferi costieri nel mondo: principali caratteristiche geologiche e problematiche ambientali di maggior rilevanza
@@ -236,8 +214,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/m.casini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Anthropogenic influence on the interaction between the white-tailed eagle Haliaeetus albicilla and the common guillemot Uria aalge on the island of Stora Karlsö in the Baltic Sea
@@ -247,8 +223,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.cavalazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attività microbica associata ai microterrazzetti del sito idrotermale di Eyvindarhver (Hveravellir, Islanda) e loro implicazioni astrobiologiche
@@ -260,8 +234,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/william.cavazza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Relazione geologia dell'area di Rio Marina, Elba orientale
@@ -282,8 +254,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.chiarucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aggiornamento e standardizzazione delle schede di monitoraggio degli habitat in Italia (Direttiva 92/43/CEE “Habitat”)
@@ -315,8 +285,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/marina.colangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle conseguenze di un evento meteorico straordinario:tromba d’aria del 2019 alla Pineta e al Parco Naturale di Cervia
@@ -327,8 +295,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/lucia.conte)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi bibliografica della mioalofita Puccinellia fasciculata, con particolare riguardo alle popolazioni d'entroterra
@@ -365,8 +331,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/sandra.cristino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ricerca immunoenzimatica di enterotossine stafilococciche e relativi geni di espressione in stafilococchi coagulasi positivi
@@ -378,8 +342,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.delduca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi enzimatiche, proteiche e citologiche per l’identificazione di molecole derivanti dallo strato aleuronico nei sottoprodotti della macinazione di Triticum aestivum L.
@@ -388,8 +350,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/jo.dewaele)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi architetturale di speleotemi sardi: implicazioni storico-climatico-ambientali sulla fine dell'Era Nuragica
@@ -399,8 +359,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/enrico.dinelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Geochimica di sedimenti tardo pleistocenici e olocenici dei sondaggi Riccione e Cervia: caratterizzazione e confronto con dati di letteratura.
@@ -415,8 +373,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elena.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Microplastiche e additivi da esse rilasciati come inquinanti invisibili dell’ambiente marino
@@ -459,8 +415,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/valeria.franceschini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Una vita senza epatite c”: screening per la ricerca del sommerso.
@@ -470,8 +424,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.franzellitti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Species distribution modelling and protein structure prediction: a double machine learning approach to get new insights into coral ecology
@@ -480,8 +432,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/marta.galloni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Citizen Science nel Progetto LIFE 4 POLLINATORS: sviluppo di una chiave per il riconoscimento di piante entomofile mediterranee
@@ -493,8 +443,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.gargini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell’esaurimento di sorgenti della Formazione di Pantano (Successione Epiligure)
@@ -510,8 +458,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.garofalo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Correlazioni tra assetto geologico-strutturale del distretto cinabrifero del M.te Amiata e sue risorse geotermiche-epitermali
@@ -522,8 +468,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.gasparotto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Geologia e idrogeologia del vulcano Roccamonfina e della valle di Suio
@@ -550,8 +494,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.giambastiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Geomorphological and statistical analysis of the dune changes in Lido di Classe (Ravenna, Italy) based on remote sensing techniques
@@ -561,8 +503,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/cristina.giuliani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della metilazione del DNA: interazione fra uomo e ambiente in Val Pescara
@@ -599,8 +539,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/tiziana.guarnieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Utilizzo della Real Time PCR per il rilevamento di infezioni del tratto urogenitale da Chlamydia Trachomatis, Neisseria Gonorrhoeae e Papilloma Virus Umano (HPV)
@@ -642,8 +580,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.maurizii)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Espressione della proteina TDRD7 nella gametogenesi di Poecilia reticulata
@@ -652,8 +588,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/liliana.milani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Comparative analyses of TDRD7 protein: sequence evolution and protein pattern expression in animals
@@ -664,8 +598,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/juri.nascimbene)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione delle specie vegetali di un manoscritto botanico inedito di metà Ottocento di area trentina
@@ -687,8 +619,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/antonio.navarra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "climate variability anomalies of the upper atmospheric circulation in the northern hemisphere in winter time for the period 1960-2019"
@@ -721,8 +651,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.pasteris)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti del biochar sulla mesofauna del suolo
@@ -736,8 +664,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.pezzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli alberi nel verde urbano: confronto delle valenze ecologiche e biodiversità tra pubblico e privato. Un caso studio
@@ -748,8 +674,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/laura.pezzolesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Biosynthesis of polyhydroxyalkanoates by Chlorophyta
@@ -766,8 +690,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimo.ponti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cambiamenti nelle condizioni ambientali della Sacca di Goro (Delta del Po)
@@ -783,8 +705,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/duccio.rocchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A multitemporal analysis of pre- and post-fire events in Australia by Sentinel-2 satellite imagery
@@ -803,8 +723,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/claudia.romagnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La movimentazione dei sedimenti di spiaggia nell'ambito della gestione del litorale: il caso di Cesenatico.
@@ -813,8 +731,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/veronica.rossi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Analisi stratigrafica di sistemi di paleovalli multiple nel sottosuolo della pianura dell’Arno"
@@ -844,8 +760,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.sazzini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Confronto tra regioni del genoma ad evoluzione adattativa identificate utilizzando sequenze di genomi completi o dati genome-wide imputati
@@ -867,8 +781,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/sonia.silvestri5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo delle zone umide costiere nelle emissioni di gas serra
@@ -881,8 +793,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.simoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Descrizione e analisi geologica dei risultati ottenuti dall'attività di rilevamento nel contesto dell'Elba Orientale
@@ -894,8 +804,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enzo.spisni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti di composti naturali ad azione protettiva su mucosa intestinale studiati in modelli in vitro
@@ -916,8 +824,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.tassoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agricoltura idroponica: usi ed applicazioni per uno sviluppo sostenibile
@@ -933,8 +839,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/fausto.tinti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il biomonitoraggio degli ecosistemi tramite l'Apis mellifera
@@ -1011,8 +915,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.viola3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Stili deformativi al letto del sovrascorrimento di Belluno (Sudalpino Orientale)
@@ -1023,8 +925,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.vitaleb)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Mineralogy and Geochemistry of Phosporite Deposits from Tropic Seamount (NE Tropical Atlantic Ocean)

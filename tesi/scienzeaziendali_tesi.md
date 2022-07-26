@@ -9,8 +9,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/selena.aureli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione dei sistemi di controllo e di gestione nelle PMI
@@ -30,8 +28,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.baldarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + AnotherLife
@@ -70,8 +66,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.barbi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A premium to loyalty: loyalty shares and voting premium in Italy
@@ -98,8 +92,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.barbini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + An integrated Cycle Tourism Product: the supply side coordination in the Rimini case
@@ -125,8 +117,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.bartolini4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Accounting for Business Combination under the IFRS
@@ -139,10 +129,12 @@
      + L'importanza dell'Integrated Reporting, con particolare riferimento alle PMI e allo Human Capital.
      + Rivalutazione delle immobilizzazioni immateriali, dalla misura post Covid a un caso concreto
    - Tesi di Laurea Magistrale
+     + “L’importanza dell’Integrated Reporting: analisi della rendicontazione integrata nell’ambito bancario e assicurativo”
      + bilancio di sostenibilità e il report integrato: analisi degli elementi caratterizzanti e del ruolo del capitale umano
      + COVID-19: conseguenze sul settore della grande distribuzione online ed e-commerce. I casi Amazon.com, Inc. e Comet S.p.A.
      + Dai Key Performance Indicators alla progettazione di una Balanced Scorecard
      + Dal Bilancio d'esercizio all'Integrated Reporting. Analisi del caso Gruppo Monrif.
+     + Dal Report di Sostenibilità al Report Integrato. La misurazione del Capitale Umano: il caso Ferrari S.p.A.
      + Il processo di elettrificazione delle automobili.Contesto macroeconomico e strategie aziendali.Il caso Gruppo Stellantis.
      + Il Report Integrato come strumento di comunicazione
      + Il report integrato il valore della sostenibilità aziendale
@@ -166,8 +158,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/mascia.bedendo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Enhanced Indexing Approach to ESG Investing Using Neural Language Models and Social Media Data
@@ -185,8 +175,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.bigelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "The complex but necessary transition to ESG investing: Towards a new way of conceiving business and investors for a more sustainable performance"
@@ -208,8 +196,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cristina.boari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Fondazione Innovazione Urbana: the public value of brokerage action.
@@ -222,8 +208,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/daniela.bolzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + An analysis of the effects of the COVID-19 pandemic on the business model framework of innovative Italian firms in the agri-food industry
@@ -240,8 +224,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/carlo.boschetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi strategica per le decisioni aziendali,un caso studio
@@ -251,8 +233,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/paola.brighi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di un Portafoglio composto da Crypto-Assets
@@ -278,8 +258,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.cappiello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della domanda turistica nella provincia di Rimini dal 2011 al 2021
@@ -324,8 +302,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesco.ciabuschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + barriers and opportunities for small medium enterprises when approaching the dutch medtech market
@@ -334,8 +310,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariachiara.colucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Strategie di marketing digitali per i brand di moda di lusso.Caso di studio:Burberry
@@ -355,8 +329,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.corbo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + “Circolo”, sviluppo di un’idea imprenditoriale per una piattaforma di sharing economy a servizio degli enti territoriali
@@ -371,8 +343,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/raffaele.corrado)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Strategie delle Piccole-Medie Imprese per superare l'emergenza Covid-19. Il caso pratico di Zanchi 1952"
@@ -409,8 +379,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.corsino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adaptation of the International Hospitality Industry During COVID-19 and Its Consequent Transformation: New Risks and Opportunities
@@ -424,8 +392,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.dalmaso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + il procedimento di stima del valore intrinseco dei marchi: applicazione ad un caso di studio
@@ -441,8 +407,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.dellabina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dare importanza alla finanza comportamentale
@@ -467,8 +431,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andi.duqi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + COVID-19’s impact on the capital structure of Italian firms
@@ -481,14 +443,13 @@
      + Short selling e il caso Gamestop
    - Tesi di Laurea Magistrale
      + spac’s risks and opportunities the importance of management – investor alignement
+     + The impact of leveraged buy-outs on the economic and financial performance of target companies in Italy
      + Wealth management industry: Old banks and New trends
 
 #### Paolo Ferri
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/p.ferri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Internship in Higher Education: The Case of GIOCA
@@ -498,8 +459,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/simone.ferriani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Abstraction and Familiarity in Speech Appreciation: A TED Talks Analysis
@@ -563,8 +522,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sabrina.gigli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Finance Transformation – Product Group P&L
@@ -574,8 +531,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.giuri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Digitalizzazione e gestione dell’innovazione: un’analisi del cambiamento tecnologico e il suo impatto nelle dinamiche dell’industria musicale.
@@ -606,8 +561,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.grandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazioni della blockchain nella commercializzazione di prodotti ortofrutticoli locali
@@ -638,8 +591,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/murad.harasheh)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + bitcoin come moneta? applicazione delle criptovalute tramite la tecnologia blockchain: dal bitcoin al metaverso
@@ -655,8 +606,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/umberto.lago)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Innovative Business Models for a sustainable future of the fashion industry:Case study of Patagonia and Reformation.
@@ -666,8 +615,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.lipparini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Guida autonoma e sicurezza stradale: il futuro della mobilità secondo Volkswagen e Volvo
@@ -681,8 +628,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/mariolina.longo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “SUSTAINABILITY TRANSITIONS – Il settore calcistico: una partita da non perdere”
@@ -714,8 +659,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.lusignani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Crypto Exchange: stima della probabilità di sopravvivenza attraverso il modello logit
@@ -726,8 +669,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/angelo.manaresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Nuove tendenze del marketing digitale: l'influencer marketing e il ruolo degli influencer in una strategia di social media marketing
@@ -736,8 +677,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/claudia.manca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + How purpose-driven multinationals can connect people to purpose overcoming the cultural challenges?
@@ -746,8 +685,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.marano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + il principio di materialita' nella rendicontazione non finanziaria
@@ -764,8 +701,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.marzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comparison of the Discounted Cash Flow and the Relative Valuation
@@ -781,8 +716,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.marzocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L’acquisto di capi d’abbigliamento contraffatti: un’indagine svolta tramite la Teoria del Comportamento Pianificato.
@@ -800,8 +733,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marcomaria.mattei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + l’incidenza delle operazioni di leasing sugli indici di allerta
@@ -813,8 +744,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.mazzara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi organizzativa e gestionale di una squadra di serie D di pallavolo
@@ -848,8 +777,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/valerio.melandri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + L'intervento del Terzo Settore per migliorare il benessere sociale
@@ -858,8 +785,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.mengoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell'utilizzo dei Fondi Strutturali Europei inerenti il Programma Operativo Nazionale del Ministero dell'Istruzione
@@ -890,8 +815,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elisa.montaguti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analysis of the digital strategies of the main Italiangroups in the high-end fashion industry
@@ -910,8 +833,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesco.montani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Standardizing HR practices in multinationals through digital transformation: The case of SACMI
@@ -931,8 +852,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/federico.munari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dal marketing tradizionale al marketing digitale: analisi di casi di studio nel settore automotive
@@ -960,8 +879,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.mura)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Applicazione di sistemi di misurazione delle performance in ambito industriale. Il caso WASP
@@ -972,8 +889,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.mussoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi dell’oligopolio nel mercato delle piattaforme di e-commerce. Il caso Alibaba
@@ -994,8 +909,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/vincenza.odorici)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi della percezione degli studenti di economia e management sulla didattica a distanza
@@ -1017,8 +930,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rebecca.orelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A survey analysis of the motivations of Chinese shopping tourism in Italy
@@ -1046,8 +957,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.orsingher)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Audience Development at Nordwestdeutsche Philharmonie
@@ -1063,8 +972,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.padovani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Covid-19 e analisi degli impatti sulla performance economico-finanziaria degli enti locali. Approfondimento regione Lombardia.
@@ -1081,9 +988,13 @@
      + La situazione post Covid nel nostro paese con un approfondimento sull’ Emilia-Romagna
      + The privatization dilemma: evidence from the British railways' case
    - Tesi di Laurea Magistrale
+     + “Internal control in healthcare organizations: the case of AUSL Romagna local healthcare authority”
+     + Between hospitalization and at-home care: "Strutture Intermedie" patient flow analysis and multi-level governance challenges for the Italian NHS
      + Capacità di reazione dei comuni italiani tra pandemia di Covid-19 e PNRR
      + Change processes in hospitals:What strategies can be used to foster the factors needed to implement change?
+     + Computing the Full-cost of Treatment for geriatric colorectal cancer in AUSL Romagna: a Time-driven Activity Based Costing method
      + Evaluation of the financial vulnerability of the Italian local healthcare authorities before the pandemic
+     + Full-cost of diagnosis for geriatric colorectal cancer in a public hospital in Italy: a theoretical model
      + i sistemi amministrativi e la salute finanziaria degli enti locali, un confronto europeo
      + L'innovazione organizzativa degli enti locali nella gestione dei fondi del PNRR: il caso "Aess".
      + Qualità della Spesa degli Enti Locali: l’analisi della sezione Autonomie di Corte dei Conti sulla Polizia locale in previsione alla relazione al Parlamento 2021
@@ -1096,8 +1007,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/angelo.paletta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modelli di business sostenibili a supporto della bioeconomy. Casi aziendali a confronto.
@@ -1107,8 +1016,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/f.palmucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Fondi islamici ed etici: un confronto tra due modelli di finanza alternativa
@@ -1137,8 +1044,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/barbara.petracci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A COMPARISON BETWEEN THE 2008 AND THE COVID-19 CRISIS: a focus on the impact on financial markets
@@ -1163,8 +1068,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.petrolati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La cessione d'azienda nel diritto e nella prassi
@@ -1190,8 +1093,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/manuela.presutti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analyzing Montegridolfo as a Startup Project:Hospitality Management and Business Plan for the future restart
@@ -1203,8 +1104,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marcello.russo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Digital Transformation: The Acceleration During The COVID-19 Pandemic And The Future Of Work, The Metaverse
@@ -1219,8 +1118,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sandro.sandri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Green Bond e finanza sostenibile: i casi Enel e Hera
@@ -1237,8 +1134,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.savioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La fusione di società. Aspetti strategici contabili e fiscali. Il caso Stellantis
@@ -1248,8 +1143,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.scarpi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abitudini di consumo e acquisto online di vino
@@ -1280,8 +1173,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/benedetta.siboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle performance economico-finanziarie nel settore moda
@@ -1307,8 +1198,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.silvi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A runner's high in these uncertain times: Peloton's Business Model
@@ -1332,8 +1221,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.sobrero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + IL SOFTWARE NELLE IMPRESE FINTECH: Il processo di sviluppo e la valutazione della qualità
@@ -1343,8 +1230,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/massimo.spisni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Comparison of the Alumni Associations in America and in China
@@ -1359,8 +1244,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/enrico.supino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi tra il capitale intellettuale e le performance d'impresa
@@ -1388,8 +1271,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.torluccio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caso Gamestop: critica alle Clearing House e alla regolamentazione del mercato americano
@@ -1410,14 +1291,13 @@
      + Performance dei fondi ESG: un'analisi econometrica
      + Rischio di Credito e Sostenibilità: Evidenze dai Credit Default Swap europei
      + Risk Management: gestione e sostenibilità della tesoreria.
+     + Social Real Estate Management: le opportunità del Social housing tra PNRR ed altre fonti di finanziamento
      + Sustainable Development Goals: Impatto sui Titoli di Stato
 
 #### Laura Toschi
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.toschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del modello di business delle B Corporation nel contesto italiano
@@ -1434,8 +1314,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/ivanoe.tozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di bilancio come strumento di prevenzione dei dissesti aziendali
@@ -1459,8 +1337,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.tuan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Relationship marketing in tourism: the role of modern technologies and the influence on the travel habits.
@@ -1484,8 +1360,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.vignini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dall'analisi di bilancio a una realtà concreta: Caffitaly System
@@ -1495,8 +1369,6 @@
 ###### Ricercatore da altro Ateneo/Ente (legge 240/2010, art.6, comma 11)
 [Sito Web](https://www.unibo.it/sitoweb/m.vignoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Blockchain per creare fiducia fra le parti applicata al Facility Management: il caso CNS
@@ -1521,8 +1393,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/e.villani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + ANALISI AS-IS/ TO-BE APPLICATA ALLA PROGETTAZIONE O REINGEGNERIZZAZIONE DEI PROCESSI INTERNI AD UN’ORGANIZZAZIONE: IL CASO ROSETTI MARINO S. p. a
@@ -1533,8 +1403,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/franco.visani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei costi a supporto di un progetto imprenditoriale nel settore alberghiero
@@ -1550,8 +1418,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.visentin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analyzing Customer Behavior in Sustainable Apparel Purchase
@@ -1566,8 +1432,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.zammit)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Montenegro S.r.l: social media marketing
@@ -1578,8 +1442,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luca.zan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Implementation of EU Urban Policies: “In the beginning there was policy”A case study: Emilia-Romagna Region and Laboratorio Aperto di Ravenna
@@ -1590,8 +1452,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.zanigni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi comparata di bilancio e di performance aziendali nel settore bancario: l’esperienza di tirocinio curricolare presso Banca Mediolanum S.p.A.

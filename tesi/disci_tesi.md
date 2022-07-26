@@ -21,8 +21,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.augenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + IL RAPPORTO TRA FERROVIA E ARCHEOLOGIAAnalisi sugli scavi condotti per la realizzazione delle linee ferroviarie e studio dei rapporti di concomitanza con quanto emerso.
@@ -39,8 +37,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/isabella.baldini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La presunta tomba di Totila a Caprara di Gualdo Tadino
@@ -53,8 +49,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.baldoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Costumi funerari e processi sociali tra il Kolonos Agoraios e l'Eridano nel VII sec. a.C.
@@ -69,8 +63,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.balzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "La Rana". Una storia bolognese. Disamina di un giornale umoristico.
@@ -108,8 +100,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alice.bencivenni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Antioco IV e Tolemeo VIII: il Folle e il Malfattore
@@ -129,8 +119,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/roberta.bonetti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alla ricerca di "intrecci": la conservazione ambientale tra sfruttamento e la possibilità di approcci alternativi
@@ -162,8 +150,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.bonfiglioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Superare le dicotomie di genere con la danza:Una lettura geografica de "Il Lago dei Cigni" di Matthew Bourne
@@ -177,8 +163,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/caterina.bori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il concetto di confine territoriale attraverso gli occhi di Ibn Hawqal e al-Muqaddasī.
@@ -220,8 +204,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/saverio.campanini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Stella di David. Dalle origini alla bandiera dello Stato di Israele.
@@ -233,8 +215,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.cantagalli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Chaebol e k-culture: i due volti della Corea del Sud
@@ -296,8 +276,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.capuzzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Guardando a Oriente. Storia del PCI e dei suoi rapporti con il PCC tra il 1949 e il 1964
@@ -307,8 +285,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mariapia.casalena)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Eu existo!"Maria Quiteria, Maria Bonita, Marielle Franco: guerra, banditismo, attivismo politico.Storie di donne che hanno contribuito a comporre l'identità del Brasile.
@@ -369,8 +345,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.cattani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il sito eneolitico di Cava Gazzuoli (MO): contesto e materiali
@@ -385,8 +359,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/claudio.cavazzuti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Oggetti di ornamento femminile nelle necropoli dell’età del bronzo media e recente della pianura padana centrale. Aspetti del rituale funerario, dell’identità e del costume
@@ -395,8 +367,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.cecere3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Immagini del femminile nella letteratura araba: le prospettive della critica femminista.
@@ -410,8 +380,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.celli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I goryō: analisi e storia degli studi sugli spiriti vendicativi nella cultura giapponese
@@ -432,8 +400,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/francesca.cenerini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Livia e Giulia: le Augustae tra obbedienza e "tradimento" del modello matronale
@@ -453,8 +419,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/enrico.cirelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e Comparazione di Tre Tipologie di Insediamento Fortificato Altomedievale in Inghilterra e Irlanda - Burhs, Longphorts e Cashels
@@ -494,8 +458,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/lucia.criscuolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La coregia tra Atene e Rodi
@@ -506,8 +468,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.cristofori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aesis: la città di Jesi ai tempi dei romani
@@ -557,8 +517,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.curci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Uomo e cane, un antico legame"
@@ -568,8 +526,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/davide.dainese)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il cuore irrazionale della razionalità, una disamina del pensiero scientifico attraverso l'opera di Weber, Husserl e Koestler"
@@ -624,8 +580,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.delvecchio4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Chaos ab ordine. L'immediatezza della politica in Carl Schmitt e Michel Foucault
@@ -639,8 +593,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/carlo.demaria2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dalla transizione alla democrazia. Il ruolo del testimone nella transizione spagnola.
@@ -660,8 +612,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.dogliani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bologna sotto attacco. I bombardamenti e i rifugi antiaerei
@@ -679,8 +629,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.domenici)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Colori e Piante Tintorie in Mesoamerica: Storia, Utilizzo e Significati
@@ -702,8 +650,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/mirco.dondi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Discours sur le colonialisme di Aimé Césaire: gli echi del colonialismo nella Francia contemporanea
@@ -724,8 +670,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/aurora.donzelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Favole per poveri?Il microcredito come strumento edulcorato del neoliberismo
@@ -740,8 +684,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.dubbini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Bark beetle detection and analysis of forest cover change in damaged areas with Sentinel-2 satellite data. The case of Vaia storm.
@@ -826,8 +768,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.franceschini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La figura e le opere di Mīrābāī nel contesto della bhakti kāl (XV-XVII secolo)
@@ -839,8 +779,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/henning.franzmeier)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La Navigazione e le Imbarcazioni nell'Antico Egitto - dal Periodo Predinastico all'Antico Regno tra Archeologia ed Ideologia Sacra
@@ -852,8 +790,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessio.gagliardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “brutti, sporchi e cattivi”:stampa italiana e punk
@@ -919,8 +855,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.giorgi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Euchoria in Epiro. Analisi e studio di un'area urbana.
@@ -941,8 +875,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.girotti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Costantinopoli tra VI e VII secolo. La città e l'Ippodromo
@@ -961,8 +893,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/tommaso.gnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La conspiratio del 60 a.C.: un’analisi dei principali aspetti del Primo Triumvirato
@@ -984,8 +914,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.govi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Linguaggi di rappresentazione nelle necropoli di Verucchio
@@ -1003,8 +931,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mariateresa.guaitoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + CULTURA MATERIALE A (QUASI) QUOTA 3000 - Archeologia della Grande Guerra tra i passi Folgorida e Topette
@@ -1101,8 +1027,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giulio.iovine2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The Smyly Correspondence Project: A Case Study in Static Site Generators for Digital Editions
@@ -1111,8 +1035,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.jourdan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alexandre Kyungu Mwilambwe Afrotopie artistiche nella Repubblica Democratica del Congo
@@ -1147,8 +1069,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.lagioia2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Elisabetta I Tudor: potere femminile e legittimità
@@ -1160,8 +1080,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/raffaele.laudani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il femminismo nero: origini e sviluppi di una tradizione politica radicale
@@ -1172,8 +1090,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.lavenia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il devşirme: nascita e sviluppo di una pratica nell'Impero Ottomano di età Moderna.
@@ -1197,8 +1113,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/tiziana.lazzari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I mestieri infamanti nel Basso Medioevo
@@ -1218,8 +1132,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/e.magnani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abitare corpi, luoghi e spazi. Storia delle migranti marocchine in Italia
@@ -1289,8 +1201,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/nicolo.marchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Il diluvio universale nelle tradizioni testuali vicino-orientali: analisi comparativa antropologico-culturale e interpretazioni archeologiche”
@@ -1303,8 +1213,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/saverio.marchignoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Educare alla vita». Il ruolo dell'educazione secondo Jiddu Krishnamurti.
@@ -1323,8 +1231,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/fabio.martelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il dispotismo illuminato
@@ -1362,8 +1268,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/leardo.mascanzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Epidemie a Bologna: dalla Peste Nera al Covid-19
@@ -1403,8 +1307,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/a.morelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I tipi di Aegyptus, Alexandria e Nilus nelle travel series della monetazione di Adriano.
@@ -1416,8 +1318,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristiana.natali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Amore non corrisposto: lettura critica di Lettere da una tarantata di Annabella Rossi
@@ -1444,8 +1344,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/simona.negruzzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Elogio di Federico II"
@@ -1498,8 +1396,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/karin.pallaver)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abitare e agire il genere in Etiopia: il "s-oggetto" donna nella guerra di confine del 1998-2000
@@ -1538,8 +1434,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.parmeggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Brindisi, porta d'Oriente: la città in età normanno-sveva e nelle relazioni con Federico II
@@ -1579,8 +1473,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/berardo.pio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «In perpetuum possidendis»: considerazioni sulla Promissio Carisiaca
@@ -1609,8 +1501,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.pizzirani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Catalogazione e analisi di ricostruzioni architettoniche della civiltà etrusca: da mano libera all’avanguardia digitale.
@@ -1622,8 +1512,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.porciani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comacchio, l'anguilla e le nuove tradizioni.
@@ -1640,8 +1528,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.proto2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ANTROPOLOGIA DELLO SVAGO: IL DOPPIO BINARIO BIOLOGICO E CULTURALE Un excursus tra le possibili spinte motivazionali consce ed inconsce dietro l’agire nel tempo libero e gli effetti degli svaghi sull’habitat e l’habitus
@@ -1669,8 +1555,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesca.pucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Documenti relativi alla storia socioeconomica di Messina tra XI e XII secolo.
@@ -1691,8 +1575,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/ivo.quaranta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La resistenza alla vaccinazione Covid19 nel contesto Spagyrico
@@ -1752,8 +1634,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabian.reiter)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + L'archivio di Apollonios di Bakchias: un'analisi filologico-storica
@@ -1782,8 +1662,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.roversi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Noi siamo Longobardi!» Meccanismi di produzione dell'etnicità nella Comunità Odinista italiana
@@ -1803,8 +1681,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.rudan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + bell hooks e Michel Foucault: un confronto critico sul potere e sul margine
@@ -1823,8 +1699,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/carla.salvaterra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il trauma dell'eruzione vesuviana del 79 d.C.
@@ -1902,8 +1776,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/anna.sirinian)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Commento alle Sette Epistole Cattoliche di Sargis Šnorhali (XII sec.):introduzione e traduzione annotata del I capitolo di 1Gv
@@ -1913,8 +1785,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/francesca.sofia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adolf Eichmann: grigio burocrate o individuo geneticamente predisposto allo sterminio?
@@ -1947,8 +1817,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/mariaelena.tisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + IL POTERE DEL NOME COME STRUMENTO IDENTITARIOIl caso della comunità coreana zainichi in Giappone
@@ -1962,8 +1830,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/marica.tolomelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Colpo di Stato Solo” e golpe da “operetta” Borghese. Il “piano Solo” e il golpe Borghese tra ricostruzione storica e percezione nell’opinione pubblica italiana.
@@ -2025,8 +1891,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.zecchi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Hormin: studio del corredo funerario e analisi approfondita sul Rilievo di Bologna

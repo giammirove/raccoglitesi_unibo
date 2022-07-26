@@ -3,8 +3,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.alvoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il progresso dell'uomo nella letteratura greca
@@ -16,8 +14,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/ferdinando.amigoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Riconoscimento dell'Io Nabokov e Tournier attraverso lo specchio
@@ -59,8 +55,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.atzori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «La fuga da #Kabul e il dramma di un popolo.» La politica e l’Afghanistan sui social: un’analisi linguistica.
@@ -78,8 +72,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/daniela.baroncini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dal dandy ottocentesco al dandy dei giorni nostri
@@ -117,8 +109,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.bazzocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Una donna" di Sibilla Aleramo: un archetipo letterario attraverso cui svelare una parola profetica
@@ -148,8 +138,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/giuliana.benvenuti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Adattare il romance: un viaggio tra narrativa rosa e prodotti audiovisivi contemporanei
@@ -182,8 +170,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alberto.bertoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cenerentola e Ceneraccio, eroi della sopportazione: una prospettiva comparata.
@@ -214,8 +200,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/federico.bertoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Tutto è esatto, e tutto è mentito». Bugia, realtà e finzione nella letteratura italiana del secondo Novecento
@@ -249,8 +233,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/nicola.bonazzi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + C'era una volta una selva oscura: le riscritture per avvicinare i bambini all'universo dantesco.
@@ -260,8 +242,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/giuseppina.brunetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Tra le Esposizioni di Giovanni Boccaccio e il Comentum di Benvenuto da Imola: esegesi dei personaggi danteschi
@@ -274,8 +254,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.cacciari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Conoscenza e psyché nelle Recognitiones
@@ -289,8 +267,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.campana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dalla Mitteleuropa ai microcosmi nella letteratura di Claudio Magris
@@ -303,8 +279,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/bruno.capaci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + «Giustizia mosse il mio alto fattore»: il genere giudiziario nell'"Inferno"di Dante.Spunti di riflessione per una proposta didattica inclusiva.
@@ -333,8 +307,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.carbognin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il tema della 'crudeltà' nella poesia degli anni Sessanta: L'esperienza dei Novissimi
@@ -365,8 +337,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sonia.cavicchioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "L'Isola di Venere" a palazzo Te a Mantova: il gioco sottile della metafora.
@@ -381,8 +351,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/loredana.chines)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Camminiamo una sera sul fianco di un colle" .Echi danteschi nelle opere di Cesare Pavese
@@ -415,8 +383,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.colangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Cercatemi e fuoriuscite». Traduzione e soggetti nomadi in Amelia Rosselli e Jolanda Insana.
@@ -556,8 +522,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marilena.daquino2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti di usabilità nelle edizioni digitali. Uno studio quantitativo su 300 edizioni online
@@ -577,8 +541,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.degregorio3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il codice A 16 della Biblioteca Comunale dell'Archiginnasio di Bologna sotto analisi paleografico-codicologica e testuale
@@ -601,8 +563,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.ercoles)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'ambiguo atteggiamento del Coro nei confronti del dionisismo nelle 'Baccanti' di Euripide
@@ -617,8 +577,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/s.ferrara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Indagine sul sostrato preellenico del greco miceneo con focus sui teonimi
@@ -628,8 +586,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.ferretti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il "rito di passaggio" nel Purgatorio dantesco
@@ -642,8 +598,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lucia.floridi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'amore che resiste al tempo. Il mito di Achille e Patroclo oggi.
@@ -670,8 +624,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.florimbii2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ancora Sulla Costanza del Saggio: un volgarizzamento inedito di Giuseppe Fracassetti
@@ -754,8 +706,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valentina.garulli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Arte, verosimiglianza, stupore: leggere l'idillio 15 di Teocrito e il mimiambo 4 di Eronda attraverso la Poetica aristotelica
@@ -776,8 +726,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.gasperina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Cristo si è fermato a Eboli" tra letteratura e antropologia
@@ -802,8 +750,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.gianollo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Diversità linguistica ed estinzione: ruolo dell'ambiente e percezione della minaccia nei parlanti
@@ -838,8 +784,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.italia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Pensare l'Italia: la causa nazionale in Alessandro Manzoni
@@ -860,8 +804,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.ledda)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adamo nel cielo delle Stelle fisse (Paradiso, XXVI, 82-142)
@@ -908,8 +850,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/angelomaria.mangini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Io ho fede in te; benedico il giorno in cui t'ho incontrata."La figura di Irma Brandeis nella vita e nella poesia di Eugenio Montale.
@@ -939,8 +879,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/yahis.martari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Competenze di scrittura dell’italiano come L2 di arabofoni: case study.
@@ -967,8 +905,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/donata.meneghelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Edgar Allan Poe e l'immaginario scientifico: tra fiction e non fiction
@@ -985,8 +921,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lara.michelacci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il desiderio vitale della CapineraUn caso letterario di orfanità simile a Marianela di Benito Pérez Galdós
@@ -1010,8 +944,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/filippo.milani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Noia di Moravia. Un testo che viaggia nel tempo, tra letteratura e cinema.
@@ -1027,8 +959,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.miola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Appunti tipologici e lessicali sul gaì dei pastori bergamaschi
@@ -1057,8 +987,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/maddalena.modesti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La correlazione tra i contratti di donazione e di enfiteusi come dinamica economico-sociale nel territorio modenese, sotto l’episcopato di Ingone (1023-1038)
@@ -1120,8 +1048,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/lucia.pasetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La retorica del biasimo nelle constitutiones ad populum tardo imperiali. Analisi di Coll. Mos. 5,3
@@ -1135,8 +1061,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.pellacani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il mito di Perseo ed Andromeda nel rinascimento
@@ -1157,8 +1081,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/silvio.peroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A methodology and an implementation to perform live time traversal queries on RDF datasets
@@ -1170,8 +1092,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/bruna.pieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle allusioni omeriche nella favola di Aristeo
@@ -1188,8 +1108,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/vanessa.pietrantonio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Considerazioni sul confine: la figura animale nell'opera di Julio Cortázar
@@ -1209,8 +1127,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.pirovano2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Commento al Libro Quinto dei "Fatti e Detti Memorabili" di Valerio Massimo
@@ -1226,8 +1142,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/licia.reggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Infanzie africane: storie di formazione a confronto
@@ -1250,8 +1164,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gino.ruozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Il Caffè» e «Il Post». Due "giornali elitari per maggioranze" per una democratizzazione della cultura in Italia
@@ -1317,8 +1229,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/francesco.santi6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Iacopone da Todi lettore di Bonaventura
@@ -1333,8 +1243,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.sberlati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il letterato al servizio del potere. Lettere politiche di Baldassarre Castiglione
@@ -1345,8 +1253,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/andrea.severi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Boccaccio e i moderni nel De sermone di Pontano.
@@ -1361,8 +1267,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabio.tamburini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agenti Conversazionali: Metodologie, Tecniche, Questioni Etiche
@@ -1388,8 +1292,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.tinti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I paratesti delle edizioni di Domenico Rococciola (1481-1506)
@@ -1401,8 +1303,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.tomasi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Strategie di narrazione: un inferno digitale.
@@ -1418,8 +1318,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.tripaldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Si raffredderà l’amore di molti». Persecuzioni, ‘apostasie’ e fine del mondo in Mt. 24, 4-14.
@@ -1432,8 +1330,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.veglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Mirar fiso": Medusa e i miti della visione nelle opere dantesche.
@@ -1450,8 +1346,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/iolanda.ventura)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Hec sempre presente pagina respondebit": il Liber Confortatorius di Goscelinus di Saint Bertin, un "medium di presenza"
@@ -1462,8 +1356,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/matteo.viale)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + «e da Ivanka che era, l'hanno chiamata Giovanna...»La lingua italiana a Fiume, tra storia civile ed educazione linguistica.
@@ -1497,8 +1389,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.weber)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + C'era una volta Il Male

@@ -3,8 +3,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/arianna.aceti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Come ottimizzare l’alimentazione enterale del naonato preermine a full enteral feeding : valutazione di diverse pratiche di gestione del sondino gastrico
@@ -48,8 +46,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesco.azzaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori predittivi di sopravvivenza e scompenso epatico nei pazienti sottoposti a TIPSS: studio multicentrico retrospettivo
@@ -58,8 +54,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.barbara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione della componenete immunitaria di mucosa nella malattia diverticolare del colon
@@ -74,8 +68,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/m.bartoletti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Impact of an antimicrobial stewardship program based on daily infectious disease consultation for infectious risk management in Haematology and Advanced Cell Therapy Units: a monocentric study
@@ -85,8 +77,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cesare.battaglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Progetto NIPT Bologna: dati e analisi preliminari
@@ -114,8 +104,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.boffetta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Infezione da SARS-CoV-2 dopo ciclo vaccinale completo: analisi clinico-laboratoristica delle breakthrough infections negli operatori del settore sanitario
@@ -125,8 +113,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/roberta.bonfiglioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La riorganizzazione delle attività del contact tracing scolastico nell’Azienda USL di Bologna in risposta alle esigenze di Sanità Pubblica
@@ -138,8 +124,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.bonora6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Genetic and Functional studies in SPG20
@@ -150,8 +134,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.borghi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + BIS-65 score: uno strumento bedside nella valutazione del trauma cranico minore
@@ -190,12 +172,12 @@
      + Utilizzo di statine nella patologia da Sars-CoV-2: evoluzione clinica e mortalità
      + validazione del covhos score nel predire in pronto soccorso l’insufficienza respiratoria severa e la mortalitá a 30 giorni in pazienti con covid-19
      + Valutazione dei parametri ecocardiografici in pazienti con pregressa infezione da SARS-CoV-2
-   - Tesi di Laurea Specialistica a ciclo unico
-     + Ipertransaminasemia nell'infezione da SARS-CoV-2 come predittore di gravità clinica all'esordio
    - Tesi di Scuola di Specializzazione
      + interazione cuore-mente: correlazione tra malattie psichiatriche ed impiego di farmaci psicoattivi ed aumentato rischio cardiovascolare in una coorte di soggetti adulti: dati dal brisighella heart study e da casistica ambulatoriale
      + Modulazione farmacologica del sistema renina-angiotensina e outcomes nei pazienti ospedalizzati per polmonite interstiziale SARS-CoV2: studio di coorte
      + Utilità dell'heart score con troponine ad alta sensibilità nel rule out precoce dei pazienti con dolore toracico: uno studio prospettico
+   - Tesi di Laurea Specialistica a ciclo unico
+     + Ipertransaminasemia nell'infezione da SARS-CoV-2 come predittore di gravità clinica all'esordio
 
 #### Alessandro Bovicelli
 ###### Foto  non disponibile
@@ -207,8 +189,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.brigidi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Microbiome Characterisation and association with Infective Endocarditis
@@ -231,8 +211,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.calza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Efficacia e tollerabilità a confronto delle combinazioni tenofovir alafenamide/emitricitabina/bictegravir e dolutegravir/lamivudina nei pazienti con infezione da HIV-1
@@ -241,8 +219,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.caraceni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "Bassi livelli di emoglobina predicono le riammissioni precoci dopo un ricovero per scompenso acuto di malattia in pazienti con cirrosi epatica"
@@ -269,8 +245,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.cassio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + conferma diagnostica precoce nei bambini ipotiroidei congeniti.  dati del centro regionale di screening di bologna e confronto con i dati del registro nazionale dell’ipotiroidismo congenito
@@ -288,8 +262,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/matteo.cescon)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Risultati a breve e lungo termine in pazienti sottoposti a resezione epatica per epatocolangiocarcinoma: esperienza monocentrica
@@ -301,8 +273,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/arrigo.cicero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Indagine sulle priorità soggettive degli studenti del 3° anno del CdL in Infermieristica relativamente alla gestione del paziente con arresto cardiocircolatorio in ambito intraospedaliero utilizzando la Q-Methodology
@@ -312,8 +282,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/ducciomaria.cordelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + impatto della pandemia da sars-cov2 sugli interventi clinico-assistenziali per bambini e adolescenti con disturbi della nutrizione e dell’alimentazione: esperienza di un centro di riferimento regionale
@@ -341,8 +309,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.corvaglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Andamento dei principali biomarkers urinari in neonati pretermine VLBW: impatto di fattori clinici e terapeutici
@@ -372,8 +338,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/stefania.curti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Valutazioni di efficiacia di interventi preventivi pubblicate negli atti congressuali della Società Italiana di Medicina del Lavoro dal 1989 al 2018
@@ -382,8 +346,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/sergio.daddato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'anziano fragile e il rischio di caduta: il ruolo del podologo
@@ -392,8 +354,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/niccolo.daddi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il trapianto polmonare nei pazienti con ipertensione polmonare: review della letteratura ed esperienza di un singolo centro
@@ -402,8 +362,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pierandrea.deiaco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Caratterizzazione ecografica dei carcinosarcomi uterini: valutazione ed individuazione di parametri ecografici specifici, utili alla diagnosi pre-operatoria
@@ -448,8 +406,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/m.domenicali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Assistenza al paziente anziano con frattura di femore: revisione di letteratura
@@ -472,8 +428,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.ercolani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Chirurgia Robotica e Laparoscopica nella Patologia Diverticolare e  Neoplastica del Colon Sinistro: Outcome a Confronto
@@ -493,8 +447,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.fais)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Alcol, sostanze psicoattive ed idoneità alla guida. Ruolo dell'infermiere"
@@ -505,8 +457,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/flaminia.fanelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Coxsackievirus infection of pancreas in diabetes: does the virus induce exosomal miRNAs?
@@ -515,8 +465,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.farina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + PLACENTAL GROWTH FACTOR (PlGF) E DISORDINI CARDIOVASCOLARI NEL PUERPERIO: UN POSSIBILE MARKER PREDITTIVO
@@ -534,8 +482,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.forti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Correlazione tra lo stato nutrizionale e la mortalità per ictus: l’ipotesi “U-Shaped” analizzata tramite una revisione della letteratura e l’analisi di un database.
@@ -563,8 +509,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pietro.fusaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Repeated EUS-guided tissue sampling of pancreatic masses with fine needle biopsy after non-diagnostic or inconclusive results – a multicenter study – The REuBio study
@@ -573,8 +517,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvia.galletti4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Studio prospettico del rischio di ipertensione polmonare a distanza negli extremely preterm: follow-up ecocardiografico nei primi 12 mesi di vita prematuri
@@ -601,8 +543,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.gasparre3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Inibizione dei meccanismi di angiogenesi alternativa attraverso il targeting farmacologico di ERRα in modelli di cancro ovarico privi del complesso I mitocondriale
@@ -611,8 +551,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/milo.gatti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Infezioni fungine invasive breakthrough nei pazienti trapiantati di fegato sottoposti a profilassi con echinocandine rispetto a vari comparators: una revisione sistematica con meta-analisi
@@ -637,8 +575,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.gionchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Aspetti epidemiologici delle Malattie Infiammatorie Croniche Intestinali in età pediatrica
@@ -664,8 +600,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/annagiulia.gramenzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + DIFFERENZE DI GENERE NELL’EPIDEMIOLOGIA, CARATTERISTICHE CLINICHE, TRATTAMENTO E PROGNOSI TRA I PAZIENTI AFFETTI DA CARCINOMA EPATOCELLULARERisultati dal database ITA.LI.CA (Italian Liver Cancer)
@@ -674,8 +608,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.granito)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Atrofia dei villi intestinali "sieronegativa": aspetti clinico-laboratoristici ed immunologici di rilevanza diagnostica
@@ -692,8 +624,6 @@
 ###### Professore straordinario a tempo determinato art.1 co.12 l.230/2005
 [Sito Web](https://www.unibo.it/sitoweb/elio.jovine)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Utilizzo degli stent endoscopici auto-espandibili nel trattamento delle neoplasie stenosanti del colon-retto
@@ -702,8 +632,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/ivana.kurelac)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ottimizzazione del metodo di rilevazione delle cellule circolanti tumorali per biopsia liquida in cancro ovarico
@@ -712,8 +640,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marcello.lanari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Bronchiolite e qualità dell’aria: studio osservazionale retrospettivo monocentrico
@@ -750,8 +676,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.lenzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Confronto tra HEART score e GRACE score nelrule-out dei pazienti con dolore toracico neldipartimento di emergenza-urgenza
@@ -779,8 +703,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mario.lima)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Appendicite acuta in età pediatrica: l'interleuchina 6 come fattore predittivo di diagnosi precoce
@@ -857,8 +779,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.masetti5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Perchè è importante leggere a voce alta ai bambini con ritardo e/o disturbo di linguaggio. Studio di un counselling ai genitori
@@ -910,8 +830,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/domenico.motola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ipertermia maligna da farmaci: una rassegna della letteratura scientifica recente
@@ -923,8 +841,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.muratori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Correlazione tra Liver Stiffness e spessore medio intimale della carotide nel paziente con steatosi epatica non alcoolica
@@ -943,8 +859,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/uberto.pagotto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + dhea-s basale normalizzato nella diagnosi di insufficienza surrenalica primaria in pazienti con carcinoma della tiroide trattato con gli inibitori delle tirosin-chinasi.
@@ -979,8 +893,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/antonia.parmeggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il coinvolgimento della famiglia nel trattamento del bambino con Disturbo dello Spettro Autistico: Parent Training come modello evidence-based per la formazione del genitore
@@ -1029,8 +941,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/guido.pelletti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Validazione di un metodo in GC-MS per la ricerca di agenti dopanti in matrice urinaria
@@ -1039,8 +949,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/susi.pelotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Cannabis light:il dibattito giuridico sulla commercializzazione dei derivati della cannabis sativa light
@@ -1120,8 +1028,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.pession)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + 46, XY DSD: Maggiore incidenza di neoplasia gonadica in pazienti con  disgenesia gonadica completa rispetto a disgenesie parziali
@@ -1156,8 +1062,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/marialetizia.petroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dialogo tra la Dietoterapia Cinese e quella Occidentale:affinità, differenze, sinergie
@@ -1171,8 +1075,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluigi.pilu)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Anomalie della placenta e del cordone ombelicale nelle gravidanze insorte tramite fecondazione in vitro: uno studio prospettico controllato
@@ -1193,8 +1095,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/loris.pironi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Morbo di Crohn: modello di applicabilità della Crohn's Disease Exclusion Diet (CDED)
@@ -1210,8 +1110,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabio.piscaglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + DIAGNOSTICA PER IMMAGINI DELLA POLMONITE SARS-CoV-2 IN UN CONTESTO DI EMERGENZA.CONFRONTO TRA LA TOMOGRAFIA COMPUTERIZZATA E L’ECOGRAFIA POLMONARE
@@ -1226,8 +1124,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gilberto.poggioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Caratteristiche e outcomes del cancro del colon retto in pazienti affetti da malattie infiammatorie croniche intestinali nell'era dei farmaci biologici
@@ -1245,8 +1141,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.poluzzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Aggressività e Suicidio indotti da Farmaci: uno studio di Farmacosorveglianza-Farmacodinamica
@@ -1262,8 +1156,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.porcu)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Procreazione medicalmente assistita e preservazione della fertilità come strategie per la gestione e per la prevenzione dell’infertilità nelle donne affette da endometriosi
@@ -1273,8 +1165,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/m.ranieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi comparativa dei modelli organizzativi e delle caratteristiche cliniche dei pazienti ricoverati presso l'IRCCS Policlinico Sant'Orsola di Bologna durante la prima e la seconda ondata di COVID-19
@@ -1284,8 +1174,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/emanuel.raschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Danno epatico indotto da Nintedanib: analisi delle segnalazioni spontanee presenti nella banca dati internazionale della Food and Drug Administration.
@@ -1309,8 +1197,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/kerry.rhoden)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo chiave della Dieta Chetogenica nella Sindrome da Deficit di GLUT1
@@ -1320,8 +1206,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/claudio.ricci6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Adenocarcinoma duttale del pancreas borderline resecabile anatomico, biologico e condizionale: validazione della definizione dell'International Association of Pancreatology
@@ -1335,8 +1219,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.ricciardiello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Stato dell'arte e prospettive future di chemioprevenzione nei pazienti ad alto rischio di cancro colo-rettale.
@@ -1352,8 +1234,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fernando.rizzello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Prevalenza e fattori di rischio della litiasi renale nelle malattie infiammatorie croniche intestinali
@@ -1362,8 +1242,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/matteo.rottoli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La pandemia da COVID-19 ha significativamente aggravato gli outcomes oncologici dei pazienti con cancro del colon-retto: risultati di uno studio multicentrico nazionale di 15000 pazienti sottoposti a chirurgia tra il 2018 e 2021
@@ -1372,8 +1250,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/boaz.samolskydekel)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Stato di salute dei migranti della rotta Balcanica. Uno studio pilota
@@ -1386,8 +1262,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/sergio.scalinci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + retinite pigmentosa. terapia chirurgica con impianto autologo subsclerale
@@ -1397,8 +1271,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/renato.seracchioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori di rischio clinici ed ecografici per l'arteriosclerosi uterina: verso criteri più selezionati per il trapianto di utero
@@ -1420,8 +1292,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.seri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Caratterizzazione clinico-molecolare dei feocromocitomi/paragangliomi
@@ -1434,8 +1304,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giuliana.simonazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo dell'infermiere nella presa in carico della donna con endometriosi
@@ -1458,8 +1326,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/v.stanghellini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + ruolo dell’ecografia nella diagnosi e nel monitoraggio dei pazienti con disturbi intestinali funzionali
@@ -1468,8 +1334,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marina.tadolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Infezione da SARS-CoV-2 nel giovane adulto e adulto di età inferiore ai 50 anni: differenze dell'impatto epidemiologico, clinico e outcome tra la prima e la terza ondata pandemica
@@ -1482,8 +1346,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mario.taffurelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Diagnosi Differenziale tra Fibroadenoma e Tumore Filloide: uno Score Preoperatorio
@@ -1493,8 +1355,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.tarricone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Organizzazione dei reparti di S.P.D.C. in Emilia-Romagna: una panoramica pre e post COVID-19.
@@ -1521,8 +1381,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/tommaso.tonetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Criteri diagnostici di sindrome da distress respiratorio acuto nei pazienti con Covid-19 trattati con ossigenoterapia nasale ad alto flusso
@@ -1550,8 +1408,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/franco.trevisani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Changing landscape of hepatocellular carcinoma in alcoholic patients.
@@ -1561,8 +1417,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/daniela.turchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'impatto della consulenza genetica oncologia sulla percezione del rischio di tumore: i risultati dello studio CoOPeR
@@ -1577,8 +1431,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/g.ugolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Progetto di audit per la valutazione degli outcomes della Chirurgia Colorettale in Emilia Romagna:ESCA – Emilia Romagna Surgical Colorectal Audit
@@ -1593,8 +1445,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/berardino.vaira)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Curva dei tassi di antibiotico resistenza primaria in Helicobacter pylori in dieci anni e relativa efficacia della terapia sequenziale
@@ -1611,8 +1461,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/maddalena.veronesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Asma e attività fisica
@@ -1622,8 +1470,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gabriella.verucchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Efficacia del trattamento con ruxolitinib in associazione a standard di cura in pazienti ospedalizzati con COVID-19 grave: studio multicentrico retrospettivo
@@ -1638,8 +1484,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/valentina.vicennati2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Efficacia e limiti di una Dieta Chetogenica medicalizzata fortemente ipocalorica (VLCKD) rispetto a una dieta ipocalorica standard nel trattamento clinico del paziente obeso
@@ -1665,8 +1509,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roccomaurizio.zagari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Efficacia e tollerabilità della quadruplice terapia con bismuto nella nuova formulazione galenica "3-in-1" dopo il fallimento di una terapia di prima linea per l'eradicazione dell'infezione da Helicobacter pylori

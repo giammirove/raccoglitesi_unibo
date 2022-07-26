@@ -35,8 +35,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/a.bartolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Industria 4.0 e le tecnologie elettroniche: evoluzioni e prospettive
@@ -65,8 +63,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/a.bellini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ADDITIVE MANUFACTURING: tecnologia innovativa per l'ottimizzazione di macchine elettriche
@@ -95,8 +91,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/mariacristina.bisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi biomeccanica del salto in alto: una revisione della letteratura
@@ -134,8 +128,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marco.breschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei test del secondo modulo del solenoide centrale del progetto ITER
@@ -156,8 +148,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/c.buratti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Trajectory Design For UAV-Aided Wireless Networks Through Reinforcement Learning
@@ -167,8 +157,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valentina.cacchiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modello di ottimizzazione strategica per una centrale idroelettrica
@@ -197,8 +185,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/carlo.caini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Contatti deterministici e UniboCGR in DTNME
@@ -235,8 +221,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.cavallini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Processi di degradazione dei cavi elettrici utilizzati in ambito aeronautico.
@@ -259,8 +243,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/walter.cerroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La piattaforma Vector Packet Processing (VPP)
@@ -274,8 +256,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.chiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Principali caratteristiche e prestazioni di test per COVID-19
@@ -305,8 +285,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.cirimele)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Stato dell’arte e applicazioni dei sistemi filoviari per la mobilità urbana
@@ -317,8 +295,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/christian.conficoni3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi software e collaudo di un gruppo macchina per la movimentazione di cartoni di raccolta
@@ -348,8 +324,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.corazza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Copriamoci di sostenibilità: design di tegole per tetti piantumabili
@@ -362,8 +336,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/cristiana.corsi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di un bando di gara per la fornitura di sistemi per la gestione avanzata del reprocessing degli endoscopi
@@ -397,8 +369,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.costanzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Battery-less solutions enabling LoRa tracking in industrial plants.
@@ -422,8 +392,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/andrea.cristofolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A comprehensive database on air plasma kinetics
@@ -433,8 +401,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cristiano.cuppini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “confronto dei ritmi eeg in risposta a stimoli multisensoriali in persone con sviluppo neurotipico e con disturbo dello spettro autistico”
@@ -453,8 +419,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.dardari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Algoritmi di machine learning per la navigazione cooperativa di droni
@@ -511,8 +475,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.diciotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della tessitura cerebrale con tecnica voxelwise di immagini MR
@@ -536,8 +498,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.diversi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approcci data-driven alla manutenzione predittiva
@@ -579,8 +539,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.fabiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aging assessment of XLPE cables for nuclear power plants
@@ -630,8 +588,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.fiegna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di sistemi di accumulo per impianti fotovoltaici domestici.
@@ -641,8 +597,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/corrado.florian)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Convertitori AC/DC ad alta efficienza con PFC digitale
@@ -655,8 +609,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.franchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Simulazione in ambiente Matlab di calcolo in memoria basato su celle a cambiamento di fase
@@ -690,8 +642,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.giordano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione della sollecitazione meccanica nei protocolli di ingegneria del tessuto condrale
@@ -713,8 +663,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.giorgetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Implementazione di un Modem Digitale Mediante SDR Adalm Pluto
@@ -759,8 +707,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.grandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sistemi di alimentazione per la mobilità elettrica filoviaria, tranviaria e ferroviaria
@@ -812,8 +758,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/elisa.magosso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Acquisizione di segnali EEG durante compiti di reaching e analisi dei potenziali evocati motori
@@ -848,8 +792,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/mauro.mangia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Machine Learning Unsupervised Methods in the Design of an On-board Health Monitoring System for Satellite Applications
@@ -859,8 +801,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.marconi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Controllo e stabilizzazione di un pendolo inverso su carrello
@@ -898,8 +838,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/diego.masotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione elettromagnetica dei Quantum bits e delle loro interazioni
@@ -912,8 +850,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.mazzanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dielectric characterization of XLPE insulation for HVDC cables subjected to Superimposed Switching Impulses
@@ -967,8 +903,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cecilia.metra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Design and Implementation of a Battery Powered Wireless Communication System
@@ -979,8 +913,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/nicola.mimmo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progettazione della cinematica delle sospensioni di un veicolo di formula SAE
@@ -1001,8 +933,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/michele.monaci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Algoritmi euristici di routing per problemi di sorveglianza robotica
@@ -1023,8 +953,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.morandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sistema elettronico per la gestione dei flussi di potenza di uno SMES
@@ -1047,8 +975,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/fabio.napolitano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della remuneratività di impianti fotovoltaici e sistemi di accumulo in schemi di autoconsumo collettivo
@@ -1072,8 +998,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.neretti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attuatori aereodinamici al plasma: misure di velocità e simulazioni fluidodinamiche
@@ -1095,8 +1019,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.notarstefano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e sviluppo di algoritmi di training federato per reti neurali GAN
@@ -1197,8 +1119,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/luca.palmerini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La nuova frontiera dei dispositivi indossabili nella ricerca sulla malattia di Parkinson:  gli sviluppi e le prospettive nello studio del sonno
@@ -1207,8 +1127,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/e.paolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Acquisizione ed Elaborazione di Codici Superficiali su Materiali Plastici
@@ -1222,8 +1140,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gaetano.pasini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetto magnetoresistivo ed applicazioni ai sensori di campo magnetico
@@ -1236,8 +1152,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/gianni.pasolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Implementazione in codice C di un simulatore della tratta di uplink di un sistema 5G.
@@ -1254,8 +1168,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.peretto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi di segnali elettrici mediante utilizzo di labview
@@ -1296,8 +1208,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/susanna.reggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio e simulazione TCAD di effetti di instabilità in diodi di potenza di grandi dimensioni durante la fase di spegnimento veloce
@@ -1312,8 +1222,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/pierluigi.ribani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi tecnica e ambientale dei principali impianti idroelettrici ad acqua fluente
@@ -1327,8 +1235,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/mattia.ricco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Decarbonizzazione ed elettrificazione del trasporto pubblico su gomma: analisi e confronto tra diverse soluzioni
@@ -1376,8 +1282,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.rizzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fasi di progettazione di una macchina automatica modulare
@@ -1417,8 +1321,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/carlo.rossi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modellazione e controllo di un sistema a celle a combustibile di tipo PEM
@@ -1428,8 +1330,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/claudio.rossi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modeling of synchronous electric machine in magnetic saturation region
@@ -1445,8 +1345,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.rossi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione e analisi di data augmentation su segnali PPG ed accelerometrici per la predizione della frequenza cardiaca
@@ -1465,8 +1363,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.rovatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + analisi segnale di un sensore di rilevamento massa per macchine di riempimento capsule
@@ -1479,8 +1375,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/g.sala)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modeling and analysis of a powertrain for hybrid and electric vehicles
@@ -1507,8 +1401,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.santarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Transient Measurement Methods for Gallium Nitride Radio-Frequency Transistors
@@ -1529,8 +1421,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.severi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sindrome di Brugada: caratterizzazione mediante voltage-clamp delle mutazioni dei canali del sodio.
@@ -1572,8 +1462,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/a.tallarico)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di un inverter implementato mendiante tecnologie ad ampio bandgap
@@ -1584,8 +1472,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/angelo.tani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Algoritmi di ottimizzazione per la progettazione di macchine elettriche
@@ -1656,8 +1542,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.tilli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle metodologie di Power Line Communication in ambiente domestico e industriale
@@ -1697,8 +1581,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.tinarelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del rischio negli impianti elettrici industriali: La cabina MT/BT
@@ -1714,8 +1596,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/fabio.tossani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L’Impianto Fotovoltaico nelle Comunità Energetiche
@@ -1726,8 +1606,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pierandrea.traverso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progettazione e realizzazione di un Data Logger per vetture di Formula SAE
@@ -1736,8 +1614,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mauro.ursino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei segnali EEG nei pazienti affetti da insonnia cronica
@@ -1781,7 +1657,7 @@
      + see www.robertoverdone.org
  * Tesi assegnate
    - Tesi di Laurea
-     + Applicazioni 5G e IoT in Regione Emilia-Romagna
+     + Applicazioni 5G e IoT in regione Emilia-Romagna
      + Indagine presso aziende dell’automazione regionali sul loro interesse riguardo a applicazioni future dell’Industrial IoT
      + Rete wireless basata su tecnologia LoRa per comunicazioni terra-treno ed a bordo convoglio
    - Tesi di Laurea Magistrale
@@ -1797,8 +1673,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniele.vigo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modelli PLI per la pianificazione di attività di satelliti
@@ -1838,8 +1712,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.zarri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Controllo predittivo per azionamenti elettrici basati su macchina brushless trifase

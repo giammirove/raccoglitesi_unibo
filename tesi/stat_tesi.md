@@ -3,8 +3,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.agati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il backtesting : aspetti metodologici e applicativi
@@ -22,8 +20,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.anderlucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Automatic Assessment Of English Proficiency Levels Via Language Complexity Metrics
@@ -38,8 +34,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/francesco.angelini7)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Lo sviluppo di Netflix e del mercato dello streaming
@@ -48,8 +42,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/a.baldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + recenti sviluppi statistici nelle prove cliniche
@@ -59,8 +51,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.ballestra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La Valutazione della Riserva Sinistri in Ottica Solvency 2: Metodi Deterministici e Stocastici
@@ -70,8 +60,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/n.barban)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Un'analisi dei flussi migratori internazionali utilizzando le stime di Abel e Sander
@@ -86,8 +74,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rossella.bernardini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Evoluzione della disuguaglianza economica: concetti, dimensioni e misure a confronto
@@ -101,8 +87,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/cristina.bernini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Big Pharma e il settore Healthcare
@@ -121,8 +105,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.bianconcini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Tecniche statistiche di analisi di variabili idromorfologiche per la classificazione di ambienti fluviali"
@@ -161,8 +143,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/renata.bottazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Felicità dichiarata dalle famiglie italiane: profilo socio-economico ed evoluzione temporale”
@@ -173,8 +153,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.brasili)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi sulla Panoramica delle Central Bank Digital Currencies (CBDC)
@@ -211,8 +189,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sergio.brasini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi statistica sulla diffusione delle assicurazioni a tutela del rischio sismico in Italia
@@ -233,8 +209,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.brizzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The Application of Statistical Analysis to the Cryptocurrency Market
@@ -244,8 +218,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.cagnone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A causal latent Markov model for the analysis of cognitive functioning over time
@@ -259,8 +231,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/pinuccia.calia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Innovazione e knowledge spillover in Europa: un’analisi regionale tramite l’uso di metodi spaziali
@@ -276,8 +246,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/furio.camillo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Business Plan e Piano di Marketing
@@ -299,8 +267,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.capacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Environmental Kuznets Curve: an empirical relationshipbetween GDP and CO2 emissions in OECD countries
@@ -317,8 +283,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.carfagna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modelli di previsione nello sport: il calcio del futuro
@@ -330,8 +294,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/m.castellani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Arte e tecnologia dal passato alla Crypto Art
@@ -352,8 +314,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/monica.chiogna2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Variance analysis of spatial characterized transcriptomic data
@@ -362,8 +322,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/daniela.cocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Bayesian Generalized Additive Models: studying shooting performance in Basketball
@@ -379,8 +337,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/chiara.comolli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + l’Indice delle Pari Condizioni di Vita (IPCV): Un nuovo modo di analizzare la disuguaglianza di genere nel mondo
@@ -405,8 +361,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ignazio.drudi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei dati sul Campionato Europeo di Calcio:Modello Logit con metodo Stepwise.
@@ -462,8 +416,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvia.emili2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Job Demands-Resources Perspective to Volunteers' leaving intentions: The role of motivations and burnout
@@ -472,8 +424,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/matteo.farne)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Aspettativa di vita: analisi e confronto tra paesi OCSE e non OCSE
@@ -500,8 +450,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/martin.forster)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Running efficient clinical trials. Statistical and economic perspectives on early stopping in sequential designs.
@@ -543,8 +491,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuliano.galimberti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + an empirical application of generalized additive models to the hedonic price method: the housing market in the city of milan
@@ -630,8 +576,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.guizzardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Time series and volatility analysis on Nasdaq100 with ARIMAGARCH approach and Markov-switching approach
@@ -648,8 +592,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/christian.hennig)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + An empirical study of differences between positions in football
@@ -700,8 +642,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.lanconelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + I modelli Matematici per i rischi assicurativi: le metodologie di calcolo attuariali e l'impatto del Covid-19
@@ -715,8 +655,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.luati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Forecasting the Variance and the Trend of the Apple Stock
@@ -733,8 +671,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.lubisco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della vivibilità di cinque città nella provincia Henan basata sull'analisi fattoriale
@@ -750,8 +686,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/m.matteucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione dei metodi di credit scoring ai prestiti peer-to-peer
@@ -765,8 +699,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/carlo.mazzaferro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Storia, sviluppo e fallimenti delle monete Fiat e delle Cryptovalute
@@ -779,8 +711,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/m.mazzocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Airlines' recovery strategies during the Covid-19 pandemic: the case of Air Canada
@@ -803,8 +733,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/rossella.miglio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della mortalità generale e correlata al COVID-19 nel 2020in Emilia-Romagna
@@ -825,8 +753,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/stefania.mignani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Data Literacy- la competenza nella lettura e comprensione dei dati: alcuni esempi
@@ -860,8 +786,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/angela.montanari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle carriere universitarie al termine del 1° anno per coorti di immatricolati L e LMCU in UniBo
@@ -892,8 +816,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/sabrina.mulinacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Archimax copulas: application to Loss-Alae data
@@ -909,8 +831,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/m.novelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Happiness: can we understand it?
@@ -957,8 +877,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lucia.pasquini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Lavoratori anziani e mercato del lavoro
@@ -967,8 +885,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pierpaolo.pattitoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "L'inflazione: dopo la pandemia, prima della guerra"
@@ -1014,8 +930,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/tito.pietra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The trade war between China and the USA
@@ -1036,8 +950,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/saverio.ranciati2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Decrypting a message: statistical analysis in cryptography
@@ -1046,8 +958,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/rosella.rettaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + L'impatto della grande recessione sulle principali variabili demografiche: il caso della Grecia
@@ -1056,8 +966,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pietro.rigo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il teorema di Glivenko-Cantelli
@@ -1079,8 +987,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/g.roli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei dati relativi alla seconda e terza ondata di SARS-CoV-2 in Emilia-Romagna
@@ -1090,8 +996,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/silvia.romagnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Impact of Sustainable Practices on Firms' Stock"
@@ -1155,8 +1059,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.scalone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Bayesian Survival Analysis of Historical Infant Mortality in Madrid
@@ -1173,8 +1075,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.soffritti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi statistica dei flussi migratori mediante tecniche di teoria dei grafi
@@ -1199,8 +1099,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/dario.spelta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Basi tecniche delle assicurazioni sulla salute.
@@ -1246,8 +1144,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/francesca.tosi12)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il futuro demografico della provincia di Modena: previsioni e possibili alternative
@@ -1290,8 +1186,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/carlo.trivisano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi esplorativa dei reclami ricevuti dalle imprese assicurative in Italia nell’ anno 2020
@@ -1303,8 +1197,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimo.ventrucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della presenza di autocorrelazione spaziale nell'incidenza di casi di COVID-19
@@ -1317,8 +1209,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.vici)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Dalla Lella": analisi del settore enogastronomico e turistico riminese
@@ -1341,8 +1231,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cinzia.viroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e studio dei terremoti del territorio Italiano
@@ -1360,8 +1248,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/maroussa.zagoraiou)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Missing data and prediction

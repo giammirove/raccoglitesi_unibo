@@ -9,8 +9,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.amoroso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sistema Pubblico di Identità Digitale: stato dell'offerta dei Gestori dell'Identità Digitale e futuri sviluppi
@@ -19,8 +17,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.asperti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Image-based food recognition with a Conditional U-net
@@ -41,8 +37,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ozalp.babaoglu)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Identità digitale: uno studio della tecnologia blockchain
@@ -52,8 +46,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/ilaria.bartolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Identificazione di benchamrk per reti neurali 3D per la detection di pattern motori
@@ -67,8 +59,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.bellavista)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e Sperimentazione delle Performance di Ethereum per Applicazioni di Supply Chain
@@ -142,8 +132,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.bevilacqua)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Progettazione sistema rilevamento buche stradali in tempo reale.
@@ -158,8 +146,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luciano.bononi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Nativo vs Multipiattaforma: Studio di costi e performance per la scelta della tipologia di sviluppo
@@ -171,8 +157,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/andrea.borghesi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Hardware Dimensioning for Transprecision Algorithms through Empirical Model Learning
@@ -204,8 +188,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/franco.callegati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi delle procedure di mobilita' in una rete 4g
@@ -217,8 +199,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/raffaele.cappelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione della visione artificiale nelle immagini mediche
@@ -232,8 +212,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/antonella.carbonaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + DS4H Image Alignment: Modulo per allineamento multimodale automatico considerando deformazioni solide
@@ -257,8 +235,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/federico.chesani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di alcune tecniche di process mining utilizzate nell'ambito dei processi sanitari
@@ -280,8 +256,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.ciaccia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ambiente per il supporto di preferenze tra coppie di oggetti
@@ -299,8 +273,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/anna.ciampolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Monitoraggio energetico di algoritmi numerici tramite la libreria PAPI
@@ -336,8 +308,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.corradi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approccio Cloud nativo nel monitoraggio della piattaforma Apache Kafka
@@ -355,8 +325,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ugo.dallago)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Compression of Labeled Spine Trees.
@@ -383,8 +351,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/renzo.davoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio e implementazione di strumenti di domain name resolution per l'Internet of Threads
@@ -401,8 +367,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.difelice3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di similarità di serie temporali per la validazione di osservazioni meteorologiche: confronto tra i tool MeteoNetWork vs NOAA
@@ -440,8 +404,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/pietro.dilena)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Challenging the Daphnia magna genome to decipher transcriptional changes during development and sex determination
@@ -459,8 +421,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.distefano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Classificazione di immagini mediante reti neurali convoluzionali
@@ -502,8 +462,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.donatiello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Secondary Ticketing - Analisi del fenomeno, delle normative e implementazione di una soluzione
@@ -518,8 +476,6 @@
 ###### Professore Alma Mater
 [Sito Web](https://www.unibo.it/sitoweb/eugenio.faldella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Innovazione ed unificazione delle interfacce in sistemi di automazione industriale attraverso il protocollo di comunicazione OPC-UA
@@ -538,8 +494,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.foschini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell'impatto dei Docker Container sulle performance di I/O
@@ -551,8 +505,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.franco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + progettazione e realizzazione di un software per la creazione e il rilascio dei digital badge
@@ -561,8 +513,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.gabbrielli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + An approach to document classification using verb-object pairs
@@ -587,8 +537,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/enrico.gallinucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + MLOps - Standardizing the Machine Learning Workflow
@@ -607,8 +555,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/vittorio.ghini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi degli attacchi mitm (man-in-the-middle) in una rete aziendale e come prevenirli
@@ -636,8 +582,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/matteo.golfarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Design and Implementation of a Data Platform for StreamAnalysis: WeLASER as a Case Study"
@@ -648,8 +592,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.gorrieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Implementation of Algorithms for Bisimulation Equivalence
@@ -658,8 +600,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.grandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei trend riguardanti i Data Center e del loro impatto sull'ecosistema digitale globale
@@ -682,8 +622,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/zeynep.kiziltan)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Conditioning Text-to-Speech Synthesis on Dialect Accent: A Case Study
@@ -705,8 +643,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/cosimo.laneve)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi dei modelli di mercato nella finanza decentralizzata
@@ -726,8 +662,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/stefano.lodi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis and design of a Data Warehouse for CRM data: Decision Support System and Dimensional Fact Model
@@ -775,8 +709,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.lombardi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Asymmetries in Adversarial Settings
@@ -795,8 +727,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/daniela.loreti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi, progettazione e implementazione di una applicazione web per l'utilizzo di una libreria Prolog
@@ -848,8 +778,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luciano.margara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Criptovalute
@@ -868,8 +796,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/simone.martini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Uso di LEGO nella didattica: principi di rappresentazione digitale
@@ -880,8 +806,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/moreno.marzolla)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Data Distribution Management: un approccio CUDA
@@ -893,8 +817,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.mattoccia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle prestazoni di un sistema monoculare per calcolo di mappe di profondità
@@ -923,8 +845,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.mello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della relazione tra coreografie robotiche e valutazione artistica
@@ -933,8 +853,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/michela.milano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi di dati e sviluppo di modelli predittivi per sistemi di saldatura
@@ -947,8 +865,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.mirri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Accessibilità dei virtual tour: Caso di studio nei campus dell'università di Bologna
@@ -974,8 +890,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/edoardo.mollona)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e certificazione dei prospetti di conto economico di una multinazionale nel campo del fitness
@@ -995,8 +909,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rebecca.montanari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi, implementazione del modello Play to Earn basato sulla Blockchain Solana.
@@ -1048,8 +960,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.moro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abstractive Long Document Summarization: Studio e Sperimentazione di Modelli Generativi Retrieval-Augmented
@@ -1083,8 +993,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mirco.musolesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Design and Implementation of a Reinforcement Learning Framework for iOS Devices
@@ -1094,8 +1002,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.omicini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Hyperledger: Architettura, Struttura e Tecnologie applicate alla Blockchain
@@ -1109,8 +1015,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.patella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Classificazione di immagini con il framework Windsurf
@@ -1136,8 +1040,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.pau)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + CheckBreast, l'app per la prevenzione che fa per te
@@ -1147,8 +1049,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/wilma.penzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei modelli di rilevamento di hate speech nei social network: il sistema HaterNet
@@ -1178,8 +1078,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/m.poggi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sperimentazione con telecamera stereo ZED 2
@@ -1264,8 +1162,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/a.ricci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Deep Reinforcement Learning con PyTorch
@@ -1311,8 +1207,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.roccetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo e analisi CryptoStonks: alla ricerca di una correlazione tra tweets e andamento delle criptovalute
@@ -1323,8 +1217,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.roli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi dell'applicazione di empowerment a robot sottoposti ad adattamento in ambiente dinamico
@@ -1337,8 +1229,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/daviderossi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agile project management: analisi del framework e della sua applicazione in GetConnected S.r.l.
@@ -1372,8 +1262,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/samuele.salti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Automatic detection of the inferior alveolar nerve in CT scans with CenterNet
@@ -1387,8 +1275,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.sangiorgi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Cloud Computing e Internet of Things: Costrutti Linguistici
@@ -1400,8 +1286,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.sartori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Application of the POIROT methodology to restaurants' reviews.
@@ -1444,8 +1328,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/p.torroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Critical Survey of Text-to-Image Synthesis by Generative Adversarial Networks: Concepts, Methods, and Evaluations
@@ -1470,8 +1352,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/angelo.troina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Realtà virtuale e realtà aumentata nel turismo applicazioni attuali e sviluppi futuri
@@ -1480,8 +1360,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/angelo.trotta5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progettazione e Sviluppo di una Piattaforma per la Simulazione e Controllo di un Sistema Multidrone
@@ -1507,8 +1385,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabio.vitali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + AimapEditor - Utilizzo del Software per velocizzare l’editing di un file XML
@@ -1534,8 +1410,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluigi.zavattaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Data Mesh: decentralizzare l'ownership dei dati mantenendo una governance centralizzata attraverso l'adozione di standard di processo e di interoperabilità

@@ -22,8 +22,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rossella.agliardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Solving optimal stopping problems using neural networks
@@ -39,8 +37,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/nicola.arcozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Stima sul numero di partizioni disgiunte e una sua applicazione in filogenetica
@@ -51,8 +47,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.baldi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il problema di Sturm-Liouville
@@ -67,8 +61,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marilena.barnabei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Anelli booleani, reticoli booleani e algebre di Boole
@@ -83,8 +75,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.barzanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + la ricerca operativa come strumento per la risoluzione di problemi aziendali di ottimizzazione
@@ -99,8 +89,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.benvenuti5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Alla scoperta dei criteri di congruenza dei triangoli tramite la didattica laboratoriale
@@ -151,8 +139,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.bonfiglioli6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei Coefficienti della Serie di Fourier: Alcuni Risultati Fini
@@ -162,8 +148,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.bormetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bitcoin vs stock market: esiste correlazione tra l’indice della più grande criptovaluta mondiale ed i principali indici azionari?
@@ -215,8 +199,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/emanuela.caliceti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi qualitativa del moto: linearizzazione nell'intorno di un punto di equilibrio e studio della stabilità
@@ -237,8 +219,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.cantarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A dive into the inverse Galois problem
@@ -253,8 +233,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.casciola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progressive Iteration Approximation: una classe di metodi per interpolazione e approssimazione spline
@@ -264,8 +242,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.caselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A study on Gauss' class number one problem
@@ -277,8 +253,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessia.cattabriga)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Mapping Class Group e linearità nel caso della superficie di genere due
@@ -309,8 +283,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.cinti5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Esistenza di minimi per problemi variazionali
@@ -319,8 +291,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.citti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Un problema di minimo negli spazi di Sobolev
@@ -350,8 +320,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.cupini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il problema di Sturm-Liouville
@@ -381,8 +349,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.dore)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Condizioni sufficienti per l’esistenza di estremanti vincolati
@@ -431,8 +397,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/franca.franchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + L’instabilità di Turing e la formazione di Pattern spaziali in modelli di Diffusione e Reazione, con Diffusione incrociata, in ambito bio-medico
@@ -453,8 +417,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessandr.gimigliano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ideali nell'anello dei polinomi e varietà algebriche
@@ -469,8 +431,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/antonella.grassi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Classificazione di politopi riflessivi e di Varietà di Fano Toriche
@@ -479,8 +439,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/davide.guidetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La funzione Gamma di Eulero con applicazioni alle derivate frazionarie
@@ -489,8 +447,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/larshalvard.halle)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Punctual Hilbert schemes
@@ -499,8 +455,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/monica.ida)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + I gruppi dei fregi e i gruppi cristallografici piani
@@ -542,8 +496,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/damiana.lazzaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di algoritmi di mesh decimation
@@ -555,8 +507,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.lenci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Quantum computing and post-quantum cryptography
@@ -565,8 +515,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.lillo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Risk hedging instruments for the effects of climate change on the tourism sector: the case study of the European Alps
@@ -580,8 +528,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mirella.manaresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Anelli noetheriani e anelli artiniani
@@ -601,8 +547,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/andre.martinez)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Meccanica Lagrangiana Relativistica di una Particella Libera
@@ -625,8 +569,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.migliorini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + c*-algebras and k-theory
@@ -644,8 +586,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.moci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Chromatic symmetric homology
@@ -655,8 +595,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.mongardi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + compattezza e separazione
@@ -668,8 +606,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.montanari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Disuguaglianza di Poincaré e Hölderianità delle soluzioni deboli di PDE
@@ -701,8 +637,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/marta.morigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Estensioni trascendenti di campi
@@ -715,8 +649,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/serena.morigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Automatic texture-cartoon image decomposition
@@ -742,8 +674,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.negrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Alcuni esempi in Analisi matematica e un'indagine su due gruppi di studenti
@@ -781,8 +711,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.pagliarani9)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Apprendimento per rinforzo: la convergenza del Q-learning
@@ -807,8 +735,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.parmeggiani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Integrabilità di distribuzioni: i Teoremi di Frobenius e Nagano
@@ -895,8 +821,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/valeria.simoncini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazioni dell'analisi tensoriale delle componenti principali
@@ -917,8 +841,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.tantari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Approccio meccanico statistico allo studio delle Macchine di Boltzmann Ristrette

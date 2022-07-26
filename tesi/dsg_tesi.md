@@ -3,8 +3,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/nicola.aicardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Centralizzazione e aggregazione della committenza negli appalti pubblici
@@ -30,8 +28,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/a.albanese)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Il contratto successorio in Italia e all'estero
@@ -41,8 +37,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/enrico.almureden)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "La responsabilità precontrattuale in un'ottica comparata"
@@ -137,8 +131,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.balestra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Autonomia contrattuale e interessi disponibili nelle relazioni di coppia
@@ -156,8 +148,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elisa.baroncini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il Covid-19 e la dottrina internazionale sull’immunità giurisdizionale
@@ -175,8 +165,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/anna.bellodiansaloni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il matrimonio romano e l'influsso del cristianesimo.
@@ -186,8 +174,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.bertaccini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analysis of social control and criminal policies in modern and contemporary societies
@@ -199,8 +185,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/carlo.berti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "divieto dei patti successori"
@@ -225,8 +209,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesco.biagi4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Corti Costituzionali e Decadimento Democratico: Ungheria e Turchia a Confronto
@@ -237,8 +219,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.biavati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Consulenza tecnica preventiva tra finalità probatoria e conciliativa: uno sguardo alla duplice anima dell'istituto.
@@ -256,8 +236,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.bologna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + csm e ordinamento giudiziario.alcune prospettive di riforma
@@ -269,8 +247,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.bonatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I vantaggi della conciliazione come alternativa al conflitto in settori speciali del contenzioso: una comparazione.
@@ -280,8 +256,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/tommaso.bonetti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + IL project financing E GLI IMPIANTI SPORTIVI.PROBLEMI, APPLICAZIONI PRATICHE, SCENARI E PROSPETTIVE.
@@ -301,8 +275,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/geraldina.boni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Chiesa e crimine organizzato in Italia: dall'analisi dei provvedimenti canonici adottati nel Mezzogiorno al processo di beatificazione di Pino Puglisi
@@ -323,8 +295,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.brighi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Data breach e pandemia di Covid-19
@@ -353,8 +323,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/brunella.brunelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + continuita' aziendale, crisi ed insolvenza, dalla legge fallimentare al nuovo codice
@@ -368,8 +336,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/ugo.bruschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Precedenti, realtà e mito della Magna Carta: un’analisi alla luce della storiografia italiana
@@ -378,8 +344,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.caia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Intuitus personae e concorsualita’ nell’assegnazione delle commesse pubbliche.
@@ -395,8 +359,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/michele.caianiello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Confisca: come bilanciare un'efficace cooperazione tra gli Stati membri con un'adeguata protezione delle garanzie procedurali
@@ -413,8 +375,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/massimo.calcagnile)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + atti di pianificazione come misura di contrasto all’inquinamento atmosferico
@@ -450,8 +410,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alberto.camon)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Criminalità organizzata e delitti contro la Pubblica Amministrazione. Strumenti investigativi a confronto
@@ -461,8 +419,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.campione)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + I contratti di convivenza a un lustro dalla legge n. 76/2016
@@ -479,8 +435,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.canestrari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Colpa e accompagnamento in montagna. Profili penali.
@@ -508,8 +462,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.carinci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi dei profili fiscali delle operazioni straordinarie transfrontaliere nelle imposte sui redditi
@@ -532,8 +484,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/angela.carpi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La Belt and Road Initiative e la tutela ambientale
@@ -543,8 +493,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/corrado.caruso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I confini della libertà di manifestazione del pensiero e l’incriminazione d’odio nell’Italia di oggi.
@@ -555,8 +503,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.casale)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli accomodamenti ragionevoli per i disabili nei luoghi di lavoro
@@ -569,8 +515,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.casolari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A European Health Union: Analysis of the Proposal for a Regulation on serious cross-border threats to health and repealing Decision 1082/2013/EU
@@ -611,8 +555,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.cavina6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Giovanni Antonio Cavazzi (il matrimonio tradizionale nell'Africa Sub-Sahariana nel XVII secolo e la sua sopravvivenza nel XX-XXI secolo)
@@ -634,8 +576,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/ludovica.chiussi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Belt and Road Initiative: Controversial Dynamics of the Geo-Economic Chinese Expansion
@@ -660,8 +600,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.curi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Crimini d’odio e discriminazione. Una comparazione tra Italia, Francia, Inghilterra e Stati Uniti
@@ -673,8 +611,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giangiacomo.dangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il regime del deposito doganale
@@ -683,8 +619,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonello.deoto2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + atti discriminatori per motivi religiosi e islamofobia
@@ -703,8 +637,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.difederico)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Digital Platforms and EU law: The Uber case
@@ -723,8 +655,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/caterina.domenicali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I nuovi orizzonti dell'immigrazione: luci e ombre dei sistemi di tutela del minore straniero non accompagnato
@@ -734,8 +664,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/caterina.drigo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Are they queer enough?: an analysis of SOGI asylum claims
@@ -751,8 +679,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.dugato2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Dinamiche del diritto amministrativo nelle stagioni emergenziali. La realizzazione dell'interesse pubblico tra misure semplificatorie, legalità ed efficienza.
@@ -780,8 +706,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.facci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La liquidazione del danno non patrimoniale negli articoli 138 e 139 cap tra le tabelle di milano e roma
@@ -799,8 +723,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/andrea.fantin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Limiti e vincoli di natura pubblicistica alla proprietà privata
@@ -822,8 +744,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.ferioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + “No son treinta pesos, son treinta años.Partecipazione popolare nella transizione costituzionale del Cile neoliberista."
@@ -835,8 +755,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/giusella.finocchiaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Dall’esenzione di responsabilità agli obblighi di due diligence: prospettive di eteroregolamentazione degli ISP attraverso il Digital Services Act
@@ -865,8 +783,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/franco.focareta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Misure di austerità ed effettività della tutela dei diritti sociali nella giurisprudenza multilivello
@@ -875,8 +791,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/desiree.fondaroli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gli abusi di mercato: doppio binario sanzionatorio e principio del ne bis in idem
@@ -896,8 +810,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/lauramaria.franciosi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Finanza e diritto islamico nel nuovo contesto globale
@@ -911,8 +823,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/massimo.franzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + danno da omessa legislazione
@@ -939,8 +849,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/emanuela.fronza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Cautionary Tale: Transitional Justice in Brazil after 2014-2016
@@ -967,8 +875,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/elena.gabellini4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + La tutela processuale del socio lavoratore di cooperativa
@@ -983,8 +889,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/m.gatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La libera circolazione dei lavoratori e le prestazioni speciali in denaro a carattere non contributivo
@@ -1007,8 +911,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/sergio.gilotta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "Aspetti giuridici del Private Equity"
@@ -1033,8 +935,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marcella.gola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gestione amministrativa turistica, con particolare attenzione all’esperienza della regione Calabria.
@@ -1048,8 +948,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.grazzini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Comunicazione in rete e tutela della reputazione d'impresa
@@ -1061,8 +959,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.guerrieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il fallimento dei soci
@@ -1077,8 +973,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/g.guidetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le dichiarazioni dei redditi: Un breve rassegna del sistema di imposizione fiscale in Italia e la prassi burocratica
@@ -1087,8 +981,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/rolandino.guidotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + The Sale and Purchase Agreement in the Covid era
@@ -1097,8 +989,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.guizzardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + L'opera d'arte nel diritto dei mercati finanziari e le nuove frontiere della tecnica
@@ -1148,8 +1038,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/andrea.lassandari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I congedi parentali: conciliazione vita lavoro
@@ -1178,8 +1066,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessia.legnani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Costituzione Siciliana del 1812
@@ -1190,8 +1076,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.leoncini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + L’internazionalizzazione delle PMI italiane - Focus Regione Marche.
@@ -1200,8 +1084,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.lolli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il R.U.P. nel procedimento amministrativoed il responsabile del contratto nella LCSP
@@ -1213,8 +1095,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.luchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Genesi ed evoluzione della successione ereditaria nel diritto romano: la successione testamentaria tra tipologie, limiti e tutela.
@@ -1223,8 +1103,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/micheleangelo.lupoi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il procedimento di adozione
@@ -1235,8 +1113,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sandro.mainardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Dalla crisi del welfare state al welfare aziendale. Una panoramica evolutiva tra normativa e prassi.
@@ -1253,8 +1129,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/susanna.mancini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + CARE LEAVERS AND THE RIGHT TO HIGHER EDUCATION IN ITALY: vulnerability through the analytical lens of intersectionality
@@ -1275,8 +1149,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vittorio.manes)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + “Ambiente Svenduto”: il caso ILVA ei reati ambientali. Tra ordinamento interno e fonti sovranazionali.
@@ -1342,8 +1214,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pietro.manzini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Regulating Algorithms: Collusion and the limits of Article 101 TFEU
@@ -1358,8 +1228,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.martelloni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Diritti in sella alla gig economy. Quando le rivendicazioni dei rider allargano il campo d'applicazione della protezione giuslavoristica.
@@ -1400,8 +1268,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/fabiana.mattioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La responsabilità precontrattuale: fra dolus e culpa nell'evoluzione storica e internazionale.
@@ -1410,8 +1276,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/daniela.memmo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La normativa comunitaria sulla lotta contro i ritardi di pagamento nelle transazioni commerciali
@@ -1430,8 +1294,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pieralberto.mengozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Brexit, la circolazione delle persone e l'Irlanda
@@ -1475,8 +1337,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luca.mezzetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La condizione della donna in Giordania tra fonti laiche e diritto islamico
@@ -1510,8 +1370,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.mondini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “il c.d. superbonus fiscale edilizio e le sue innovative modalità di fruizione”
@@ -1536,8 +1394,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.morrone)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + covid-19: gli strumenti normativi per far fronte alla pandemia e le mutazioni degli organi costituzionali
@@ -1568,8 +1424,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.musso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gli accordi di licenza di brevetto: profili contrattuali e concorrenziali
@@ -1585,8 +1439,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/monica.navilli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Contrattazione pirata, dumping contrattuale e rappresentanza sindacale.Strategie di contrasto.
@@ -1605,8 +1457,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.nicodemo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Amore e rabbia (nella società e nel diritto)
@@ -1618,8 +1468,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/attilio.nisco2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il dolo eventuale nella recente giurisprudenza di legittimità: dalla sentenza ThyssenKrupp al caso Vannini
@@ -1670,8 +1518,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/monica.palmirani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A vision of the framework of data altruism through an analytical approach.
@@ -1685,8 +1531,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/stefania.pellegrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Gli immigrati nel mercato del lavoro: concorrenti, complementari o sostitutivi?"
@@ -1719,8 +1563,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/margherita.pittalis)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I nuovi compiti dell’organizzatore di eventi sportivi nel settore della pallavolo ai fini di gestire la pandemia da Covid - 19
@@ -1752,8 +1594,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/ivano.pontoriero3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Clausole di esonero dalla responsabilità
@@ -1764,8 +1604,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lea.querzola)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gli effetti della Brexit sul Diritto Processuale dell'Unione Europea
@@ -1782,8 +1620,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/carlo.rasia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Anti-Suit Injunctions in International Arbitration
@@ -1801,8 +1637,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/matilde.ratti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Diritto all'oblio e trasferimento dei dati a livello internazionale
@@ -1820,8 +1654,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvia.renzetti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Autonomia e interferenze fra procedimento penale e di prevenzione personale: considerazioni in tema di prova
@@ -1834,8 +1666,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/e.ricciardiello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Governance delle società per azioni
@@ -1849,8 +1679,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/angelo.riccio2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il neuro marketing e la barriera illegittima dell’opportunismo commerciale
@@ -1864,8 +1692,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rita.rolli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "Il potere del giudice nel contratto. Il caso della clausola penale e della caparra"
@@ -1884,8 +1710,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/a.romagnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il contratto di autotrasporto di merci per conto terzi
@@ -1928,8 +1752,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.rossi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Crisi d'impresa e contratto di appalto pubblico
@@ -1954,8 +1776,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/antonino.rotolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + L'evoluzione del pensiero giusfilosofico di Norberto Bobbio
@@ -1964,8 +1784,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/corrado.roversi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I collaboratori di giustizia
@@ -1998,8 +1816,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.roversimonaco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il rapporto tra giustizia sportiva e giurisdizione amministrativa
@@ -2024,8 +1840,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.sarti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Donne e diritto criminale nell'Ottocento: tra infirmitas sexus e reati tipici
@@ -2035,8 +1849,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.sartor)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Diritto alla privacy e Big Data
@@ -2052,8 +1864,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alvise.sbraccia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Autori di reati sessuali: la relazione tra Criminal Profiling e Vittimologia
@@ -2073,8 +1883,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rossella.selmini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Algorithmic practices for policing: security or criminalization?
@@ -2089,8 +1897,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniele.senzani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A comparative study of the US Global Magnitsky Act and the UK Sanctions and Anti Money Laundering act
@@ -2099,8 +1905,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giulio.sgarbanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Lo Spreco Alimentare"
@@ -2124,8 +1928,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.spangaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + I c.d "fallimenti adottivi"
@@ -2140,8 +1942,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.spedicato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Eccezioni al diritto d’autore per usi didattici: la Direttiva UE 2019/790 e il recepimento italiano
@@ -2151,8 +1951,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/attila.tanzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dal caso di mancata condanna di stupro con successivo ricorso alla CEDU di J.L. contro Italia, al concetto di vittimizzazione secondaria e perpetuazione dei pregiudizi contro le donne all’interno della società, con annessa analisi delle istituzioni incaricate di tutela dei Diritti Umani.
@@ -2174,8 +1972,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/thomas.tassani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Content creators e il loro regime fiscale
@@ -2231,8 +2027,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/diletta.tega)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Democratising Health: Towards Understanding the Right to Health Jurisprudence of the South African Constitutional Court
@@ -2245,8 +2039,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/greta.tellarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Intelligenza artificiale e veicoli a guida autonoma
@@ -2257,8 +2049,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marina.timoteo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The access to chinese’ markets through distance sales: legal aspects and case study
@@ -2267,8 +2057,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.toni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + CONTRATTO DI RETE - una possibile risposta alla dinamicità del sistema produttivo moderno
@@ -2282,8 +2070,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.tordinicagli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Una pena non conforme ai canoni costituzionali: l'ergastolo ostativo"
@@ -2306,8 +2092,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/claudia.tubertini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli strumenti di sostegno ai piccoli comuni e la Strategia Nazionale Aree Interne. Il caso dell'Associazione Mercure.
@@ -2340,8 +2124,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.tullini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Covid-Sars 19: Diritto alla Salute e alla Sicurezza della persona. Il punto di vista di un Preposto in Sanità"
@@ -2364,8 +2146,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesco.tura)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + aspetti giuridici, fiscali e tecnologici: la fatturazione elettronica
@@ -2397,8 +2177,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/c.valentini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La crisi della democrazia costituzionale. Rappresentanza politica e deriva populista
@@ -2409,8 +2187,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.valentini4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "circolazione probatoria" e processo penale
@@ -2428,8 +2204,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/francesco.vella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Cessione dei crediti d’imposta derivanti dai bonus fiscali e attività finanziaria.
@@ -2467,8 +2241,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.verza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + i matrimoni misti. riflessioni sociologico-giuridiche
@@ -2480,8 +2252,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.vicoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il "sistema 231" nel quadro delle garanzie costituzionali: la discrezionalità dell'azione
@@ -2497,8 +2267,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvia.vida)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Dal Processo di Norimberga al globalismo giuridico
@@ -2512,8 +2280,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ester.villa2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I rapporti di lavoro nella liquidazione giudiziale
@@ -2530,8 +2296,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/martina.vincieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli ammortizzatori sociali durante la pandemia
@@ -2550,8 +2314,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/pietro.zanelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Atto mortis causa: testamento pubblico
@@ -2567,8 +2329,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.zanobetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Intercountry Adoption: The Legal & Socio-Cultural Challenges in the Protection of Children’s Rights
@@ -2580,8 +2340,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.zanotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gli impedimenti nel matrimonio canonico, in particolare l'età e l'impotenza
@@ -2595,8 +2353,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/carlo.zoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il Potere di controllo affidato ad algoritmi: profili giuridici in tema di privacy
@@ -2627,8 +2383,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/mario.zoppellari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il giusto processo sportivo
@@ -2637,8 +2391,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elena.zucconigallifonseca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Civil justice turns to immaterial: the current frame and potential perspective for the remote hearing
@@ -2663,8 +2415,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.zunarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + "L'impatto della crisi da COVID-19 per tour operator e agenzie di viaggio"

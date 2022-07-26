@@ -45,8 +45,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.benazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I siti italiani che hanno restituito resti neandertaliani tra 130,000 - 35,000 anni fa.
@@ -68,8 +66,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.biscioni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fotoriproduzione e fotografia d'arte: l'archivio fotografico dei Fratelli Alinari e la fototeca di Federico Zeri
@@ -84,8 +80,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/federica.botti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Archeomafia: il traffico illecito dei beni culturali. Il caso della Natività di Caravaggio trafugata a Palermo nel 1969
@@ -104,8 +98,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marcandrew.brightman)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Albinismo tra stregoneria e stigma in Malawi e Tanzania: le nuove sfide della cooperazione, Africa Bianca e Under The Same Sun
@@ -122,8 +114,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pierfrancesco.callieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'architettura religiosa di una città della frontiera orientale del mondo ellenistico: i templi di Ai Khanum in Battriana.
@@ -135,8 +125,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.canetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Beatam animam laetus emisit ad Christum». Modelli e pratiche della morte cristiana in Gallia tra IV e VII secolo.
@@ -150,8 +138,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariacristina.carile)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La proskynesis a Bisanzio. Atto rituale e rappresentazione.
@@ -162,8 +148,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.cavallini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Medicina e Farmacopea del Mondo Omerico
@@ -172,8 +156,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/cristina.chiavari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il processo di autenticazione nelle opere d'arte
@@ -182,8 +164,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/luca.ciancabilla)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Grottino Chini di Porretta. Idee per una musealizzazione
@@ -207,8 +187,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/salvatore.cosentino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Ceciderunt populi ab utraque parte. Odoacre, Teoderico e la battaglia per l'Italia (489-493)
@@ -218,8 +196,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giulia.crippa2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L’informazione nell’era della post-verità
@@ -234,8 +210,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.degni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I luoghi di copia nei Manoscritti Datati d'Italia del XV secolo
@@ -245,8 +219,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/annachiara.fariselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Amuleti egittizzanti del tipo Ptah-pateco dalle necropoli puniche di Nord Africa, Sicilia e Sardegna.
@@ -256,8 +228,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.furia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Critical Political Analysis of the Situation for Individuals Escaping Intimate Partner Violence and Honour-Based Violence in Sweden
@@ -275,8 +245,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.ghelfi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Speculum Sibi: collezioni di autoritratti di artisti tra Sei e Settecento
@@ -308,8 +276,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/vanessa.grotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + “nobody is safe here”: analysis of intersectional identities as the subject of the refugee crisis in corinth refugee camp
@@ -324,8 +290,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.guidobaldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Le stampe musicali della Biblioteca Malatestiana tra XVI e XVII secolo. Giulio Belli e le cappelle musicali del suo tempo.
@@ -334,8 +298,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.iannucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "La potenza psicagogica di poesia e musica: Orfeo e Jim Morrison"
@@ -376,8 +338,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/donata.luiselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi della variabilità genetica di FGF21 in popolazioni umane antiche e moderne.
@@ -396,8 +356,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.malfitano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Archeologia e turismo sostenibile. Proposte di itinerari alternativi nella regione di Samarcanda, Uzbekistan.
@@ -419,8 +377,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/e.marchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Chiesa greco-cattolica ucraina tra sofferenza e rinascita
@@ -431,8 +387,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/m.marchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Islam politico: un focus sulla rivoluzione iraniana.
@@ -466,8 +420,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mario.neve)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Forced Migration and the City: An Evaluation of the 1923 Compulsory Exchange Between Greece and Turkey
@@ -479,8 +431,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/sebastiana.nobili)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei testi del disco Infernvm di Murubutu e Claver Gold in relazione all'Inferno di Dante Alighieri.
@@ -526,8 +476,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/anna.pellegrino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi Storiografia del Fenomeno della Resistenza Ferrarese
@@ -536,8 +484,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.piras2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti dell'ideologia funeraria achemenide nel rilievo della tomba di Dario I
@@ -553,8 +499,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/angelo.pompilio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Affetti delle Arie del primo Settecento
@@ -563,8 +507,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/donatella.restani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Eventi sonori e musicali nelle relazioni di viaggio di Zhang Qian nelle regioni occidentali
@@ -574,8 +516,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/fiammetta.sabba)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi del patrimonio ceduto dalla Biblioteca Civica Romolo Spezioli al Collegio Marziale di Fermo nel contesto dell’evoluzione del mercato e della produzione librari
@@ -596,8 +536,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/lucia.sardo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Biblioteconomia in Cina e scambi culturali tra la Cina e l’occidente
@@ -618,8 +556,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/raffaele.savigni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + All'ombra dell'Yggdrasill. Cultura e spiritualità della civiltà vichinga
@@ -631,8 +567,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/raimondo.secci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Archeologia dell’invisibile. La cosmesi nel mondo fenicio e punico
@@ -643,8 +577,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/e.tosibrandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Vestire Francesca da Rimini. Nella storia, nella letteratura e nel teatro, di ieri e di oggi
@@ -653,8 +585,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.tusini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Citazionismo", "ripetizione differente" e "ritorno estetico".Tre modalità di ripresa del passato nell'arte contemporanea
@@ -701,8 +631,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariangela.vandini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Progetto di restauro del prospetto principale di una Vera Villa Veneta "Villa Davì ora Guzzon-Zanobbi" sita nel comune di Fratta Polesine, Rovigo.
@@ -713,8 +641,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.vespignani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Creazione di una imperatrice bizantina. Teodora da Procopio a Sardou (1884)
@@ -725,8 +651,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/a.volpe)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La devozione tramite icone e reliquie
@@ -751,8 +675,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.zagaglia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il mercato dell'arte dal vivo: il festival e  la differente applicazione del "Malessere dei costi"
@@ -769,8 +691,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonio.ziosi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La guerra di Troia nelle Heroides di Ovidio. Alcuni esempi dalle epistole di Briseide, Penelope e Didone.

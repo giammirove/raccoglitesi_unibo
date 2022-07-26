@@ -9,8 +9,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.albertini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Formulazione e caratterizzazione di microparticelle lipidiche bifasiche contenenti Tolbutamide
@@ -25,8 +23,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/davide.ambrosetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Selective depletion of SCAI in the mouse B cell lymphoma line CH12 by the Auxin-Inducible Degron 2 system
@@ -35,8 +31,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/s.angelini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analysis of RNA-seq library from samples belonging to patients affected by endometrial carcinoma and preserved in FFPE
@@ -60,8 +54,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/elisa.avitabile)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Herpes simplex: una visione d’insieme su un virus sottovalutato e tutt’altro che semplice
@@ -78,8 +70,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.bacchelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analysis of Splice Altering Variants inAutism Spectrum Disorder (ASD)
@@ -92,8 +82,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/monica.baiula)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Farmacoterapia delle dermatiti: focus su dermatite atopica, dermatite da contatto e dermatite seborroica
@@ -103,8 +91,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/manuela.bartolini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Exploiting G protein-coupled receptors GPR55 and the orphan GPR116 as drug targets
@@ -122,8 +108,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.bedini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione dell'attività di ligandi innovativi per il recettore EphB1 quali nuovi potenziali trattamenti per il glioblastoma
@@ -166,8 +150,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/roberto.bernardoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione dell’interazione funzionale in vivo tra MYCN e E2F3 utilizzando Drosophila melanogaster come sistema modello
@@ -176,8 +158,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/federica.bigucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Nanoparticelle di chitosano reticolate con solfobutiletere-β-ciclodestrina per la veicolazione di rifampicina
@@ -187,8 +167,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.bisi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + approccio multi-target nella malattia di alzheimer
@@ -206,8 +184,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/p.blasi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Pre-formulation studies to improve meloxicam dissolution rate by spray drying
@@ -219,8 +195,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marialaura.bolognesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Development of metal-linked Proteolysis Targeting Chimeras
@@ -236,8 +210,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.bonvicini4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Biofilm mono- e polimicrobici
@@ -252,8 +224,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/roberta.budriesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti sulla shelf life degli alimenti di nuovi tipi di imballaggi più ecosostenibili
@@ -267,8 +237,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/natalia.calonghi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Ruolo dell'acido lattico nella protezione dall'infezione di Chlamydia trachomatis
@@ -283,8 +251,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.campana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Phytochemical analysis on Imperata cylindrica and Phragmites australis from Rio Tinto
@@ -308,8 +274,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.candela)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione in acquacoltura di diete addizionatecon sottoprodotti dell'industria ittica:valutazione degli effetti sul microbiotaintestinale di spigola (Dicentrarchus labrax)
@@ -384,8 +348,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/m.caprini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alterazioni neurocognitive in un modello murino della malattia di Fabry
@@ -396,8 +358,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/emidio.capriotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Evaluation of the discriminative potential of ATR-FTIRmethodology for gunpowder identification through non-supervised machine learning methodologies.
@@ -416,8 +376,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lucia.carboni4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Dulce Somnii” e “Remedansia”: integratori alimentari per il trattamento fitoterapico di ansia e insonnia
@@ -436,8 +394,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/valeria.cavaliere)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La risposta cellulare al danno genotossico: ruolo svolto da abnormal wing discs, omologo dei geni soppressori di metastasi NME1-2
@@ -446,8 +402,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.cavalli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Dottorato
      + Challenges and Opportunities of Machine Learning for Clinical and Omics Data
@@ -456,8 +410,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/teresa.cerchiara2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle sostanze ammesse e non ammesse nei prodotti cosmetici schiarenti per la pelle
@@ -532,8 +484,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/brunella.delre)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Valutazione della tolleranza alla salinità in ibridi di carota (Daucus carota L.)
@@ -548,8 +498,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/fulvia.farabegoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dosaggio delle citochine infiammatorie mediante citofluorimetria
@@ -558,8 +506,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.farruggia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione ed effetti biologici di nanomicelle per il trasporto di fenretinide in combinazione con spermidina
@@ -568,8 +514,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/romana.fato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + IL LATTE DI CAMMELLO Composizione e Poteziali Prodotti Alimentari
@@ -587,8 +531,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.fedi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di geni nifH da campioni di ghiaccio provenienti da una grotta alpina
@@ -604,8 +546,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.ferre)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Entropy-based methods to reconstruct differentiation lineages from scRNA-seq data
@@ -652,8 +592,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/rita.fioresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A Cartan geometric approach to Relativity
@@ -670,8 +608,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.francia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Utilizzo di vescicole bioenergeticamente attive per lo studio dell'interazione di liquidi ionici con membrane biologiche.
@@ -680,8 +616,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.gallinella)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Quasispecies Analysis of Human Immunodeficiency Virus-1 sequences obtained with Illumina MiSeq High Throughput Sequencing
@@ -706,8 +640,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.gentilomi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Papillomavirus e carcinoma della cervice uterina
@@ -746,8 +678,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.gobbi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Sintesi di derivati calconici potenzialmente utili per il trattamento dell’osteosarcoma
@@ -762,8 +692,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/roberto.gotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Determinazione di Glifosato e Acido Ammino-metilfosfonico in Campioni di Mitili Mediante Elettroforesi Capillare
@@ -792,8 +720,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.hrelia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi dell'espressione di microRNA circolanti in pazienti affette da cancro ovarico pre e post chemioterapia
@@ -831,8 +757,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.iotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Effetto della cianidina 3-glucoside sul trasporto epatico degli acidi biliari
@@ -842,8 +766,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/m.lenzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + N-Metil-2-Amminoindano: impatto sul materiale genetico di una nuova sostanza psicoattiva
@@ -855,8 +777,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.leoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + APPLICAZIONE DEI DEEP EUTECTIC SOLVENTS (DES) ALLA SINTESI DI 4-IMIDAZO[2,1-b]TIAZOLI-1,4-DIIDROPIRIDINE
@@ -871,8 +791,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.locatelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Sintesi di biimidazotiazol-indolinoni sostituiti come potenziali agenti antiproliferativi
@@ -883,8 +801,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.luppi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Dea-4” e “Dea-5”: Integratori per il riequilibrio delle disendocrinie femminili, dalla pubertà alla menopausa.
@@ -901,8 +817,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/elena.maestrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di varianti strutturali e di sequenza in una famiglia con Disturbo dello Spettro Autistico
@@ -915,8 +829,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/emil.malucelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Measurement of muscle glycogen content using magnetic resonance spectroscopy in humans
@@ -931,8 +843,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/manuela.mandrone2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi metabolomica di Cynara cardunculus L. raccolta in due diverse stagioni in Sardegna.
@@ -942,8 +852,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/jessica.marinello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The role of autophagy in novel autophagy deficient htau transgenic mouse models
@@ -954,8 +862,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pierluigi.martelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Deep learning and random walk architectures for link prediction in multilayer protein networks
@@ -969,8 +875,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.masetti4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Molecular Dynamics Simulations of the SgrAI Enzyme
@@ -994,8 +898,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/laura.menotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Generation of reporter cell lines and infectious cDNA clones for live-cell imaging of Zika virus Capsid interacting proteins
@@ -1012,8 +914,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.mercolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Determinazione di eroina e 6-MAM mediante GC in campioni da strada mediante estrazione in etanolo: un approccio di Green Chemistry
@@ -1031,8 +931,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.milazzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Tesi sperimentale
@@ -1043,8 +941,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/anna.minarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Progettazione e sintesi di derivati amminotiazolici come ligandi duali di Gsk-3β e Fyn nello studio di patologie neurodegenerative
@@ -1055,8 +951,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/b.monti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di proliferazione e differenziamento di progenitori neurali derivanti da IPS di pazienti affetti da AGC1 deficiency
@@ -1074,8 +968,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rita.morigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Sintesi di derivati antrachinonici potenziali ligandi di strutture i-motif
@@ -1113,8 +1005,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/marina.naldi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Controllo di qualità di materie prime e prodotti finiti destinati all’alimentazione equina: determinazione del contenuto di xantine e del titolo proteico.
@@ -1158,8 +1048,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/carola.parolin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetto di lattobacilli vaginali sulla formazione di biofilm di Candida
@@ -1172,8 +1060,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/nadia.passerini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Microparticelle lipidiche core-shell per il rilascio controllato di una combinazione di farmaci utilizzati nel trattamento dell’emangioma infantile
@@ -1183,8 +1069,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.perini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Investigation of conditional expression and binding ofnanobody-dCas9-FH to GFP-egg protein in Drosophilamelanogaster germline cells and early embryo
@@ -1197,8 +1081,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ferruccio.poli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gemmoterapia: storia, usi e studi sull'attività terapeutica
@@ -1225,8 +1107,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cecilia.prata)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi osservazionale delle abitudini alimentari e degli stili di vita di bambini frequentanti alcune scuole primarie della provincia di Modena
@@ -1236,8 +1116,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/michele.protti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio di riproducibilità di un originale metodo ATR-FTIR per l'analisi allo stato solido di cannabidiolo in Cannabis sativa L.
@@ -1249,8 +1127,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/simone.rampelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Metagenomic analysis of aDNA from human coprolites unveiled new insights regarding dietary habits of ancient populations
@@ -1276,8 +1152,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/marinella.roberti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Cardiolipine ed isomeria cis-trans: aspetti sintetici ed analitici
@@ -1290,8 +1164,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.romualdi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + PPARα and PPARγ gene expression in adolescent and adult rats exposed to social impoverishment or enrichment: molecular and bioinformatic analysis.
@@ -1316,8 +1188,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.roncarati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio dell'interazione tra il repressore HrcA e la chaperonina GroE nella regolazione heat-shock in Campylobacter jejuni
@@ -1328,8 +1198,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/michela.rosini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La malattia di Alzheimer: progettazione e sintesi di derivati cumarinici come sonde farmacologiche
@@ -1342,8 +1210,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/castrense.savojardo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Predicting interchain contacts for homodimeric protein complexes using multiple sequence alignments of monomers and deep learning
@@ -1353,8 +1219,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.scarlato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Dottorato
      + Functional characterization of the gonococcal polyphosphate pseudo-capsule
@@ -1363,8 +1227,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/santi.spampinato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Evaluation of the effect of fructose on NAFLD pathogenesis and progression in an in vitro disease model derived from hiPSCs
@@ -1382,8 +1244,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.sparla)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi funzionali sulla regolazione post-traduzionale della proteina ricombinante β-amilasi-1 di Arabidopsis thaliana
@@ -1408,8 +1268,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.tonelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Dottorato
      + Preclinical studies of the combined effect of anti-MYCN PNA and Retinoic Acid as potential approach to treat Neuroblastoma
@@ -1418,8 +1276,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.trost)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Calculation of the mid-point potential of rxYFP
@@ -1437,8 +1293,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvia.turroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + caratterizzazione del microbiota del vino in funzione dell’aggiunta di estratti di ribes nigrum, propoli e citrus paradisi
@@ -1451,8 +1305,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/elisa.uliassi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Progettazione e sintesi di coniugati fototeranostici a base di poliammine per la terapia fotodinamica antitumorale
@@ -1488,8 +1340,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/fabio.vivarelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti dell'esposizione in vivo ai vapori prodotti da sigaretta elettronica dotata di tecnologia "heat-not-burn" a livello vescicale

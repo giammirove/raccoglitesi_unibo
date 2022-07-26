@@ -9,8 +9,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giulio.alessandri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sindrome dell'apnea ostruttiva del sonno e indici parodontali
@@ -22,8 +20,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.amici)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi quantitativa della fosforilazione e defosforilazione della proteina Tau nel torpore sintetico
@@ -41,8 +37,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annarita.atti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli interventi di mindfulness nella riabilitazione fisioterapica: una Scoping Review
@@ -64,8 +58,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/sofia.avnet3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Valutazione dell'effetto dell'ipossia sulla sopravvivenza di cellule di osteosarcoma resistenti alla Doxorubicina
@@ -82,8 +74,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.badiali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La realtà aumentata per il controllo della precisione di taglio nella chirurgia scheletrica dei mascellari
@@ -101,8 +91,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.baldissara)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + CEMENTO DI FISSAGGIO E DA RICOSTRUZIONE (CORE BUILD-UP MATERIAL) A POLIMERIZZAZIONE DUALE ASSOCIATO A SPECIFICO PRIMER: mSBS SU DENTINA
@@ -126,8 +114,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/sandro.bartolomei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Allenamento della forza nel pugilato
@@ -159,8 +145,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.bastianini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Compromissione cognitiva nei pazienti con malattia di parkinson e disturbo comportamentale del sonno rem: una revisione sistematica.
@@ -179,8 +163,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/maria.benedetti5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Problematiche podologiche nel bambino con disabilità neuromotorieLa mia esperienza nell’ambulatorio di fisiatria pediatrica dell’Istituto Ortopedico Rizzoli
@@ -200,8 +182,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.berteotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impatto dell’esposizione perinatale al clorpirifos sulla salute dell’adulto: uno studio preliminare
@@ -211,8 +191,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/lisa.berti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Protocollo di realizzazione di ortesi plantari per il paziente affetto da piede reumatico: outcome e rapporto operatore-paziente
@@ -230,8 +208,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/francesca.bisulli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi logopedica del disturbo di linguaggio post-critico: ruolo nell'identificazione della zona epilettogena in pazienti con epilessia farmaco-resistente candidati alla terapia chirurgica
@@ -251,8 +227,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.bosco2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di una Recurrent Neural Network per la predizione della traiettoria della mano durante un movimento di raggiungimento in condizioni statiche e perturbate.
@@ -261,8 +235,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.breschi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Influenza della linea di finitura marginale sulla rimozione di smalto e dentina durante la preparazione di restauri parziali indiretti: valutazione quantitativa mediante micro-CT.
@@ -273,8 +245,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/rossella.breveglieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Indagine sulle connessioni funzionali a riposo tra la corteccia parietale posteriore mediale e l’area motrice primaria nel cervello umano
@@ -286,8 +256,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.calandra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi delle caratteristiche cliniche di una coorte di pazienti affetti da patologie dello spettro della degenerazione fronto-temporolobare
@@ -311,8 +279,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/sabina.capellari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Rilevazione ultrasensibile di aggregati amiloidogenici di alfa-sinucleina nel liquido cerebrospinale di pazienti conmalattia di Alzheimer: verso la diagnosi di co-patologia in vivo
@@ -327,8 +293,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/valerio.carelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio delle funzioni cellulari e della localizzazione della proteina OPA3
@@ -337,8 +301,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.cenacchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Allestimento di colture tridimensionali di mioblasti per la rigenerazione muscolare
@@ -349,8 +311,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.cerri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dinamica delle onde lente del sonno NREM nel segnale elettroencefalografico post torpore sintetico.
@@ -378,8 +338,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/simone.ciacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi biomeccanica e massima efficienza della pedalata nel ciclismo
@@ -403,8 +361,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.ciani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The intrinsic clock of the hippocampal subfield CA3 and its role in temporal lobe epilepsy: an electrophysiology study
@@ -425,8 +381,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.cirillo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Confronto tra paradigmi di ricostruzione trattografica di studi DTI: lo studio della via ottica anteriore
@@ -448,8 +402,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alfredo.conti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + La Sindrome dell'Area Motoria Supplementare in pazienti operati di glioma: dalla trattografia probabilistica all'outcome clinico
@@ -464,8 +416,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pietro.cortelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + effetti avversi neurologici immuno-relati associati a terapia con inibitori dei check-point immunitari: studio osservazionale retrospettivo
@@ -531,8 +481,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alberto.dimartino2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Monitoraggio neurofisiologico intraoperatorio nel trattamento chirurgico delle scoliosi ad esordio precoce
@@ -541,8 +489,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/rocco.dimichele)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetti di un programma di preparazione fisica in giocatrici di ultimate frisbee: confronto tra atlete di livello élite e giovanile
@@ -577,8 +523,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/davidemaria.donati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Confronto Two-Stage vs One-Stage nella gestione dello Pseudotumor secondario al fallimento della protesi totale d'anca
@@ -625,8 +569,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/cesare.faldini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Confronto tra ortesi plantari personalizzate e prefabbricate nel trattamento della fascite plantare: revisione della letteratura
@@ -651,8 +593,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/mariapia.fantini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Infezione da SARS-CoV-2/COVID-19 in bambini e adolescenti
@@ -671,8 +611,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.fattori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della mutual information nei neuroni dell'area V6A durante un compito di fissazione e movimento della mano
@@ -698,8 +636,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pietro.felice)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Igiene orale in pazienti riabilitati con lembo libero di fibula e protesi su impianti
@@ -718,8 +654,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/barbara.ferrari4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adolescenti e ritiro sociale: l'intervento dell'educatore professionale
@@ -751,8 +685,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/matilde.follo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Effetto della combinazione Azacitidina e Pevonedistat nelle vie di trasduzione del segnale inositide dipendente nelle neoplasie ematologiche
@@ -779,8 +711,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/m.gamberini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Metodi per la digitalizzazione della neocorteccia e delle strutture sottocorticali dei primati
@@ -805,8 +735,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/caterina.giannini3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Astrocitoma pilocitico in età pediatrica: revisione di una casistica in un centro di terzo livello
@@ -839,8 +767,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/davide.gori4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "L’adesione degli operatori sanitari all'igiene delle mani nel periodo emergenziale COVID-19: revisione sistematica della letteratura."
@@ -860,8 +786,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lauraludovica.gramegna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Anterior Visual Pathway Tractography Aids Presurgical Planning of Patients with Sellar and Parasellar Tumors
@@ -890,8 +814,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/federico.laus)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La rappresentanza femminile nella politica: un dibattito ancora aperto
@@ -906,8 +828,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/rocco.liguori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Gli anticorpi nelle patologie demielinizzanti centrali: frequenze e fenotipi clinici associati
@@ -925,8 +845,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/viviana.lomartire2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La regolazione del comportamento alimentare: dalla fisiologia alla patologia
@@ -935,8 +853,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/antonello.lorenzini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + confronto sui danni cellulari provocati dai dispositivi per il consumo di tabacco per via inalatoria
@@ -954,8 +870,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.lugaresi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Complessità e risvolti terapeutici della diagnosi differenziale della Sclerosi Multipla: analisi della casistica del Centro Sclerosi Multipla di Bologna
@@ -1030,8 +944,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/claudio.marchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Una nuova tecnica per il trattamento dell'anestesia corneale: la neurotizzazione
@@ -1064,8 +976,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alberto.martelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + A novel role of the nuclear protein lamin A in migration and invasion in Ewing sarcoma
@@ -1080,8 +990,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/luciana.mascia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + PROTECTIVE MECHANICAL VENTILATION IN SEVERE ACUTE BRAIN INJURED PATIENTS - The “Protect Lung in Acute Brain Injury” (PROLABI) randomized clinical trial
@@ -1104,8 +1012,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/diego.mazzatenta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + monitoraggio neurofisiologico intraoperatorioconfronto tra due tipi di ago elettrodi durante interventi di neurochirurgia spinale
@@ -1120,8 +1026,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.mazzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + influenza dello sbiancamento dentale sull'attivita' enzimatica delle dentina in denti da restaurare
@@ -1140,8 +1044,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.menchetti3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Emergenza Sanitaria da COVID 19: Interventi per ridurre l'impatto sulla salute mentale degli gli operatori sanitari
@@ -1170,8 +1072,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lucio.montebugnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Espressione immunoistochimica della podoplanina nelle lesioni potenzialmente maligne del cavo orale
@@ -1180,8 +1080,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/m.montevecchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi clinica osservazionale sull’anatomia parodontale macroscopica in soggetti affetti da Displasia Ectodermica
@@ -1191,8 +1089,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/luca.morandi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modelling Alzheimer's Disease and Neuronal Calcium Dyshomeostasis in Caenorhabditis elegans oxygen-sensing neurons
@@ -1202,8 +1098,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/cesare.nucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Lattoferrina e il trattamento delle Black Stain
@@ -1214,8 +1108,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/fabio.panariello)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Qualità ed efficacia percepita dei trattamenti in difetto di consenso: studio comparativo di due normative europee
@@ -1224,8 +1116,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/gerardo.pellegrino2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Igiene orale domiciliare dei pazienti con riabilitazioni implanto-protesiche supportate da impianti zigomatici: confronto tra pazienti oncologici e pazienti affetti da atrofia del mascellare
@@ -1242,8 +1132,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gabriela.piana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Pandemia COVID-19, percezione della salute orale dei bambini da parte dei genitori
@@ -1257,8 +1145,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/giulia.pierangeli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analgesics detoxification role in chronic migraine with medication overuse prophylaxis with Onabotulinum toxin A and anti-CGRP monoclonal antibodies
@@ -1279,8 +1165,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/paolo.pillastrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "l’efficacia del pompage nel trattamento dellacervicalgia cronica aspecifica: studio randomizzato controllato -analisi outcome disabilita’ e range of motion"
@@ -1290,8 +1174,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.piras3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Leadership: analisi della triade in un club calcistico
@@ -1303,8 +1185,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/fabio.pizza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Disfunzione erettile e narcolessia: uno studio polisonnografico
@@ -1320,8 +1200,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/carlo.prati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Studio pilota di coorte per la valutazione del piano di trattamento di elementi compromessi: ritrattamento e riabilitazione implantare a confronto.
@@ -1332,8 +1210,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/federica.provini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio ultrasonografico del nervo ottico e validazione di parametri normativi di riferimento
@@ -1352,8 +1228,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/milena.raffi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Allenarsi sì...ma non troppo!Risposte fisiologiche al training e all’overtraining negli sport di endurance
@@ -1383,8 +1257,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.ratti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Correlation between PLCβ1 molecular expression and clinical progression in High-grade Glioma patients
@@ -1393,8 +1265,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.rucci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Dottorato
      + L'indagine campionaria come strumento per indagare gli atteggiamenti nei confronti dei servizi sanitari e della pandemia da COVID-19.
@@ -1421,8 +1291,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.scudellari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La vita di Giangrandi Gaetano:la sofferenza dello schizofrenico e le difficoltà dei servizi psichiatrici a costruire relazioni terapeutiche
@@ -1457,8 +1325,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.serretti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + CONCENTRATION-RESPONSE RELATIONSHIP OF FIRST-LINE ANTIDEPRESSANTS: A MEGA-ANALYSIS CONCERNING TRHEE DIFFERENT CLASSES (SSRI,SNRI,NaSSA)
@@ -1481,8 +1347,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/martina.stefanini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Confronto dell’efficacia tra spazzolamento manuale ed elettrico su superfici implantari. Revisione narrativa.
@@ -1525,8 +1389,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.tinuper)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Le conseguenze delle restrizioni d'uso del valproato nelle ragazze e donne in età fertile con epilessia. Studio retrospettivo su outcome e pattern prescrittivi
@@ -1542,8 +1404,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.toselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + analisi dell'impedenza bioelettrica e applicazioni in ambito sportivo
@@ -1577,8 +1437,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesco.traina2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Impatto della curva di apprendimento di un unico chirurgo sui risultati clinici a medio termine nell'artroscopia d'anca
@@ -1645,8 +1503,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.zaffagnini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi cinematica mediante RSA dinamica di due differenti tecniche di ricostruzione del legamento crociato anteriore
@@ -1689,8 +1545,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.zoccoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Metodologie per analisi della funzione respiratoria in modelli murini di patologie umane
@@ -1707,8 +1561,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/matteo.zoli4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Approccio endoscopico endonasale alle patologie tumorali della giunzione craniovertebrale: studio anatomo-clinico e valutazione dell'outcome
@@ -1717,8 +1569,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.zucchelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Studio multicentrico controllato non randomizzato nella comparazione tra la tecnica chirurgica del lembo spostato verticalmente e coronalmente (V-CAF) versus la tecnica a tunnel chiuso lateralmente (LCT) nel trattamento delle recessioni singole negli incisivi mandibolari.

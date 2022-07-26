@@ -3,8 +3,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/f.agostini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Clinica e intervento nei disturbi psicosomatici infantili: il caso dei disturbi cutanei"
@@ -24,8 +22,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cinzia.albanesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A Qualitative Analysis of Social Support Among Parents Attending a Community Early Childhood Education and Care Service
@@ -39,8 +35,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/federica.andrei2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attaccamento madre-bambino e depressione post-partum: un approfondimento bibliografico
@@ -54,8 +48,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessio.avenanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Cambiamenti di connettività effettiva della giunzionetemporo-parietale destra nel giudizio morale:uno studio di coregistrazione TMS-EEG
@@ -68,8 +60,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/franco.baldoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + I disturbi affettivi perinatali in una prospettiva Gender-based: verso un cambiamento di paradigma.
@@ -80,8 +70,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cristian.balducci3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Affrontare lo stress lavorativo vivendo nel qui ed ora: la mindfulness come strategia di stress management
@@ -154,8 +142,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/caterina.bertini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratteristiche Anatomiche e Funzionali del Frontal Aslant Tract
@@ -205,8 +191,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/michela.candini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il paziente somatoparafrenico: caratteristiche comportamentali e basi neurali del disturbo"
@@ -218,8 +202,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/danilo.carrozzino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approccio clinimetrico e assessment psicologico-clinico del funzionamento familiare
@@ -232,8 +214,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giulia.casu3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Invisibile, non immaginario. Dolore fisico, mentale e sociale nella fibromialgia: Uno studio empirico.
@@ -242,8 +222,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.caterina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "De gustibus est disputandum; il concetto di gusto musicale attraverso la Psicologia della Musica"
@@ -295,8 +273,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisa.ciaramelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Buddismo, Mind-Wandering e Mindfullness Meditation: riflessioni su alcuni punti di contatto
@@ -322,8 +298,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elvira.cicognani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le comunità madre-bambino. Analisi di caso di un'esperienza.
@@ -354,8 +328,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.costa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approccio Psicologico alla Gelosia
@@ -391,8 +363,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marco.deangelis6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Team performance and mental health: measuring the predicting value of team performance on the mental health of helthcare operators during the covid-19 pandemic
@@ -401,8 +371,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.decesarei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La detezione di menzogne: ruolo del contesto e comportamenti espressivi
@@ -418,8 +386,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.depascalis)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Attaccamento infantile: crescere con un genitore affetto da schizofrenia o disturbo bipolare.
@@ -465,8 +431,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/francesc.frassinetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Tempo da una Prospettiva Cerebrale: Dinamiche e Processi Sottostanti la Percezione del Tempo
@@ -484,8 +448,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.giovagnoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il deficit del Sistema Magno-Cellulare nella Dislessia Evolutiva"
@@ -501,8 +463,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/sara.gostoli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Bisogni assistenziali e correlati psicologici di pazienti anziani con scompenso cardiaco e comorbilità multiple: uno studio preliminare
@@ -511,8 +471,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/silvana.grandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Impatto psicosomatico del monitoraggio attraverso telemedicina nei setting cardiologici: uno studio prospettico.
@@ -548,8 +506,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.guarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Disturbo dello Spettro Autistico correlato al Disturbo del linguaggio. Il metodo ABA e lo studio di un caso.
@@ -580,8 +536,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/jenny.guidi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + I disturbi del sonno negli anziani: manifestazioni cliniche e implicazioni terapeutiche
@@ -610,8 +564,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/serena.mastria4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Green marketing: un’analisi dei comportamenti sostenibili da un punto di vista psicologico
@@ -620,8 +572,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariacristina.matteucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sotto questo sole, è bello imparare le Life Skills: la promozione della salute e l’educazione alle Life Skills si fondono insieme per dar vita ad un progetto dedicato ai giovani ragazzi del Comune di Cesena
@@ -705,8 +655,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ornella.montebarocci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Assistenza infermieristica: capacità relazionali importanti che accompagnano e completano le competenze tecniche.
@@ -731,8 +679,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.moscatelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dalla consapevolezza all'azione collettiva per contrastare le disparità di genere: uno studio su un campione di uomini
@@ -767,8 +713,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.natale)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dormire col dolore: la relazione bidirezionale tra condizioni di dolore cronico e disturbi del sonno.
@@ -786,8 +730,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/erica.neri4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Loro lo sanno": il trauma della violenza assistita in età prescolare
@@ -813,8 +755,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.nori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Nativi Digitali vs. Immigrati Digitali: il digitale che svecchia l’analogico e i retroscena di un’epoca in costante connessione.
@@ -835,8 +775,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/miranda.occhionero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il sogno in età evolutiva: sviluppo e caratteristiche dei sogni nei bambini tra 0 e 9 anni.
@@ -851,8 +789,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.ottoboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Abilità mentali a supporto del fondamentale del servizio nella pallavolo: punto di vista degli allenatori dell'alto livello
@@ -884,8 +820,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesca.prati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "L’importanza dell’inclusione sociale in tempo di pandemia: Prime evidenze sugli adolescenti”
@@ -907,8 +841,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.prati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Covid-19: il ruolo delle fake news sulla salute mentale
@@ -930,8 +862,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.rafanelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Le conseguenze psichiatriche della pandemia da COVID-19
@@ -944,8 +874,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.romei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Libero arbitrio: il dibattito dell'equilibrio fra neurobiologia e pensiero morale. Verso una prospettiva culturale
@@ -964,8 +892,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/monica.rubini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il potere delle parole: Mass Media, Internet e Immigrazione in Italia
@@ -994,8 +920,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.sansavini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + covid-19: effetti sullo sviluppopsicologico e fisico dei bambini e ruolo dei genitori, educatori e insegnanti
@@ -1040,8 +964,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.sirri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti biopsicosociali del trapianto di cuore
@@ -1058,8 +980,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/francesca.starita2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modulazione delle oscillazioni neuronali nel condizionamento aversivo
@@ -1070,8 +990,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.surcinelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Conseguenze psicologiche derivanti dalCOVID-19: il ruolo dell’infermiere.
@@ -1089,8 +1007,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/chiara.suttora)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Coronavirus: come spiegarlo ai bambini?
@@ -1101,8 +1017,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessia.tessari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Relazione tra talento e sistemi cognitivi con identificazione e sviluppo del talento nei settori giovanili
@@ -1118,8 +1032,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/carlo.tomasetto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ansia per la Matematica e Discalculia Evolutiva a confronto
@@ -1157,8 +1069,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.tomba)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Assessment e outcome di psicoterapie per la gestione di aspetti traumatici nei disturbi del comportamento alimentare: una revisione sistematica della letteratura
@@ -1174,8 +1084,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.tonetti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Apprendimento e Stili Cognitivi
@@ -1199,8 +1107,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eliana.tossani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Acceptance and Commitment Therapy e sostegno alla genitorialità. Essere genitori di figli con Disturbo dello Spettro Autistico e Disturbo da Deficit dell'Attenzione e Iperattività.
@@ -1244,8 +1150,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.zaniboni4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Subjective Age and Retirement-related Outcomes: The Role of Future Time Perspectives
@@ -1254,8 +1158,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/salvatore.zappala)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + The frequency of teleworking, work/family conflict and job satisfaction: The moderating role of autonomy and supervisor support

@@ -17,8 +17,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/annarita.angelini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Architettonica e teleologia in Kant
@@ -47,8 +45,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/franco.bacchelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il problema della strega in Francesco Pico della Mirandola
@@ -60,8 +56,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.beretta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + a new perspective on philosophy
@@ -75,8 +69,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/stefano.besoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Al confine tra santità e folliaDove il sentimento religioso incontra la malattia mentale
@@ -165,8 +157,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessandra.bonazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Filosofia della globalizzazione. Lo spazio interno striato di Palazzo Paleotti
@@ -204,8 +194,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alberto.burgio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adam Smith critico di Mandeville
@@ -219,8 +207,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.campaner)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + causalità e determinanti sociali in epidemiologia
@@ -235,8 +221,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/pia.campeggiani2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Esperienza soggettiva animale: breve confronto fra la mente umana e animale
@@ -249,8 +233,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.caporali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dialogo e violenza. Tra pluralità socratica e verità platonica
@@ -265,8 +247,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/carlotta.capuccino2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'involucro dell'anima: La concezione platonica della corporeità e le conseguenze dell'incarnazione
@@ -279,8 +259,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.caramelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Hegel e la pittura italiana, la religione nell'arte.
@@ -291,8 +269,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.cattaneo4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «L’immenso sistema del bello» Leopardi tra letteratura e filosofia
@@ -317,8 +293,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.cerrato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bertrando Spaventa - Hegelismo e Circolazione del pensiero
@@ -368,8 +342,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/diego.donna2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'Ethica di Spinoza, fra l'amore passione e l'amor Dei intellectualis
@@ -390,8 +362,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/emanuele.frixa2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dall’acciaio alla cultura, Taranto e le produzioni dell’urbano
@@ -408,8 +378,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/sebastiano.galanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il pensiero poetante e il pensiero calcolante. Percorsi della verità nel secondo Heidegger.
@@ -422,8 +390,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/renata.galatolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Identità istituzionali in ambito giudiziario: testimone oculare vs testimone esperto
@@ -437,8 +403,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/guido.gherardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Critica alle flussioni ne L'Analista di Berkeley
@@ -447,8 +411,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.gherri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La percezione visiva dal punto di vista fisiologico e psicologico
@@ -457,8 +419,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/p.govoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Teach girls bravery, not perfection”. Il laboratorio come luogo di educazione al coraggio
@@ -487,8 +447,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/l.guidetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Tra James Hillman ed Emmanuel Carrère: variazioni sul tema dell’arte letteraria come trasformazione alchemica del vissuto”
@@ -531,8 +489,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gennaro.imbriano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il concetto di "mondanizzazione" in Karl Marx
@@ -547,8 +503,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/marina.lalatta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Tu sei la tua storia"Identità e miti delle origini nella genealogia genetica
@@ -642,8 +596,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/sandra.linguerri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “l’universo pubblico” al museo:la generazione digitale e social network
@@ -653,8 +605,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/l.lugli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Economia comportamentale e la libertà di scelta
@@ -679,8 +629,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/matteo.martelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + autonomia del vitale e automatismo meccanico sull'intelligenza del corpo
@@ -698,8 +646,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.matteucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Arte e capitalismo: come il mercato ha influenzato l’esperienza e la percezione dell’arte
@@ -725,8 +671,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/francesco.mazzucchelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ABITARE LA CITTÀ 2.0: nuove forme di narrazione dello spazio tra reale e digitale
@@ -753,8 +697,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/sebastiano.moruzzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Comunità di Ricerca Filosofica e metodo inclusivo: un nuovo approccio ai Bisogni Educativi Speciali
@@ -771,8 +713,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/eugenio.orlandelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Implicazione super stretta e logiche non normali. Un calcolo di sequenti etichettato dell'implicazione super stretta perle logiche riflessive e transitive non normali S2 e S3
@@ -781,8 +721,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/c.paolucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi Semiotica di "Dogtooth" (Lanthimos, 2009)
@@ -801,8 +739,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.pasetti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “You’ve Come a Long Way, Baby”: l’evoluzione dell’immagine femminile nella campagna pubblicitaria delle sigarette Virginia Slims
@@ -850,8 +786,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/paolo.savoia3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The Curiosity of Sir Hans Sloane and the early modern period
@@ -905,8 +839,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/daniele.sgaravatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Filosofia e Fisica: Breve analisi di un rapporto complesso
@@ -922,8 +854,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.vinciguerra2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La scienza delle passioni. Una strada per giungere alla felicità
@@ -939,8 +869,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.volpe)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Conoscenza e posta in gioco: l’evidenza empiricaIl rapporto tra l’Interest Relative Invariantism e le attribuzioni di conoscenza ordinarie

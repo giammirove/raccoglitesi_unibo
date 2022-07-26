@@ -57,8 +57,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.bandini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + New carbene-Au(I) catalysts for intramolecular hydrocarboxylation of indolyl-allenes
@@ -77,8 +75,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/giulio.bertuzzi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Alchilazione Elettrochimica di Acetati di Morita Baylis Hillman
@@ -107,8 +103,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/dario.braga)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Co-crystallization and structural characterization of antibacterial agents
@@ -117,8 +111,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/walter.cabri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Process Analytical Technologies (PAT) per la caratterizzazione quali-quantitativa di prodotto farmaceutico durante il processo produttivo a garanzia della qualità in tempo reale
@@ -139,8 +131,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.calvaresi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Addotti albumina-nanotubi di carbonio per applicazioni in terapia fototermica
@@ -166,8 +156,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.ceroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Luminescent sensor of dioxygen
@@ -178,8 +166,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/piergiorgio.cozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sintesi di acridinio per la catalisi fotoredox con luce verde
@@ -197,8 +183,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.dore)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Struttura iperfine nello spettro di rotazione-inversione dell'ammoniaca completamente deuterata
@@ -217,8 +201,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/dani.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Characterization of seawater leachates from plastic materials employed in cosmetic packaging by gas chromatography-mass spectrometry
@@ -228,8 +210,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.falini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Valorization of waste chitin in calcium phosphate bone cements
@@ -248,8 +228,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/simona.fermani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Biochemical, Structural, and Computational study on alcohol dehydrogenases from Arabidopsis thaliana
@@ -266,8 +244,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/jessica.fiori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi quali-quantitativa di acidi grassi in campioni fecali mediante microestrazione in fase solida e gas-cromatografia interfacciata a spettrometria di massa
@@ -313,8 +289,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/guido.galletti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Rilevazione di congeneri di PCB in acque potabili, minerali e termali mediante Auto-SPME-HS-GC-MSMS
@@ -323,8 +297,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.galletti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Composti organici volatili e tecnologie di abbattimento nelle industrie
@@ -348,8 +320,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/luca.gentilucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Influence of Peptide Composition on Nanoparticles Formation from Palindromic Peptide-Polymer Block Copolymers
@@ -387,8 +357,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/fabrizia.grepioni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Descrittori morfologici da metodi computazionali per la determinazione delle proprietà di trasporto in aggregati molecolari
@@ -400,8 +368,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.gualandi10)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Nuovi leganti chirali a base rotassanica
@@ -410,8 +376,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/c.gualandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Perylene-based polyurethanes and Polymer-Hybrid coordination polymers composites based on CuI as mechanoluminochromic materials
@@ -420,8 +384,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/massimo.guardigli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Sviluppo di un biosensore enzimatico elettrochemiluminescente per la quantificazione del glucosio in formulazioni farmaceutiche
@@ -442,8 +404,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.lombardo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sintesi ed applicazioni di Sulfinilammine chirali
@@ -458,8 +418,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.lucarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio della sintesi e del comportamento EPR di una macchina molecolare basata su un etere corona paramagnetico
@@ -476,8 +434,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/l.maini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio dell'impaccamento cristallino di derivati di perilene tetracarbossidiimmide mediante analisi multivariata
@@ -490,8 +446,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marco.malferrari2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio della motilità cellulare in ambienti chimici micrometricamente controllati
@@ -535,8 +489,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/rocco.mazzeo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo e valutazione delle performance disistemi di pulitura con solventi green.
@@ -548,8 +500,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/sonia.melandri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di soluzioni di acidi perfluoroalchilici mediante spettroscopia rotazionale
@@ -583,8 +533,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.mezzina)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + sintesi di un etere corona radicalico e impiego come componente di una macchina molecolare paramagnetica
@@ -593,8 +541,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisa.michelini8)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo di un sensore colorimetrico basato sulla rivelazione di ammine biogene per monitorare la freschezza degli alimenti
@@ -618,8 +564,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/magda.monari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sintesi, Caratterizzazione e Applicazione in catalisi di complessi NHC-Au(I) a simmetria C1
@@ -628,8 +572,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.montalti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Design, development, and evaluation of a jellyfish sting-resistant sunscreen
@@ -646,8 +588,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/fabrizia.negri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Evaluation of intermolecular interactions in organic semiconductors with the microelectrostatics approach
@@ -660,8 +600,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.panzavolta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Calcium phosphates-based bone cements reinforced with chitin fibers
@@ -676,8 +614,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/francesco.paolucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Elettrocatalizzatori nanostrutturati per la conversione della CO2
@@ -697,8 +633,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/s.prati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Advanced algorithms for the extraction of purest spectral signature of pigments in complex mixtures
@@ -711,8 +645,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.prodi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + An overview on Luminescence approaches for the detection of two classes of Emerging Pollutants in the Environment
@@ -725,8 +657,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/cristina.puzzarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Spettroscopia rotazionale e vibro-rotazionale di CHD2Cl
@@ -755,8 +685,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/enrico.rampazzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Properties and Nanomedicine Application of Pectin
@@ -767,8 +695,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/stefania.rapino3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Biostampa di modelli tridimensionali di cancro al seno
@@ -791,8 +717,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/barbara.roda)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e caratterizzazione della porzione esosomiale di secretomi di cellule staminali amniotiche tramite tecnica HF5 e multi-rivelazione
@@ -812,8 +736,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.samori3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell'efficacia inibitoria della lignina pirolitica sull'enzima ureasi
@@ -826,8 +748,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giorgia.sciutto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + chemiluminescent immunochemical imaging for the sensitive identification of proteins in archaeological remains
@@ -867,8 +787,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/emilio.tagliavini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il glifosato, da fitofarmaco di nicchia a re degli erbicidi. Caratteristiche e problematiche di un importante pesticida.
@@ -881,8 +799,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/sahra.talamo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + High-resolution time range of the Palaeolithic Boomerang at Oblazowa archaeological site in Poland.The role of pretreatment of Palaeolithic bones for radiocarbon dating.
@@ -902,8 +818,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/claudia.tomasini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Controlled hydrolysis of odorants Schiff bases in solution and gels to enhance their odour persistency
@@ -918,8 +832,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cristian.torri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sintesi e utilizzo di compositi a base di biochar nella fermentazione acidogenica di substrati gassosi
@@ -944,8 +856,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/g.valenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Biosensori elettrochemiluminescenti point-of-care per la diagnosi precoce di infezioni virali
@@ -991,8 +901,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/nelsi.zaccheroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Acido ialuronico luminescente in applicazioni biomediche
@@ -1006,8 +914,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/martina.zangheri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo di un metodo chemiluminescente per la determinazione dell'attività antiossidante in prodotti cosmetici
@@ -1016,8 +922,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.zattoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di sistemi per drug delivery basati su metal-organic framework (MOF) con tecniche di frazionamento in campo-flusso multirivelatore

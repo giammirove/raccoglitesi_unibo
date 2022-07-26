@@ -3,8 +3,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/ahmad.addous)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'arabo egiziano
@@ -13,8 +11,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/amalia.amato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Interpretazione in ambito medico: le modalità in presenza e telefonica a confronto
@@ -68,8 +64,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.baccolini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “A Phoenix First Must Burn”: Proposta di traduzione parziale del racconto “Sequence” di J. Marcelle Corrie
@@ -96,8 +90,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/a.barron)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Emotion Identification in Italian Opera
@@ -108,8 +100,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/gloria.bazzocchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Al di là della traduzione pubblicitaria: teoria e applicazione della transcreation
@@ -132,8 +122,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/sandro.bellassai)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I gruppi di autocoscienza maschile nell’Italia degli anni Settanta: una retrospettiva
@@ -143,8 +131,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/silvia.bernardini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La traduzione brevettuale in inglese lingua franca
@@ -162,8 +148,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.bersani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La semantica dei prototipi: la teoria di Rosch e gli “effetti prototipo” di Lakoff
@@ -173,8 +157,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cinzia.bevitori)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "That's what she said": Kamala Harris e Alexandria Ocasio-Corteza confronto attraverso la metodologia CADS
@@ -191,8 +173,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.bucaria)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Humorous culture and cultural humor: a theoretical investigation of the translation of cultural and humorous elements in audiovisual products
@@ -227,8 +207,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/delia.chiaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Joking apart: humour in advertising and its translation are a serious matter
@@ -237,8 +215,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/adele.darcangelo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The Challanges the Translator Faces is a Delicate Process:Translating the novel "Per mano"/"A Life Worth Living"
@@ -250,8 +226,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/chiara.elefante)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Esilio scelto o subìto: origini e implicazioni di un viaggio dolorosamente necessario
@@ -266,8 +240,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/maria.fernandez)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Al di là del testo.Proposta di traduzione musicale del brano Ojalá di Javier Beret
@@ -279,8 +251,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/adriano.ferraresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Ampliamento del corpus EPTIC e studio di caso sulle coppie inglese-italiano e inglese-francese
@@ -295,8 +265,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/christopher.garwood)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The use of english as a lingua franca for scientific dissemination and its impact on EFL speakers with a Ph.D.
@@ -305,8 +273,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesca.gatta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Tra linguistica e narrazione: Il segreto di Pietramala di Andrea Moro
@@ -316,8 +282,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.gonzalez)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + L'interpretazione di intercettazioni di conversazioni: analisi delle principali difficoltà e sfide
@@ -338,8 +302,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/kristina.landa2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La legge sugli agenti stranieri nella Federazione Russa tra retorica antioccidentale e repressione dittatoriale.
@@ -351,8 +313,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/johnpatrick.leech)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + The Good Little Ceylonese Girl di Ashok FerreyProposta di traduzione dell’omonimo racconto breve e analisi delle scelte traduttive
@@ -361,8 +321,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/rafael.lozano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Jehová: proposta di traduzione dell'opera teatrale giovanile inedita di Federico García Lorca
@@ -374,8 +332,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/gabriele.mack)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Occupational Health Risks for Interpreters: Exploring an Unchartered Field
@@ -385,8 +341,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/danio.maldussi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Les politiques linguistiques françaises face à l’expansion de l’anglais. Le cas du langage économique.
@@ -414,8 +368,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/maja.milicevic2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adulti e bambini a confronto: la pronuncia nell’acquisizione della seconda lingua prima e dopo la pubertà
@@ -426,8 +378,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sandro.moraldo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La donna nel fascismo e nel nazionalsocialismo. Analisi odierna del divario di genere nella lingua tedesca.
@@ -442,8 +392,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/ricardo.munoz)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Emotional contagion in consecutive interpreting: An empirical study with novice interpreters
@@ -452,8 +400,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/natacha.niemants)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il linguaggio della danza classica e il suo legame con la lingua francese
@@ -470,8 +416,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alanscott.partington)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Delegitimisation during the electoral campaigns in the United States and Europe 2016-2020: a comparative research
@@ -483,8 +427,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/r.pederzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Da Aïe love l’anglais ad Ahi love l’inglese di Rachel Hausfater: proposta di traduzione di un libro per l’infanzia
@@ -497,8 +439,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rachele.raus)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Français de l’Hexagone et français du Maroc : la persistance des stéréotypes sexistes dans l’accès au monde du travail
@@ -508,8 +448,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/c.rundle)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “The Plant: Zenith Rising” di Stephen King. Proposta di traduzione e analisi
@@ -522,8 +460,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/mariachiara.russo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Interpretazione simultanea dei film e sottotitolazione a confronto: analisi delle strategie adottate nella gestione dei dialoghi veloci e delle battute sovrapposte. Studio sperimentale sul film Tiempos malos di Cristián Sánchez.
@@ -547,8 +483,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/svetlana.slavkova)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi di Traduzione in Italiano delle poesie di Elisaveta Bagrjana
@@ -577,8 +511,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/nicoletta.spinolo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il vantaggio bilingue e le possibili implicazioni per l'interpretazione: un'analisi della letteratura
@@ -587,8 +519,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/raffaella.tonin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Acquisire la competenza traduttiva attraverso la traduzione collettiva del graphic novel spagnolo "Face" di Rosario Villajos
@@ -609,8 +539,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ira.torresi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dello humour nella serie RuPaul’s Drag Race e della sua traduzione dall’inglese in italiano.
@@ -628,8 +556,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/motoko.ueyama)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Giappone del terrore: la cultura yōkai 妖怪 tra ieri e oggi
@@ -643,8 +569,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eva.wiesmann)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli anglicismi nel linguaggio giuridico italiano
@@ -656,8 +580,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/greta.zanoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + CLIL - Due esperienze didattiche per gli Istituti Superiori
@@ -670,8 +592,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/serena.zuccheri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Esport in Cina

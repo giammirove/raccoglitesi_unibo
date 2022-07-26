@@ -3,8 +3,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.aicardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Anoressia e altri disturbi del comportamento alimentare:aspetti funzionali e interazioni con lo sport
@@ -19,8 +17,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/vincenza.andrisano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Microalgae in cosmetics: analytical characterization of microalgal lipid profile and formulation of an emulsion
@@ -51,8 +47,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.bortolotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Sport e cultura, un'analisi prasseologica"
@@ -125,8 +119,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/r.casadei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione del lncRNA ZFLNCG09760 e analisi quantitativa dell’espressione in Danio rerio
@@ -182,8 +174,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/m.cortesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Analisi delle resistenze idrodinamiche sul nuotatore”
@@ -197,8 +187,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paco.donofrio)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "L'Infermiere e la gestione della sofferenza nel fine vita"
@@ -237,8 +225,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/carmela.fimognari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ecdisteroidi: una nuova classe di agenti anabolizzanti?
@@ -270,8 +256,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.gatta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ansia da prestazione nei giovani atleti di pallanuoto:causa di malessere e conseguente abbandono dell’attività sportiva
@@ -289,8 +273,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimo.giovanardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il destination marketing e il settore delle discoteche: il tema della promozione del prodotto nightlife nella riviera romagnola
@@ -350,8 +332,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francesca.maffei)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fattori motivazionali associati al doping
@@ -363,8 +343,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/pasqualino.maietta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Allenamento funzionale ad alta intensità (HIFT):Benefici relativi alla salute e composizione corporea
@@ -412,8 +390,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.mandrioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Comparison between two bioelectrical impedance devices for body composition evaluation: InBody 770 and Tanita TBF-300A
@@ -427,8 +403,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/alessia.mariotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi della percezione dei residenti nei confronti del fenomeno turistico nella città di Falconara Marittima
@@ -444,8 +418,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.milelli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Da single-target a multi-targetIbridi chinoni-inibitori HDAC come nuovi agenti neuroprotettivi
@@ -465,8 +437,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/paolo.muratori3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e possibile applicazione di uno strumento assistenziale per gli infermieri in ambito endocrinologico: Il Telenursing
@@ -487,8 +457,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/angelo.peli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le varie declinazioni dell'elettropesca: compendio normativo e indicazioni d'uso per l'elettrostorditore
@@ -505,8 +473,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giampaolo.proni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L’abito non fa l’uomo. Moda e identità maschile
@@ -532,8 +498,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/valeria.righi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Development of Gradual Tan Moisturizer with SPF 15
@@ -543,8 +507,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/mariana.roccaro2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Predazioni da lupo a danno del bestiame nel territorio della AUSL di Bologna
@@ -553,8 +515,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/valeria.rubbi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il liceo Ariosto e Palazzo Prosperi Sacrati a Ferrara: il percorso didattico affianca il recupero museale
@@ -570,8 +530,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.santi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Il diritto di accesso nei contratti pubblici con specifico riferimento all’accesso civico generalizzato
@@ -591,8 +549,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.stefanelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adattamenti ormonali nel digiuno intermittente e mantenimento della massa magra
@@ -607,8 +563,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.tarozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di eventi neurodegenerativi in un modello cellulare di malattia di Huntington
@@ -641,8 +595,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marcella.terrusi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fiabe da indossare: una capsule collection dedicata al dialogo tra gli albi illustrati e la moda per l'infanzia.
@@ -654,8 +606,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/vincenzo.tumiatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Bakuchiol cream, a natural alternative to retinol cream
@@ -679,8 +629,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.turrini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A modern formulation of mascara:                                                                                             from development to safety assessment

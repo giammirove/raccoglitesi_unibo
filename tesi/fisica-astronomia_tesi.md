@@ -3,8 +3,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.alici3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Machine learning techniques for heavy-flavour baryon production measurements at the LHC
@@ -28,8 +26,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.balbinot)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'equazione d'onda non omogenea in elettromagnetismo e in Relatività Generale
@@ -42,8 +38,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.baldazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione in camera climatica dei rivelatori a scintillazione in corso di installazione a M.te Cimone per l’esperimento Gamma-Flash
@@ -52,8 +46,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.baldi5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Correlazione di variabili dinamiche in simulazioni cosmologiche di gravità modificata
@@ -84,8 +76,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/fiorenzo.bastianelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Formulazione della meccanica quantistica tramite integrali di cammino con applicazione al moto Browniano
@@ -108,8 +98,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/armando.bazzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + A Maximum Entropy Approach to Disturbed Ecosystems
@@ -148,8 +136,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/eugenio.bertozzi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "Le leggi del fenomeno sono dovute a lui". Analisi storica della comprensione dell'effetto fotoelettrico e del contributo di Augusto Righi.
@@ -164,8 +150,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniele.bonacorsi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Combining Sentinel-1 and Sentinel-2 satellite imagery for land cover classification with convolutional neural networks
@@ -176,8 +160,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/annalisa.bonafede)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Constraints on Magnetic fields and particle acceleration in the inter-cluster bridge A399-A401
@@ -205,8 +187,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.brighenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studying synthetic column density maps and absorption spectra from galactic wind models
@@ -234,8 +214,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/mario.cadelano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi della segregazione di massa in ammassi globulari mediante Blue Straggler Stars e binarie fotometriche
@@ -244,8 +222,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.campari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sfruttamento del Boro per un migliore utilizzo delle energie rinnovabili.
@@ -274,8 +250,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.casadio3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Classificazione di Bianchi e approccio oscillatorio alla singolarità
@@ -297,8 +271,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.castellaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il distretto fiera di Bologna: uno studio di risposta sismica
@@ -331,8 +303,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.cicoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Classification of Flat Directions in Type IIB Toroidal Flux Compactifications
@@ -345,8 +315,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/luisa.cifarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + DarkSide-20k: la trasmissione ottica del segnale
@@ -367,8 +335,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luca.ciotti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Modelli dinamici per sistemi stellari debolmente schiacciati.
@@ -384,8 +350,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.contin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dell’energia marina, metodi di conversione, potenzialità e possibile sfruttamento lungo le coste italiane
@@ -415,8 +379,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.dallacasa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratteristiche dell’emissione di galassie ellittiche
@@ -448,7 +410,7 @@
      + Proprietà generali dei pianeti del Sistema Solare e ricerca dei pianeti esterni
      + Proprietà generali dei pianeti del Sistema Solare e ricerca di pianeti esterni
      + Righe spettrali: formazione, shift, allargamento
-     + Scala delle Distanze in Astrofisica
+     + Scala delle distanze in astrofisica
      + Struttura e cinematica della Via Lattea
      + Telescopi ottici, radio, X: principi e differenze
      + Teorema del Viriale e applicazioni astrofisiche
@@ -474,8 +436,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/silvana.disabatino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analysis and characterization of the morning and the evening transition over a west-facing slope: case-studies from the MATERHORN Program
@@ -498,8 +458,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/michele.dragoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Evoluzione storica delle conoscenze sul campo geomagnetico
@@ -543,8 +501,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/fabio.ferrari17)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Results of the ageing campaign of the photomultiplier Hamamatsu R760
@@ -571,8 +527,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paola.focardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + From the Earth to the Sun: the quest for the Astronomical Unit by means of the 1761 and 1769 Venus transits.
@@ -585,8 +539,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/beatrice.fraboni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Characterization of Hydrogel-Based Organic Electrochemical Transistors
@@ -659,8 +611,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/roberta.guerra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dinamica spaziale e stagionale del fosforo nei sedimenti del Nord Adriatico
@@ -689,8 +639,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alexand.kamenchtchik)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La precessione di Mercurio
@@ -719,8 +667,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.lanzoni3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Nuovi indicatori empirici dell'evoluzione dinamica dei sistemi stellari
@@ -747,8 +693,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/olivia.levrini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi comparativa di simulazioni PhET di sistemi meccanici classici e simulazioni NetLogo di sistemi complessi
@@ -791,8 +735,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annarita.margiotta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Validation of the ''full White Rabbit'' setup in the context of the KM3NeT experiment
@@ -801,8 +743,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.marinacci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + High-resolution​ simulations of ​supernova remnants​ and​ superbubbles​ feedback​
@@ -892,8 +832,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/michele.moresco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Vincoli all'Universo Oscuro tramite la combinazione ottimale di sonde cosmologiche tra 0
@@ -902,8 +840,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariapia.morigi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo di un metodo di correzione delbeam-hardening senza calibrazionepreliminare per la tomografia a raggi X ditipo cone-beam applicata ai beni culturali
@@ -915,8 +851,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lauro.moscardini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A new implementation of an optimal filter for the detection of galaxy clusters through weak lensing
@@ -933,8 +867,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/alessio.mucciarelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Reazioni termonucleari nei nuclei stellari
@@ -957,8 +889,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/carlo.nipoti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analytic models of self-gravitating rotating gaseous tori with central black hole
@@ -1012,8 +942,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/tiziano.peraro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Riduzione integrale per processi a sei particelle
@@ -1023,8 +951,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/pierbiagio.pieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Teoria fenomenologica di Ginzburg-Landaudella superconduttività
@@ -1055,8 +981,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.porcu)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analysis of the Mediterranean tropical-like cyclone Numa from a numerical model simulation
@@ -1071,8 +995,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/f.pozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Contenuto di polvere e yield cosmico in galassie a redshift z~5
@@ -1085,8 +1007,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.prevedelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Implementazione di un sistema di navigazione inerziale basato susensori MEMS
@@ -1095,8 +1015,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.ravanini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Entanglement and Tolman paradox
@@ -1109,8 +1027,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniel.remondini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analysis of COVID-related symptoms from a database of Italian Tweets
@@ -1121,8 +1037,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/clelia.righi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Interazione tra superfici di diversa natura: descrizione ab initio e formulazione analitica
@@ -1158,8 +1072,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/eleonora.rivalta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Numerical simulation of magma pathways and vent distribution in rifts from the early stages to maturity
@@ -1176,8 +1088,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/paolo.ruggieri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Assessment of the time-scale of abrupt transitions in the climate system
@@ -1204,8 +1114,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gilda.scioli3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Opto-link, an innovative technology for signals read-out
@@ -1222,8 +1130,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/maximiliano.sioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Misura della sezione d'urto della produzione del bosone Z in associazione a c-jets con dati raccolti dall'esperimento ATLAS a LHC.
@@ -1245,8 +1151,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/francisco.soares)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Chiral gravitational waves from axion-inflation models with step-like features
@@ -1285,8 +1189,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giulia.tasquier2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dalla termodinamica ai sistemi complessi:analisi di una proposta didattica suicambiamenti climatici per sviluppare abilità dipensiero sistemico
@@ -1295,8 +1197,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/claudia.testa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Eye-tracker MRI compatibile: ottimizzazione di un codice per l'analisi delle immagini
@@ -1324,8 +1224,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.valentinetti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Self-Efficacy e Segregazione Orizzontale: uno studio di genere nel Corso di Laurea Magistrale in Fisica
@@ -1347,8 +1245,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cristian.vignali)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Nuclei galattici attivi: proprietà e caratterizzazione mediante diagrammi diagnostici nell'epoca della missione Euclid
@@ -1387,8 +1283,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.zavatarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Gli eventi di siccità in un clima che cambia: impatti passati e futuri
@@ -1398,8 +1292,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/antonio.zoccoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Implicazioni dell'osservazione del processo γγ->WW sull'accoppiamento quartico tra bosoni vettori.
@@ -1408,8 +1300,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.zucchelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Evaluation of Th and U contamination in the CUORE experiment using a delayed coincidence analysis
@@ -1418,8 +1308,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.zucchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Operatori Tensoriali Irriducibili e Teoria di Wigner-Eckart con Applicazioni

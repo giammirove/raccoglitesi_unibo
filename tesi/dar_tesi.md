@@ -9,8 +9,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/andrea.bacchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Carmela Adani (1899 - 1965): Studi sulla gipsoteca del Liceo Rinaldo Corso di Correggio.
@@ -33,8 +31,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/nicola.badolato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fruizione musicale nel corso dei secoli XIX e XX
@@ -55,8 +51,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.barra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “We all have monsters inside us”. Lo spettatore dalla parte del rough hero in Killing Eve
@@ -116,8 +110,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/marco.beghelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + La sonata per violino in Fa maggiore, D-Dl, Mus.2468-R-3 di Francesco Maria CattaneoEdizione critico-diplomatica e critico-interpretativa
@@ -126,8 +118,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.bellucci4)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi semiotica dell'arte contemporanea: Il caso di Refik Anadol
@@ -136,8 +126,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/daniele.benati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + I dipinti mitologici di Lavinia Fontana da Bologna a Roma
@@ -163,8 +151,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/f.benelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La fortuna del linguaggio architettonico brunelleschiano nel Rinascimento bolognese
@@ -191,8 +177,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/donatella.biagimaino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Depositi museali: uno scenario in evoluzione.Dal riordino alla gestione dell'emergenza, verso nuove forme di fruizione.
@@ -212,8 +196,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/claudio.bisoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Crash Landing on the West: un'analisi del serial coreano Crash Landing on You
@@ -237,8 +219,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/salvatore.botta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il colera del ‘73 a napoli, nelle pagine dei  quotidiani “l’unità”, “corriere della sera”, “la stampa”
@@ -306,8 +286,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.brizzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il documentario sportivo, tra cinema e televisione
@@ -341,8 +319,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/daniela.calanca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Abiti sartoriali dei burattini nel Teatro di Figura”
@@ -384,8 +360,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.calogero2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Agli albori della moderna metodologia della critica d’arteGiovanni Morelli e Giovanni Battista Cavalcaselle:confronto sul metodo attributivo
@@ -406,8 +380,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fulvio.cammarano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Lo sguardo della stampa politica sulle Olimpiadi di Tokyo 1964"
@@ -420,8 +392,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/michele.canosa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Origini estetiche dell'automa ne L'uomo meccanico"
@@ -446,8 +416,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.caputo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Classi differenziali" e "inclusione": il ruolo docente tra narrazioni filmiche e riflessioni pedagogiche
@@ -470,8 +438,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.casari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Domenico Procacci e Matteo Garrone – incontri vincenti nel cinema italiano”
@@ -500,8 +466,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.cavazza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Ruolo di Bambini ed Adolescenti nel Primo Conflitto Mondiale
@@ -514,8 +478,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/paolo.cecchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il flauto di Debussy: i casi del Prélude à l'après-midi d'un faune e di  Syrinx
@@ -570,8 +532,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/lucia.corrain)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Occhi limpidi e cuore puro": leggere il piano plastico dell'opera d'arte attraverso lo sguardo del bambino
@@ -633,8 +593,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.cosenza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + #duoaroundtheworld: come sviluppare una campagna di comunicazione con la tecnica del double diamond
@@ -795,8 +753,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/sandra.costa)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Collezionare ed esporre: significati e funzioni degli animali tassidermizzati nei musei."
@@ -825,8 +781,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/m.cucco)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Binge-watching K-Drama. Il caso di Squid Game.
@@ -861,8 +815,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/carla.cuomo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Educazione musicale nella scuola primaria: percorso didattico sulla "Carmen" di Bizet
@@ -901,8 +853,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.demaria2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Solitudine ed accettazione di sè in Mr. Robot"
@@ -988,8 +938,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/daniele.donati)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Reati digitali: il Revenge Porn. Una prima analisi del reato e l'impatto sulla generazione Z"
@@ -1047,8 +995,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/f.fabbri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ann Demeulemeester, la ragazza delle Fiandre
@@ -1074,8 +1020,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.fadda)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Aspetti della cinematografia americana negli scritti di Emilio Cecchi del 1931-1932. Da "Messico" alle recensioni su "L'Italia letteraria"
@@ -1108,8 +1052,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.fedriga)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e confronto della graphic novel Shangri-La di Mathieu Bablet in formato digitale e cartaceo dal punto di vista della teoria della ricezione
@@ -1153,8 +1095,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/sil.grandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + “To wake the morn, and sentinel the night”:arte digitale e nft
@@ -1190,8 +1130,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/irene.graziani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Chiesa di San Domenico di Faenza
@@ -1222,8 +1160,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/gerardo.guccini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Archivio del Ridotto. Un'osservazione sul teatro di gruppo e la sua cultura
@@ -1311,8 +1247,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/saverio.lamacchia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Peer Gynt e le musiche di scena
@@ -1323,8 +1257,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.lollini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Attraverso la porta": il concetto di liminalità e la cattedrale di Ferrara
@@ -1353,8 +1285,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/roberta.lorenzetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del comportamento umano: Il comportamento umano è sotto il controllo di variabili interne o esterne?
@@ -1407,8 +1337,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annamaria.lorusso)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ageism nella terza età: un'analisi pubblicitaria
@@ -1446,8 +1374,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.manes2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Hardship nei Principi Unidroit, imprévision, eccessiva onerosità sopravvenuta. Uno studio comparato.
@@ -1463,8 +1389,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/giacomo.manzoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Divorzio all'italiana nel dibattito pubblico. Delitto d'onore e divorzio nei quotidiani italiani dal 1961.
@@ -1527,8 +1451,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/costantino.marmo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi semiotica dell'opera d'animazione "Neon Genesis Evangelion"
@@ -1540,8 +1462,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/claudio.marra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ara Guler e il ruolo della fotografia documentaria nella memoria colletiva in Turchia.
@@ -1571,8 +1491,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.marsciani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "ESTETICA DELLE PASSIONI" Semiotica e Musica
@@ -1618,8 +1536,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/fabio.massaccesi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il Maestro dei Mesi e la Porta dei Pellegrini della Cattedrale di Ferrara
@@ -1642,8 +1558,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/mauro.mastropasqua)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Salamone Rossi e Biagio Marini:indagini di Teoria della Sintassi e della Forma tra Cinque e Seicento.
@@ -1652,8 +1566,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roy.menarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “i trend di moda e la loro diffusione dagli anni cinquanta’ ad oggi”
@@ -1713,8 +1625,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/sandro.mezzadra)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + In cammino con Frantz Fanon, alle periferie di un colonialismo ‘mortale’
@@ -1741,8 +1651,6 @@
 ###### Ricercatore a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marco.milani6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Le implicazioni della Belt and Road Initiative sulla sicurezza energetica della Cina
@@ -1757,8 +1665,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/federica.muzzarelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Paolo Roversi - Studio Luce"
@@ -1819,8 +1725,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/roberta.paltrinieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Girls to the front!»: lə Riot Grrrl e il punk femminista
@@ -1846,8 +1750,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.pasquini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il carteggio fra Padre Giambattista Martini e Giuseppe Santarelli
@@ -1874,8 +1776,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sara.pesce)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "​La Rappresentazione della Mascolinità e dell'Anzianità nel cinema: il caso di Clint Eastwood"
@@ -1948,8 +1848,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.pitozzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il cammino di Orfeo: dalla cultura greca antica ai palcoscenici d'Europa
@@ -1974,8 +1872,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.ricciardi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Critiche del patriarcato: Carole Pateman, Gerda Lerner, Maria Mies
@@ -1988,8 +1884,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/marta.rocchi5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Dal libro al click: l'editoria nel digitale
@@ -1999,8 +1893,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/anna.rosellini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + arte contemporanea a pietrasanta: gallerie d'arte, laboratori artistici e mostre diffuse
@@ -2017,8 +1909,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.santoro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + costruzione e decostruzione del personaggio artistico l’anonimato nel mondo dell’arte popolare.
@@ -2030,8 +1920,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.sassatelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Brunello Cucinelli S.p.A, Impresa Locale Creatrice di Valore per la Comunità
@@ -2051,8 +1939,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/anna.scalfaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Come è profondo il mare" parole e musica di Lucio Dalla
@@ -2078,8 +1964,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/simona.segrereinach)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Anni '60: moda e sottocultura giovanile. Il movimento hippy e la sua influenza sulle tendenze mainstream
@@ -2109,8 +1993,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/maria.semi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Fabrizio De Andrè: Storie contro il potere
@@ -2127,8 +2009,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.spampinato)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Abiezione e trasgressione: il corpo nella produzione di Andres Serrano
@@ -2162,8 +2042,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/lucio.spaziante)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Adattamenti seriali: il caso Skam
@@ -2228,8 +2106,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/domenico.staiti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ewe Drumming: La cultura ritmica presso il popolo Ewe del Ghana.
@@ -2245,8 +2121,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.tartarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “La donnesca mano”: parole e immagini su Lavinia Fontana
@@ -2276,8 +2150,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ines.tolic)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Fra decostruzione e decostruttivismo. Moda, design e architettura alla fine del XX secolo".
@@ -2300,8 +2172,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.valenti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + "PADRI E FIGLI": LA TRILOGIA DEL TEATRO DEL PRATELLO (2019-2021). Con un focus su "Memorie di Mani".
@@ -2311,8 +2181,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/salvatore.vassallo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Politica e Fede: l'influenza della religiosità sul voto per i partiti di destra radicale e populista

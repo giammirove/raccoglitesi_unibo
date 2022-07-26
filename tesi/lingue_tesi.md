@@ -3,8 +3,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/silvia.albertazzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approcciare la diversità: la disabilità raccontata dai registi del Free Cinema.
@@ -18,8 +16,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/a.alberti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Baj Ganjo: commento sulle traduzioni dal bulgaro in italiano e inglese
@@ -41,8 +37,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.ascari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "The Lodger": dal romanzo all'adattamento cinematografico
@@ -90,8 +84,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/edoardo.balletta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Evoluzione ed apprendimento da Variaciones en Rojo verso Operación Masacre: dal racconto all’inchiesta.
@@ -108,8 +100,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.benozzo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Consenso e dissenso: comunicazione e manipolazione di masse
@@ -132,8 +122,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/davide.bertagnolli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Il fantastico-meraviglioso nel Nibelungenlied e nella Saga dei Volsunghi sulla base delle teorie di Tzvetan Todorov e Jacques Le Goff”
@@ -147,8 +135,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/s.betti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "I muri che imprigionano il pensiero"FRONTIERA USA - MESSICO: ANALISI DELL'IMMIGRAZIONE LATINA E PERCEZIONE DELLE MINORANZE NEGLI STATI UNITI
@@ -175,8 +161,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/m.bolognesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il legame fra genere e pensiero: dall'ipotesi Sapir-Whorf alla società dei nuovi pronomi
@@ -190,8 +174,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/claudia.borghetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Alcuni suggerimenti per migliorare il programma Erasmus: un'indagine sulle opinioni degli studenti
@@ -218,8 +200,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.campi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Chimène e l'Infanta. Per una lettura al femminile di "Le Cid" di Corneille
@@ -239,8 +219,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/antonella.ceccagno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il Land Grabbing in Africa, America Latina ed Europa centro-orientale: un’analisi di statistica descrittiva
@@ -263,8 +241,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/bruna.conconi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + «Coincé entre deux langues»: Claude Pélieu, il beat francese esiliato a San Francisco
@@ -294,8 +270,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luigi.contadini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + 1900-1936: l’inizio di una lunga battaglia per i diritti della donna spagnola
@@ -317,8 +291,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/chiara.conterno)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Due lettere al padre mai recapitate: Franz Kafka e Giacomo Leopardi.L'emblema del non-detto.
@@ -333,8 +305,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michael.dallapiazza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + „[…] und in der wundervollen Sprache der Musik strömt das Gedicht aus deinem Innern hervor.“ Collaborazione e contaminazione tra letteratura e musica nel Romanticismo tedesco: E.T.A. Hoffmann e il suo Johannes Kreisler
@@ -375,8 +345,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/carlotta.farese)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Unsex Me Here": Per una lettura femminista del Macbeth
@@ -405,8 +373,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/sabrina.fusari2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Bilingualism: the importance of starting at an early age
@@ -461,8 +427,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/gilberta.golinelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “And then I’ll speak a little”: la retorica del potere materno in Coriolanus
@@ -477,8 +441,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/gabriella.imposti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Karolina Pavlova e Vera Figner: due volti dell’emancipazione femminile nella Russia dell' Ottocento
@@ -492,8 +454,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/barbara.ivancic)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Subtractive Bilingualism: a focus on the phenomenon through interviews with speakers of post-USSR and Eastern European countries. How linguistic policies have influenced the history of the area.
@@ -507,8 +467,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/janehelen.johnson)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + emerging subgenres in the new capitalism: the case of universities’ strategic plans
@@ -522,8 +480,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elena.lamberti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + 9 minuti e 29 secondiIl razzismo negli Stati Uniti in letteratura e nell'attualità
@@ -551,8 +507,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/antonella.luporini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "The Evolution of British and American English" A Comparative Overview of the two Varieties
@@ -561,8 +515,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/eugenio.maggi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Essere donna durante la dittatura franchista: la condizione femminile spagnola in Entre visillos di Carmen Martín Gaite e Calle Mayor di Juan Antonio Bardem
@@ -578,8 +530,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.magni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Falsi anglicismi in italiano: uno studio sui composti intitolativi e sugli usi di ‘assolutamente’
@@ -598,8 +548,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/marina.manfredi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione della Systemic Functional Linguistics al linguaggio pubblicitario: analisi comparata di due spot del profumo J'adore Dior
@@ -619,8 +567,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/irina.marchesini2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Международное усыновление: особенности и перевод официально-деловых документов
@@ -658,8 +604,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/caterina.mauri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Espressione dell'alterità: un confronto tra italiano e spagnolo
@@ -674,8 +618,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/rita.monticelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Il linguaggio e il corpo femminile come costrutti della società patriarcale: Luce Irigaray, Judith Butler e Margaret Atwood
@@ -687,8 +629,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/roberto.mulinacci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Divorare l'Altro: il discorso dell'Antropofagia e le sue implicazioni nella traduzione intersemiotica di Macunaíma
@@ -704,8 +644,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/catia.nannoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le cinque donne di Jacques Brel: analisi tematico-stilistica della rappresentazione femminile tra dinamismo e ripetizione.
@@ -721,8 +659,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/valentina.nider)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'inversione carnevalesca negli Entremeses di Miguel De Cervantes
@@ -735,8 +671,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.niero)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Il figlio della civiltà": Osip Mandel'š̌tam nella saggistica di Iosif Brodskij
@@ -766,8 +700,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/ana.pano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il sessismo nella lingua spagnola. Analisi e raccomandazioni per un linguaggio privo di discriminazioni
@@ -796,8 +728,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.perotto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + I fraseologismi come fonte dell'immagine del mondo nelle traduzioni dei romanzi di A. Camilleri in lingua russa.
@@ -813,8 +743,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/ines.peta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + aḥmad amīn e la riscoperta dell’identita’ culturale.
@@ -826,8 +754,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.prandoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Identità e frammentazione: un'indagine sociolinguistica del Sudafrica contemporaneo.
@@ -843,8 +769,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.puccini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'écriture inclusive au défi de la langue: un bilan de la controverse et une étude sur la rédaction non sexiste dans la presse francophone
@@ -856,8 +780,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rosa.pugliese)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analizzare e valutare il manuale di lingua (L2/LS): strumenti e un’applicazione
@@ -888,8 +810,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/marie.rieger)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "La Creazione" di Franz Joseph Haydn: Aspetti linguistico-letterari nel libretto di van Swieten.
@@ -908,8 +828,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.rodrigomora)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + il linguaggio medico spagnolo: caratteristiche, problematiche e i neologismi legati al Covid-19
@@ -927,8 +845,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/gino.scatasta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + "Names are everything". La relazione tra nome e caratterizzazione dei personaggi in The Picture of Dorian Gray e The Importance of Being Earnest.
@@ -1010,8 +926,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/paola.scrolavezza)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Dal rotolo ai tankōbon: l'origine del manga e i suoi diversi formati
@@ -1071,8 +985,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.turci2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + IMPARARE LE LINGUE DA ADULTI: materiali didattici per gli apprendenti anglofoni del gruppo "Parliamo Insieme Italiano!"
@@ -1093,8 +1005,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/roberto.vecchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Estetiche ed internazionalismo del Cinema Novo
@@ -1116,8 +1026,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.vitucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi del concetto di qualità negli Audiovisual Translation Studies e della sua applicazione nella sottotitolazione e doppiaggio professionali del lungometraggio giapponese An (2015) di Kawase Naomi
@@ -1131,8 +1039,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/a.zironi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Baldr: la figura, il mito e le interpretazioni

@@ -9,8 +9,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/claudio.agostinelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Linfoma di Hodgkin Classico dell'adolescente - Bersagli terapeutici del microambiente
@@ -20,8 +18,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.agostin11)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione della mindfulness all'assistenza infermieristica in pazienti con patologie croniche: una revisione della letteratura
@@ -37,8 +33,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/francesco.alviano)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Stromal cell-based 3D cellular models of Hodgkin lymphoma
@@ -65,8 +59,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.ardizzoni2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Chemioterapia e tossicità nei pazienti con tumore del colon-retto e malattie infiammatorie croniche intestinali: risultati di uno studio retrospettivo monocentrico.
@@ -105,8 +97,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.bolognesi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Purificazione e caratterizzazione di RIP e lectine da foglie di Sambucus nigra
@@ -125,8 +115,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/laura.bonsi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Caratterizzazione degli effetti chimico-biologici di un Hydrogel a scopo terapeutico, in associazione ad una macchina n-IORT.
@@ -135,8 +123,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.brandi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Follow up nei pazienti con colangiocarcinoma
@@ -161,8 +147,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/eugenio.brunocilla)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Crioablazione (CA) percutanea e nefrectomia parziale robot-assistita (RAPN) per il trattamento di piccole masse renali: risultati oncologici e funzionali a confronto
@@ -184,8 +168,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/silvia.cammelli2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + LA RADIOTERAPIA DOPO RI-ESCISSIONE CHIRURGICANEI SARCOMI DEI TESSUTI MOLLI DEGLI ARTI E DEL TRONCO:l’esperienza dell’Unità Operativa di Radioterapiadel Policlinico Sant’Orsola di Bologna
@@ -198,8 +180,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/davide.campana)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori predittivi di coinvolgimento linfonodale in pazienti con diagnosi di tumore neuroendocrino del retto: uno studio retrospettivo multicentrico
@@ -233,8 +213,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/miriam.capri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Characterization of mechanism of action of engineered nanomaterials by comparative toxicogenomics approach
@@ -264,8 +242,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gastone.castellani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Modelli di neural network ispirati alla biofisica
@@ -281,8 +257,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lucia.catani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Targeting of gene F12 in protein S deficient mice to restore the hemostatic balance.
@@ -291,8 +265,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/michele.cavo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Leucemia acuta linfoblastica Philadelphia positiva: Impatto prognostico del doppio trascritto BCR/ABL (p190-p210) e confronto tra due metodiche di valutazione della malattia minima residua (RT-PCR vs NGS)
@@ -324,8 +296,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/benilde.cosmi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori di Rischio Cardiovascolare, Aterosclerosi Femorale e Arteriopatia Ostruttiva Periferica subclinica nei pazienti con Trombosi Venosa Profonda degli arti inferiori: Studio Osservazionale TVP-AOP
@@ -335,8 +305,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/monica.cricca3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Clusterizzazione di ceppi di Vibrio parahaemolyticus e Candida parapsilosis tramite utilizzo della spettroscopia FT-IR
@@ -351,8 +319,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/vittorio.dalmastri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Utilizzo di uno score clinico-assistenziale per la ottimizzazione del counseling e delle azioni correttive nel dializzato cronico
@@ -361,8 +327,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/paola.dalmonte)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sorveglianza ambientale di Mycobacterium chimaera in ambito sanitario: metodi innovativi per l’isolamento e l’identificazione
@@ -380,8 +344,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/antonio.deleo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Carcinoma dell'endometrio: integrazione delle caratteristiche clinico-patologiche e molecolari con i fenotipi immunitari
@@ -396,8 +358,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/antonietta.derrico)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo del Tecnico Sanitario di Laboratorio Biomedico nell'emergenza pandemica. Esperienza in Anatomia Patologica
@@ -414,8 +374,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/igor.diemberger)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi delle caratteristiche cliniche, strumentali e prognostiche dei portatori di mutazioni patogeniche per amiloidosi ereditaria transtiretino-relata
@@ -441,8 +399,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/emi.dika3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + L'influenza del genere sui fattori prognostici di malattia nel melanoma: uno studio retrospettivo osservazionale
@@ -491,8 +447,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianluca.faggioli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Endoprotesi aortica branched precannulata in urgenza. Risultati preliminari.
@@ -509,8 +463,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/s.fanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori predittivi del volume di malattia alla PET/TC con 68Ga-PSMA-11 e analisi della detection rate di malattia ossea nel paziente con carcinoma prostatico resistente alla castrazione
@@ -524,8 +476,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/manuela.ferracin)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + CAR-T cell tracking and circulating microRNA monitoring in lymphoma patients treated with CAR-T cell therapy
@@ -536,8 +486,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/giangaetano.ferri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Assistenza infermieristica al paziente portatore di tracheostomia
@@ -552,8 +500,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michelangelo.fiorentino)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di colture 3D su scaffold di collagene biomimetici di monociti e cellule tumorali di carcinoma a cellule squamose del cavo orale
@@ -568,8 +514,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/luigi.fontana6)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Confronto tra trabeculectomia, impianto di Xen Gel Stent ed impianto di Preserflo Microshunt nel trattamento chirurgico del glaucoma primario ad angolo aperto: risultati di uno studio monocentrico retrospettivo
@@ -579,8 +523,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/claudio.foschi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Genovarianti di linfogranuloma venereo in una popolazione 'MSM' di Bologna
@@ -589,8 +531,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/flavia.frabetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Studio comparativo nella definizione del ruolo patogenetico della Trasportina 3 nella distrofia muscolare dei cingoli D2: il modello animale Zebrafish e il modello cellulare C2C12
@@ -599,8 +539,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/michela.fresina2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Biometria e Calcolo IOL: Ultrasuoni vs Ottica
@@ -609,8 +547,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/nazzareno.galie)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi dei predittori prognostici e differenze tra i sottogruppi di Ipertensione Arteriosa Polmonare associata a ipertensione portale e ad infezione da HIV
@@ -650,8 +586,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gaetano.gargiulo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi dei risultati del trapianto cardiaco nei pazienti congeniti adulti (GUCH) reinterpretati attraverso la creazione di uno score di rischio specifico per questa popolazione.
@@ -671,8 +605,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mauro.gargiulo2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo dell’infermiere nel trattamento del paziente diabetico, affetto da arteriopatia cronica ostruttiva periferica, a rischio di amputazione maggiore d’arto.
@@ -692,8 +624,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/enrico.giampieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + COVID-19 prognosis estimation from CATscan radiomics: comparison of differentmachine learning approaches for predictingpatients survival and ICU Admission
@@ -705,8 +635,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/tatiana.gianni3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + ingegnerizzazione di linee tumorali murine per l’espressione dell’ectodominio di mucin 1 umano
@@ -730,8 +658,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rita.golfieri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Efficacia e sicurezza della radioembolizzazione con Y90 nei pazienti affetti da colangiocarcinoma intraepatico non operabili
@@ -764,8 +690,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gaetano.lamanna)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Analisi delle sottopopolazioni linfocitarie nel trapianto renale e loro correlazione con l'outcome
@@ -791,8 +715,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michelangelo.laplaca)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'efficacia del miele ad uso medicale a confronto con le medicazioni avanzate nel trattamento delle lesioni da pressione
@@ -815,8 +737,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/tiziana.lazzarotto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Infezione da SARS-CoV-2: analisi di tamponi naso-faringei per l'identificazione delle diverse varianti del virus
@@ -833,8 +753,6 @@
 ###### Professore straordinario a tempo determinato art.1 co.12 l.230/2005
 [Sito Web](https://www.unibo.it/sitoweb/marcocesare.maltoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Valutazione del valore prognostico di Edmonton Symptom Assessment System su una coorte di pazienti con patologia oncologica avanzata
@@ -859,8 +777,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/antonella.marangoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + “Consapevolezza della problematica dell’antibiotico resistenza: indagine multicampus tra studenti di Infermieristica”
@@ -879,8 +795,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/emanuela.marcelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Realtà Aumentata come guida chirurgica intraoperatoria: la nuova frontiera dell'Image-Guided Surgery
@@ -921,8 +835,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/monica.martoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La Mindfulness come prevenzione del burnout infermieristico.
@@ -968,8 +880,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.montanaro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo degli snoRNA H/ACA box nel mediare le funzioni della discherina in cellule di carcinoma della mammella
@@ -985,8 +895,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/alessio.morganti2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Fulvestrant e Palbociclib in combinazione in pazienti con carcinoma mammario metastatico con recettori ormonali positivi, HER-2 negativo, in progressione dopo precedente trattamento con Fulvestrant.
@@ -999,8 +907,6 @@
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/margherita.nannini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + cure palliative precoci e simultanee nel soggetto con carcinosi polmonare
@@ -1021,8 +927,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/stefano.nava)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Alterazioni dei muscoli respiratori e non respiratori nell'insufficienza respiratoria acuta
@@ -1041,8 +945,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/davide.pacini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Chirurgia sostitutiva della radice aortica con conservazione della valvola aortica nativa
@@ -1057,8 +959,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.palazzini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Il ruolo dell'alimentazione nello scompenso cardiaco
@@ -1074,8 +974,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/maria.pantaleo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Affrontare la pandemia, un anno dopo: il burnout del personale sanitario addetto alle cure palliative domiciliari
@@ -1087,8 +985,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/piero.parchi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Il ruolo emergente dei biomarcatori ematici nella diagnosi differenziale di demenza frontotemporale
@@ -1098,8 +994,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/gianandr.pasquinelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Applicazione di un reporter trascrizionale per il monitoraggio della attività di PPAR𝛾 in cellule della parete vascolare
@@ -1156,8 +1050,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.pignatti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Chirurgia ricostruttiva nelle complicanze delle malattie infiammatorie croniche intestinali: 15 anni di esperienza presso l’IRCCS AOU Bologna
@@ -1167,8 +1059,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/alessandro.pileri2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Trattamento Laser CO2 frazionato nel Lichen Sclerosus Vulvare: impatto sulla qualità della vita delle pazienti e sulle terapie successive
@@ -1180,8 +1070,6 @@
 ###### Professore straordinario a tempo determinato art.1 co.12 l.230/2005
 [Sito Web](https://www.unibo.it/sitoweb/giancarlo.piovaccari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Specialistica a ciclo unico
      + Studio retrospettivo osservazionale monocentrico sull’attività di un ambulatorio cardiologico dedicato e di un Team multidisciplinare nella gestione delle gravidanze ad alto rischio cardiovascolare
@@ -1190,8 +1078,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/allison.piovesan2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Analisi della sequenza delle sonde di microarray per lo studio della espressione dei geni umani
@@ -1200,8 +1086,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/biancamaria.piraccini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi delle tecniche diagnostiche per il rilevamento di infezione da Neisseria Gonorrhoeae da campioni biologici
@@ -1223,8 +1107,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lara.pisani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + l'Efficacia della Pronazione nel Paziente con polmonite da COVID-19
@@ -1259,8 +1141,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/irene.prediletto)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Follow-up a lungo termine dei pazienti con insufficienza respiratoria da COVID-19: lo studio Follow the Covid.
@@ -1272,8 +1152,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/livio.presutti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Complicanze della chirurgia parotidea per tumori benigni: analisi retrospettiva di un singolo centro su 268 casi e confronto con la letteratura
@@ -1300,8 +1178,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/p.russo)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + La soddisfazione dei pazienti nell'Unità Operativa di Radioterapia: studio empirico sul sistema Smile-In
@@ -1344,8 +1220,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/aurelia.santoro)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Saggio immunoenzimatico per la determinazione dei livelli circolanti di sestrina 2 (SESN2) in persone anziane a rischio metabolico sottoposti ad intervento nutrizionale ed in persone sane di diversa età.
@@ -1356,8 +1230,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/claudia.sassi3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Scuola di Specializzazione
      + Pattern morfologici in risonanza magnetica cardiaca della cardiomiopatia aritmogena del ventricolo sinistro: ruolo diagnostico e potenziale valore predittivo di aritmie maggiori
@@ -1366,8 +1238,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/alessand.scagliarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Approccio interdisciplinare alla diagnostica delle zoonosi cutanee
@@ -1385,8 +1255,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/costantino.schiavi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Caratteristiche cliniche ed outcomes della chirurgia per lo strabismo successiva alla decompressione orbitaria in pazienti affetti da Oftalmopatia tiroidea
@@ -1449,8 +1317,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giovanni.tallini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Carcinoma sieroso di alto grado tubo-ovarico: analisi integrata morfologica, immunoistochimica, molecolare e valutazione della risposta patologica alla chemioterapia neoadiuvante.
@@ -1509,8 +1375,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/piera.versura)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sviluppo e validazione di un metodo in elettroforesi capillare su microchip per l'estrazione e quantificazione del contenuto proteico lacrimale mediante Shirmer Strips
@@ -1527,8 +1391,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/e.zamagni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + Impatto prognostico di criteri standardizzati di valutazione della minima malattia residua in fdg pet/ct e complementarità con le metodiche midollari in pazienti con mieloma multiplo di nuova diagnosi
@@ -1538,8 +1400,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/pierluigi.zinzani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale a ciclo unico
      + CAR T-cells in Real Life - Esperienza dell'Istituto L. e A. Seràgnoli di Bologna

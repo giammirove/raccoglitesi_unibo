@@ -45,8 +45,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/f.basile)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + A step further toward the application of layered double hydroxides in Sustainable Catalysis: from artificial photosynthesis to wastewater treatment
@@ -67,8 +65,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/tiziana.benelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Impianto di produzione gomma polibutadienica
@@ -82,8 +78,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/patricia.benito3)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + L'intonaco macroporoso come soluzione al problema dell'umidità muraria. Effetto di diversi additivi aeranti sul prodotto RisanaFacile.
@@ -122,8 +116,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/luca.bernardi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio dell'attività ed enantioselettività di catalizzatori a base di alginati in reazioni di Friedel-Crafts
@@ -171,8 +163,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/daniele.caretti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sintesi e caratterizzazione di materiali nanostrutturati per la rimozione di arsenico dalle acque
@@ -195,8 +185,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.cassani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Synthesis, Characterisation and Application of new Cu-Based Metal-Organic Frameworks (MOFs)
@@ -205,8 +193,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.cavani)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Investigation of the ketonization reaction of renewable acids and esters
@@ -217,8 +203,6 @@
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/cristiana.cesari2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Sintesi e studio dell'attività catalitica, in reazionidi idrogenazione e trasferimento di idrogeno, dicluster carbonilici idrurici di Rutenio e lridio
@@ -233,8 +217,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/luca.ciacci5)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Electrodialytic recovery of tungsten and cobalt from tungsten carbide scrap
@@ -243,8 +225,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/mauro.comesfranchini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Click ene di tiolo su terpeni: potenziali applicazioni in stampa 3d
@@ -284,8 +264,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/nikolaos.dimitratos)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Application of noble metal nanoparticles for the 4-nitrophenol reduction reaction
@@ -301,8 +279,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/cristina.femoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ottimizzazione della composizione di rivestimenti vetrosi e valutazione delle loro caratteristiche chimico-fisiche per applicazioni nell’industria ceramica
@@ -317,8 +293,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/mariafrancesca.fochi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Derivati ciclopropanici donor acceptor: sintesi e reattività
@@ -335,8 +309,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giuseppe.fornasari)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio di catalizzatori Ni-Ru per la reazione di steam-dry reforming del biogas
@@ -349,8 +321,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/marco.garavelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Machine Learning Approach for Lowest Transition State Research of High Number Degrees of Freedom Homogeneous Catalysts
@@ -361,8 +331,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/marco.giorgetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + Optimization and ex-situ characterization of MnHCF electrodes for ZIBs
@@ -372,8 +340,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/loris.giorgini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sintesi di nanoparticelle di polidopamina
@@ -387,8 +353,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/isacco.gualandi2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Approccio chemiometrico per il design di catalizzatori a base di idrossidi per l'evoluzione di ossigeno
@@ -398,8 +362,6 @@
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/maria.iapalucci)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi dei contaminanti presenti in diverse farine commerciali di vari cereali mediante ICP-MS QQQ
@@ -410,8 +372,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/massimiliano.lanzi)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratteristiche, funzionalità e impatto ambientale di pannelli sandwich con anima isolante polimerica e minerale
@@ -423,8 +383,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andreas.lesch)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di elettrodi, a base di iridio, stampati a getto d'inchiostro per il rilevamento del pH
@@ -439,8 +397,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/michele.mancinelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + sintesi e caratterizzazione spettroscopica di coloranti azoici
@@ -456,8 +412,6 @@
 ###### Ricercatrice confermata
 [Sito Web](https://www.unibo.it/sitoweb/emanuela.marotta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + fare "economia" in sintesi organica: analisi di un processo di sintesi
@@ -466,8 +420,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.mazzanti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Sintesi di composti aril boro 1,8-diamminonaftaleni e studio dell'asse di chiralità B-Carile
@@ -478,8 +430,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/laura.mazzocchetti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Confronto di schiume a base di PMI per applicazioni in strutture sandwich
@@ -498,8 +448,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/rita.mazzoni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di rifiuti fluorurati e studio della sintesi di fluoborati
@@ -575,8 +523,6 @@
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabrizio.passarini)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Caratterizzazione di costituenti inorganici non metallici nelle acque di scarico
@@ -628,8 +574,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/i.rivalta)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + studio computazionale DFT e TD-DFT dei dimeri della Rodamina-B
@@ -640,8 +584,6 @@
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.salatelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Ottimizzazione del processo industriale di sintesi di HALS
@@ -662,8 +604,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/letizia.sambri)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea Magistrale
      + 4-Fenil-1,2,3-triazoli come versatili leganti ciclometallanti in complessi luminescenti di Ir(III)
@@ -675,8 +615,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/erika.scavetta2)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Analisi e proprietà delle suole in gomma vulcanizzata
@@ -685,8 +623,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/leonardo.setti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Emulsioni naturali per ricombinazione di frazioni da Punica Granatum
@@ -700,8 +636,6 @@
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/stefano.stagni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Copolimeri a base di complessi ciclometallati di Ir(III): sintesi e preliminare studio applicativo
@@ -711,8 +645,6 @@
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/tommaso.tabanelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio dell’attività catalitica di ossidi di zirconio nella riduzione di derivati dell’acido levulinico tramite H-transfer con alcoli in fase vapore
@@ -727,8 +659,6 @@
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/filippo.tamassia)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Lo spettro vibro-rotazionale ad alta risoluzione di HC3N nella zona del lontano infrarosso.Analisi delle bande ν4←ν6, ν4+ν7←ν6+ν7, 2ν7←GS
@@ -737,8 +667,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.tarroni)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + calcolo del global warming potential di idrofluoroolefinemediante metodi ab initio
@@ -750,8 +678,6 @@
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/domenica.tonelli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio di biosensori basati sull'enzima fosfatasi alcalina
@@ -763,8 +689,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/maurizio.toselli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Le batterie a ioni sodio: Recenti sviluppi e confronto con le batterie a ioni litio.
@@ -790,8 +714,6 @@
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/elisabetta.venuti)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio dei co-cristalli di interesse farmaceutico pirimetamina /caffeina mediante spettroscopia Raman e IR
@@ -825,8 +747,6 @@
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/sergio.zappoli)
  * Tesi proposte
-   - Tutte
-     + 
  * Tesi assegnate
    - Tesi di Laurea
      + Studio e analisi sui fertilizzanti chimici

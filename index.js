@@ -72,7 +72,7 @@ async function getTesi(docente_url) {
     let proposte = dom.querySelector(".inner-text");
     if (proposte) {
       let text = proposte.innerHTML.trim();
-      tesi[0].tesi.push({ titolo: "Tutte", tesi: [text] });
+      if (text != "") tesi[0].tesi.push({ titolo: "Tutte", tesi: [text] });
     }
 
     let liste = dom.querySelectorAll(".report-list");
