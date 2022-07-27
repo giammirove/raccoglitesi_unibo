@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Ingegneria dell'Energia elettrica e dell'Informazione "Guglielmo Marconi" - DEI
 #### Andrea Acquaviva
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/andrea.acquaviva)
@@ -51,6 +51,8 @@
      + <p>Si faccia riferimento alla pagina in lingua inglese.</p>
  * Tesi assegnate
    - Tesi di Laurea
+     + Implementazione di HMI per un simulatore V2X/ADAS con hardware in the loop
+     + L’IoT e lo stato dell'implementazione di LoRa in Italia
      + La Mobilità del Futuro: Casi d'Uso di Guida Connessa
      + Sicurezza informatica nei veicoli connessi
      + Sicurezza Informatica nelle Reti di Telecomunicazioni 6G

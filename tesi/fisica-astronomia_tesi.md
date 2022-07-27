@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Fisica e Astronomia “Augusto Righi” - DIFA
 #### Andrea Alici
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/andrea.alici3)
@@ -410,7 +410,7 @@
      + Proprietà generali dei pianeti del Sistema Solare e ricerca dei pianeti esterni
      + Proprietà generali dei pianeti del Sistema Solare e ricerca di pianeti esterni
      + Righe spettrali: formazione, shift, allargamento
-     + Scala delle distanze in astrofisica
+     + Scala delle Distanze in Astrofisica
      + Struttura e cinematica della Via Lattea
      + Telescopi ottici, radio, X: principi e differenze
      + Teorema del Viriale e applicazioni astrofisiche

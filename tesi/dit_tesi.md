@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Interpretazione e Traduzione - DIT
 #### Ahmad Addous
 ###### Ricercatore confermato
 [Sito Web](https://www.unibo.it/sitoweb/ahmad.addous)

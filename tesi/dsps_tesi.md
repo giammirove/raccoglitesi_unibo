@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze politiche e sociali - SPS
 #### Michele Alacevich
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/michele.alacevich)

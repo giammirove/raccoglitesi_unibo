@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Delle Arti - DAR
 #### Giulia Allegrini
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/giulia.allegrini2)

@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze mediche veterinarie - DIMEVET
 #### Pier Attilio Accorsi
 ###### Professore associato confermato
 [Sito Web](https://www.unibo.it/sitoweb/pierattilio.accorsi)

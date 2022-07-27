@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Filosofia e Comunicazione - FILCOM
 #### Giorgia Aiello
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giorgia.aiello2)

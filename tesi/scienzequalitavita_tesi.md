@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze per la Qualità della Vita - QUVI
 #### Giorgio Aicardi
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giorgio.aicardi)

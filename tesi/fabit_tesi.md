@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Farmacia e Biotecnologie - FaBiT
 #### Angela Abruzzo
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/angela.abruzzo2)

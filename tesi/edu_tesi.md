@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze dell'Educazione "Giovanni Maria Bertin" - EDU
 #### Anna Rita Addessi
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/annarita.addessi)

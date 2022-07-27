@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze statistiche "Paolo Fortunati" - STAT
 #### Patrizia Agati
 ###### Professoressa associata confermata
 [Sito Web](https://www.unibo.it/sitoweb/patrizia.agati)
@@ -1018,6 +1018,7 @@
      + Long Short-Term Memory in ESG Portfolio Allocation
      + Manager's Portfolio Problem under High-Water Mark Contract
      + Quanto Option: a Financial Product to hedge Climate Risk
+     + Rating ESG e impatto sulle misure di rischio dei titoli azionari
      + Research on Investment Evaluation of 19 Yadi G1 Green Bond
      + Risk management in the energy market. Implementation of different hedging strategies in the framework of electricity trading
      + Wind derivatives: a multivariate modelling and hedging analysis on the Italian market
@@ -1103,8 +1104,10 @@
    - Tesi di Laurea Magistrale
      + Basi tecniche delle assicurazioni sulla salute.
      + Il Climate Change e la leadership del settore assicurativo tra sostenibilità finanziaria e gestione del rischio
+     + Il sistema previdenziale privato australiano
      + Il sistema previdenziale svizzero e il caso del frontaliere italiano
      + Le assicurazioni data-driven
+     + Le polizze Long Term Care del mercato italiano
      + L'industria assicurativa di Hong Kong.
 
 #### Luisa Stracqualursi

@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Storia Culture Civiltà - DiSCi
 #### Fernanda Alfieri
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/fernanda.alfieri2)

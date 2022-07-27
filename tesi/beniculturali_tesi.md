@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Beni culturali - DBC
 #### Emma Abate
 ###### Ricercatrice a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/emma.abate)

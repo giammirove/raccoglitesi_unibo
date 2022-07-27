@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze biomediche e neuromotorie - DIBINEM
 #### Giulio Agnetti
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/giulio.agnetti)

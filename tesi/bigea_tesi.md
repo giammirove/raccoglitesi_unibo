@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze biologiche, geologiche e ambientali - BiGeA
 #### Lorenzo Alibardi
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/lorenzo.alibardi)

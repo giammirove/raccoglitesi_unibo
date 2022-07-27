@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze aziendali - DiSA
 #### Fabio Guido Ulderico Ancarani
 ###### Professore ordinario
 [Sito Web](https://www.unibo.it/sitoweb/fabioguido.ancarani)
@@ -60,6 +60,7 @@
      + "Le B-Corps e le Società Benefit: dal quadro normativo all'applicazione organizzativa"
      + Inclusione scolastica e lavorativa dei disabili: idee, prospettive e sviluppo di un progetto innovativo
      + Modelli innovativi di sviluppo di impresa sociale, il caso Cavarei – T-Station Academy
+     + Sostenibilità aziendale e creazione di valore condiviso:un'analisi del settore della moda
      + The new era of Sustainable Finance after Covid-19 pandemic: an empirical analysis of the Italian market to define the driving forces fostering the Sustainable Equity Crowdfunding projects.
 
 #### Massimiliano Barbi
@@ -854,6 +855,9 @@
  * Tesi proposte
  * Tesi assegnate
    - Tesi di Laurea
+     + Analisi brevettuale delle startup nel settore delle auto a guida autonoma
+     + Analisi della brevettazione nel settore delle auto a guida autonoma
+     + Big Data Analytics: applicazioni in ambito aziendale e impatto sulle performance
      + Dal marketing tradizionale al marketing digitale: analisi di casi di studio nel settore automotive
      + Finanziamenti pubblici per l'innovazione: il ruolo dell'European Research Council nello sviluppo di nuovi brevetti
      + I brevetti come asset strategico: il caso delle tecnologie di riconoscimento facciale
@@ -861,14 +865,17 @@
      + Il Crowdfunding: metodo innovativo per il finanziamento delle startup innovative
      + Il Digital Marketing nel Settore Automotive: analisi del caso Ferrari
      + Le innovazioni nel settore automotive: guida autonoma e connected cars
+     + Le strategie di marketing basate sui social media: il caso Ducati
      + Le strategie di marketing basate sui social media: il caso Lamborghini
      + Lo sviluppo del Venture Capital in Italia
      + Mappatura e analisi di startup e pmi innovative in ambito blockchain
      + Metodi di finanziamento e strumenti di supporto per le startup: il caso degli Startup Studio
      + Metodi e strategie di valorizzazione dell'Intellectual Property nelle organizzazioni "patent minded"
      + Open innovation nel settore automotive e principali strategie di collaborazione
+     + Rebranding: valore del brand e trasformazione digitale
      + Startup e connected cars: analisi e riferimenti alla realtà italiana
      + Startup innovative e Venture Capital: analisi dei trend tecnologici e del finanziamento di Venture Capital nel settore food
+     + Strategie di marketing e social media: un'analisi del settore sportivo
      + Tecnologie digitali in ambito sanitario: potenzialità e vincoli nell'affrontare la pandemia COVID-19.
    - Tesi di Laurea Magistrale
      + Gli effetti della regolamentazione sul potenziale innovativo delle startup: un’analisi delle tecnologie di riconoscimento facciale
@@ -925,6 +932,7 @@
      + Le operazioni di Merger Leveraged Buyout: la valutazione d'impresa e le operazioni di due diligence
      + l'industria farmaceutica italiana: l'export che traina il settore
      + Maserati S.p.A.: un nuovo tentativo di rilancio.
+     + Università telematiche: dagli albori ai giorni nostri
 
 #### Rebecca Levy Orelli
 ###### Professoressa associata
@@ -962,7 +970,9 @@
      + Audience Development at Nordwestdeutsche Philharmonie
      + Fattori critici di successo dell’influencer marketing in Italia: il caso Flatmates
      + Gli effetti del Covid-19 sulla Sharing Economy.Il caso Airbnb.
+     + Intelligenza Artificiale nel Service Encounter: l'atteggiamento nei confronti dei chatbot
      + La gestione dei clienti tramite CRM: il caso Cesab Material Handling Europe
+     + L'analisi della Customer Satisfaction nei servizi alberghieri: il caso Litoraneo Suite Hotel di Rimini
      + L'evoluzione della sharing economy nel contesto italiano - il caso aziendale Cubbit srl
      + paid social media strategy for awareness and advocacy media communication campaigns: the case of africa-eu partnership in kenya and angola.
      + Ricostruzione dell’identità aziendale e definizione strategica del piano di marketing dell’azienda agricola sutto s.s.
@@ -1060,8 +1070,10 @@
      + La Transizione Ecologica: Il caso Tesla
    - Tesi di Laurea Magistrale
      + Food sharing: riduzione degli sprechi alimentari nelle aziende di ristorazione collettiva e commerciale italiane in relazione alle performance economiche.
+     + Impact investing - il ruolo delle banche italiane
      + La finanza socialmente responsabile e le strategie di Impact investing nel mercato obbligazionario: evoluzioni durante la pandemia e possibili scenari futuri
      + Quote di genere: un cambio di paradigma per raggiungere la parità
+     + sfdr e art.9: l’interpretazione dei fondi d’investimento distribuiti in italia a impatto sociale in assenza di una tassonomia dedicata
      + The impact of COVID-19 on the European capital markets: a Cluster Analysis approach
 
 #### Patrizia Petrolati
@@ -1239,6 +1251,7 @@
      + L'intervento degli operatori di private equity e il disinvestimento tramite quotazione in Borsa: un'analisi empirica delle venture backed IPO in Italia.
      + QUOTAZIONE IN BORSA, AZIONARIATO POPOLARE E PRIVATE EQUITY NELLE SOCIETÀ CALCISTICHE PROFESSIONISTICHE Analisi delle modalità per ottenere ulteriori capitali
      + Special Purpose Acquisition Companies:Un’ analisi empirica del mercato italiano delle SPAC
+     + Una strada alternativa all’IPO, la SPAC: un’analisi empirica in Europa e Stati Uniti
 
 #### Enrico Supino
 ###### Foto  non disponibile

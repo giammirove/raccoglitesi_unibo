@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Ingegneria industriale - DIN
 #### Riccardo Accorsi
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/riccardo.accorsi2)
@@ -762,6 +762,7 @@
  * Tesi assegnate
    - Tesi di Laurea
      + Impianti watermist: Tecnologia e Progettazione
+     + Nuovi modelli di gestione del magazzino in una azienda operante nel settore impiantistico meccanico
    - Tesi di Laurea Magistrale
      + Analisi dell'esposizione e degli effetti del rumore sui lavoratori agricoli
      + Analisi di fattibilità di un impianto automatico per l'assemblaggio di stampati in materiale plastico

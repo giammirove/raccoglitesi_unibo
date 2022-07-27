@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Lingue, Letterature e Culture moderne - LILEC
 #### Silvia Albertazzi
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/silvia.albertazzi)

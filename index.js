@@ -3,8 +3,10 @@ const reader = require("readline-sync");
 const path = require("path");
 const fetch = require("node-fetch");
 const jsdom = require("jsdom");
+const { exit } = require("process");
 const { JSDOM } = jsdom;
 
+// Lista statica, un po' inutile adesso ma chissa' magari serve
 const DIPARTIMENTI = [
   "da",
   "beniculturali",
@@ -39,6 +41,8 @@ const DIPARTIMENTI = [
   // "sde", e' particolare questo
   "disci",
 ];
+const DIPARTIMENTI_URL =
+  "https://www.unibo.it/it/ateneo/sedi-e-strutture/dipartimenti";
 const LISTA_DOCENTI_URL =
   "https://{{dip}}.unibo.it/it/dipartimento/persone/docenti-e-ricercatori?pagenumber=1&pagesize=100000000&order=asc&sort=Cognome&";
 const TAB_TESI_SUFFIX = "/didattica?tab=tesi";
@@ -57,6 +61,27 @@ function printError(str) {
 
 function getTesiURL(base) {
   return base + TAB_TESI_SUFFIX;
+}
+
+// !!! sde ha la pagina per i docenti diversa , da evitare
+async function getDipartimenti() {
+  try {
+    let res = await fetch(DIPARTIMENTI_URL);
+    let source = await res.text();
+    const dom = new JSDOM(source).window.document;
+    let text = dom.querySelector(".description-text");
+    let links = text.querySelectorAll("a");
+    let dipartimenti = [];
+    for (let i = 0; i < links.length; i++) {
+      let url = links[i].href;
+      let codice = /http[s]:\/\/(.*?)\.unibo/gm.exec(url)[1].toLowerCase();
+      let nome = links[i].textContent;
+      dipartimenti.push({ nome, codice, url });
+    }
+    return dipartimenti;
+  } catch (e) {
+    throw e;
+  }
 }
 
 async function getTesi(docente_url) {
@@ -94,7 +119,7 @@ async function getTesi(docente_url) {
 
 async function getDocenti(dip) {
   try {
-    let res = await fetch(LISTA_DOCENTI_URL.replace("{{dip}}", dip));
+    let res = await fetch(LISTA_DOCENTI_URL.replace("{{dip}}", dip.codice));
     let source = await res.text();
     const dom = new JSDOM(source).window.document;
     let cards_list = dom.querySelector(".picture-cards");
@@ -114,8 +139,8 @@ async function getDocenti(dip) {
   }
 }
 
-async function generateMarkDown(docenti) {
-  let s = "## Tesi DISI\n";
+async function generateMarkDown(dip, docenti) {
+  let s = `## Tesi ${dip.nome}\n`;
   for (let i = 0; i < docenti.length; i++) {
     s += `#### ${docenti[i].nome}\n###### ${docenti[i].ruolo}\n[Sito Web](${docenti[i].url})\n`;
     for (let j = 0; j < docenti[i].tesi.length; j++) {
@@ -135,20 +160,43 @@ async function generateMarkDown(docenti) {
 }
 
 async function saveMarkDown(dip, md) {
-  let p = path.join(__dirname, path.join(DIR_NAME, `${dip}_${FILE_NAME}`));
+  let p = path.join(
+    __dirname,
+    path.join(DIR_NAME, `${dip.codice}_${FILE_NAME}`)
+  );
   fs.writeFileSync(p, md);
   return p;
 }
 
-async function test() {
-  for (let i = 0; i < DIPARTIMENTI.length; i++) {
-    let dip = DIPARTIMENTI[i];
-    printLog("Raccolgo docenti e tesi");
-    let docenti = await getDocenti(dip);
+function mostraListaDipartimenti(dipartimenti) {
+  printLog(
+    "Questa e' la lista dei dipartimenti da cui pui scegliere!\n    Inserire il campo `Codice`!"
+  );
+  for (let i = 0; i < dipartimenti.length; i++) {
+    printLog(
+      `Nome :\n\t${dipartimenti[i].nome}"\n    Codice :\n\t${dipartimenti[i].codice}`
+    );
+  }
+}
+
+async function scaricaPerDipartimento(dipartimento) {
+  try {
+    printLog(`Raccolgo docenti e tesi da\n\t\t${dipartimento.nome}`);
+    let docenti = await getDocenti(dipartimento);
     printLog("Genero il file markdown");
-    let md = await generateMarkDown(docenti);
-    let p = await saveMarkDown(dip, md);
+    let md = await generateMarkDown(dipartimento, docenti);
+    let p = await saveMarkDown(dipartimento, md);
     printLog(`File generato in \n\t${p}`);
+  } catch (e) {
+    throw e;
+  }
+}
+
+async function test() {
+  let dipartimenti = await getDipartimenti();
+  for (let i = 0; i < dipartimenti.length; i++) {
+    let dip = dipartimenti[i];
+    scaricaPerDipartimento(dip);
   }
 }
 
@@ -161,17 +209,26 @@ async function main() {
       "Guardare il dominio del dipartimanto non il codice\n\tEsempio.\n\t\tDIFA -> fisica-astronomia\n\t\tCHIMIND -> chimica-industriale"
     );
 
+    printLog("Raccolgo tutti i dipartimenti");
+    let dipartimenti = await getDipartimenti();
+
     let dip = reader.question("[?] Sigla dipartimento : ");
-    printLog("Raccolgo docenti e tesi");
-    let docenti = await getDocenti(dip);
-    printLog("Genero il file markdown");
-    let md = await generateMarkDown(docenti);
-    let p = await saveMarkDown(dip, md);
-    printLog(`File generato in \n\t${p}`);
+
+    let index = -1;
+    for (let i = 0; i < dipartimenti.length; i++)
+      if (dipartimenti[i].codice === dip) index = i;
+
+    if (index === -1) {
+      printError("Dipartimento non trovato");
+      mostraListaDipartimenti(dipartimenti);
+      return;
+    }
+
+    scaricaPerDipartimento(dipartimenti[index]);
   } catch (e) {
     printError("Qualcosa e' andato storto :(");
   }
 }
 
-// main();
-test();
+main();
+// test();

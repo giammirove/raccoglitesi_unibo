@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Chimica industriale "Toso Montanari" - CHIMIND
 #### Federico Alberini
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/federico.alberini)

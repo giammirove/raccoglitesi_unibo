@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze economiche - DSE
 #### Elettra Agliardi
 ###### Professoressa ordinaria
 [Sito Web](https://www.unibo.it/sitoweb/elettra.agliardi)
@@ -708,6 +708,7 @@
      + I brevetti nell'industria farmaceutica: il caso SARS-CoV-2
      + Il contrasto al cambiamento climatico: sfide e strategie di intervento nelle società resilienti
      + Il Digital Market Act: la proposta europea per governare l'attività delle grandi piattaforme digitali
+     + Il fenomeno dei minori stranieri non accompagnati e la loro presa in carico all'interno del Sistema di Accoglienze e Integrazione
      + Il modello principale-agente, il welfare aziendale e lo smart working: come le necessità dei dipendenti influenzano l'azienda.
      + Il settore farmaceutico quale vettore di crescita e di benessere sociale
      + La deterrenza del crimine: un'analisi della letteratura empirica
@@ -933,6 +934,7 @@
  * Tesi proposte
  * Tesi assegnate
    - Tesi di Laurea Magistrale
+     + A Machine Learning Approach to the Credit Scoring of Italian Firms
      + Algorithmic collusion with imperfect monitoring
      + Conditional Generative Adversarial Networks for Expected Shortfall Estimation
      + Il VaR: tecniche di calcolo standard e avanzate
@@ -1142,6 +1144,7 @@
      + “Diversità e inclusione nella medicina secondo una prospettiva di genere. Impatto economico e sociale delle politiche adottate negli ultimi anni in Italia”
      + Il Budget di Salute: un'analisi dei suoi elementi distintivi, tra pratiche di gestione innovative e community welfare.
      + il sistema sanitario calabrese: storia, evoluzione e prospettive
+     + La Cooperazione sanitaria internazionale e il ruolo di Kasomay in Senegal.
    - Tesi di Scuola di Specializzazione
      + Il bilancio dello stato
      + Il sistema pensionistico italiano: ieri, oggi…e domani?

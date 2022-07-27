@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Psicologia "Renzo Canestrari" - PSI
 #### Francesca Agostini
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/f.agostini)

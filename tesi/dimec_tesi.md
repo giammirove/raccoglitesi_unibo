@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze mediche e chirurgiche - DIMEC
 #### Arianna Aceti
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/arianna.aceti2)
@@ -172,12 +172,12 @@
      + Utilizzo di statine nella patologia da Sars-CoV-2: evoluzione clinica e mortalità
      + validazione del covhos score nel predire in pronto soccorso l’insufficienza respiratoria severa e la mortalitá a 30 giorni in pazienti con covid-19
      + Valutazione dei parametri ecocardiografici in pazienti con pregressa infezione da SARS-CoV-2
+   - Tesi di Laurea Specialistica a ciclo unico
+     + Ipertransaminasemia nell'infezione da SARS-CoV-2 come predittore di gravità clinica all'esordio
    - Tesi di Scuola di Specializzazione
      + interazione cuore-mente: correlazione tra malattie psichiatriche ed impiego di farmaci psicoattivi ed aumentato rischio cardiovascolare in una coorte di soggetti adulti: dati dal brisighella heart study e da casistica ambulatoriale
      + Modulazione farmacologica del sistema renina-angiotensina e outcomes nei pazienti ospedalizzati per polmonite interstiziale SARS-CoV2: studio di coorte
      + Utilità dell'heart score con troponine ad alta sensibilità nel rule out precoce dei pazienti con dolore toracico: uno studio prospettico
-   - Tesi di Laurea Specialistica a ciclo unico
-     + Ipertransaminasemia nell'infezione da SARS-CoV-2 come predittore di gravità clinica all'esordio
 
 #### Alessandro Bovicelli
 ###### Foto  non disponibile

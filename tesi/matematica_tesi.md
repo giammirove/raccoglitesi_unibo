@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Matematica - MAT
 #### Nicola Abatangelo
 ###### Ricercatore a tempo determinato tipo b) (senior)
 [Sito Web](https://www.unibo.it/sitoweb/nicola.abatangelo)

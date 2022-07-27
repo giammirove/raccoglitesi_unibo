@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze giuridiche - DSG
 #### Nicola Aicardi
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/nicola.aicardi)

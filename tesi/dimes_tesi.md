@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Medicina specialistica, diagnostica e sperimentale - DIMES
 #### Provvidenza Maria Abruzzo
 ###### Foto  non disponibile
 [Sito Web](https://www.unibo.it/sitoweb/provvidenza.abruzzo2)
@@ -467,10 +467,10 @@
    - Tesi di Laurea Magistrale a ciclo unico
      + Fattori predittivi del volume di malattia alla PET/TC con 68Ga-PSMA-11 e analisi della detection rate di malattia ossea nel paziente con carcinoma prostatico resistente alla castrazione
      + Radioembolizzazione epatica con microsfere di Yttrio-90: valutazione della concordanza interoperatore nel calcolo dello shunt epato-polmonare nella SPECT/TC con macroaggregati di albumina marcati con Tecnezio-99 e suo confronto con la PET/TC post-terapia
-   - Tesi di Scuola di Specializzazione
-     + 2-[18F]FDG PET/CT in patients with B-cell Non-Hodgkin Lymphoma treated with CAR T-cell therapy: a prospective study on its predictive and prognostic value
    - Tesi di Laurea Specialistica a ciclo unico
      + Flow-Chart diagnostica e Management Score per incidentalomi surrenalici: identificazione dei pazienti che necessitano di surrenalectomia
+   - Tesi di Scuola di Specializzazione
+     + 2-[18F]FDG PET/CT in patients with B-cell Non-Hodgkin Lymphoma treated with CAR T-cell therapy: a prospective study on its predictive and prognostic value
 
 #### Manuela Ferracin
 ###### Professoressa associata

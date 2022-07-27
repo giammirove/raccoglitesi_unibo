@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Chimica "Giacomo Ciamician" - CHIM
 #### Angela Acocella
 ###### Ricercatrice a tempo determinato tipo a) (junior)
 [Sito Web](https://www.unibo.it/sitoweb/angela.acocella3)

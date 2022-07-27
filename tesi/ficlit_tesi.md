@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Filologia classica e Italianistica - FICLIT
 #### Giovanna Alvoni
 ###### Professoressa associata
 [Sito Web](https://www.unibo.it/sitoweb/giovanna.alvoni)

@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Architettura - DA
 #### Matteo Agnoletto
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/matteo.agnoletto)

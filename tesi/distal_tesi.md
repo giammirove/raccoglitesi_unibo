@@ -1,4 +1,4 @@
-## Tesi DISI
+## Tesi Scienze e Tecnologie agro-alimentari - DISTAL
 #### Cesare Accinelli
 ###### Professore associato
 [Sito Web](https://www.unibo.it/sitoweb/cesare.accinelli)
